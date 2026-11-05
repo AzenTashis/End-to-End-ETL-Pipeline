@@ -1,0 +1,41 @@
+# Postgres (target warehouse) + Airflow (standalone) in one command:
+#   docker compose up -d
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: ${DB_USER:-etl_user}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-etl_password}
+      POSTGRES_DB: ${DB_NAME:-etl_db}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-etl_user} -d ${DB_NAME:-etl_db}"]
+      interval: 5s
+      retries: 10
+
+  airflow:
+    image: apache/airflow:2.9.3-python3.11
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/project/dags
+      PYTHONPATH: /opt/airflow/project
+      _PIP_ADDITIONAL_REQUIREMENTS: "python-dotenv requests"
+      DB_HOST: postgres
+      DB_PORT: "5432"
+      DB_USER: ${DB_USER:-etl_user}
+      DB_PASSWORD: ${DB_PASSWORD:-etl_password}
+      DB_NAME: ${DB_NAME:-etl_db}
+    volumes:
+      - .:/opt/airflow/project
+    ports:
+      - "8080:8080"
+    command: standalone   # admin password is printed in `docker compose logs airflow`
+
+volumes:
+  pgdata:

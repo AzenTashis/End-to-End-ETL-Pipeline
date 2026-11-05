@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+airflow/
+logs/
+.pytest_cache/
+data/processed/*
+!data/processed/.gitkeep
+.idea/
+.vscode/
