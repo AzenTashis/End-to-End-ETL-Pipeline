@@ -1,0 +1,6 @@
+# Extra libraries for the ETL code inside the Airflow containers.
+# SQLAlchemy and psycopg2 are already part of the official Airflow image,
+# so they are NOT listed here (pinning them could break Airflow).
+pandas>=2.2,<3.1
+numpy>=1.26,<3
+requests>=2.31

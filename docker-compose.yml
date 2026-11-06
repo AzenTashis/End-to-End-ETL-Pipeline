@@ -1,41 +1,144 @@
-# Postgres (target warehouse) + Airflow (standalone) in one command:
-#   docker compose up -d
+# =============================================================================
+# Local development stack: PostgreSQL + Apache Airflow 3 (LocalExecutor)
+#
+# Start everything:   docker compose up -d --build
+# Stop everything:    docker compose down
+# Delete all data:    docker compose down -v     (removes the database volume!)
+#
+# Services
+#   postgres               one PostgreSQL server with two databases:
+#                            airflow   -> Airflow's own bookkeeping
+#                            sales_dw  -> our business data
+#   airflow-init           runs once: prepares Airflow's database, creates the admin user
+#   airflow-apiserver      the web UI + API          -> http://localhost:8080
+#   airflow-scheduler      decides WHEN tasks run, and runs them (LocalExecutor)
+#   airflow-dag-processor  reads the files in dags/ and finds DAGs
+#
+# This is a simplified version of the official Airflow docker-compose file:
+# no Celery, no Redis, no extra workers, so it fits on a laptop.
+# All passwords come from the .env file next to this one.
+# =============================================================================
+
+x-airflow-common: &airflow-common
+  build:
+    context: ./docker
+    args:
+      AIRFLOW_VERSION: ${AIRFLOW_VERSION:-3.3.1}
+  image: etl-sales-airflow:${AIRFLOW_VERSION:-3.3.1}
+  environment: &airflow-common-env
+    AIRFLOW__CORE__EXECUTOR: LocalExecutor
+    AIRFLOW__CORE__AUTH_MANAGER: airflow.providers.fab.auth_manager.fab_auth_manager.FabAuthManager
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER}:${POSTGRES_PASSWORD}@postgres:5432/airflow
+    AIRFLOW__CORE__FERNET_KEY: ${AIRFLOW_FERNET_KEY:-}
+    AIRFLOW__CORE__DAGS_FOLDER: /opt/etl/dags
+    AIRFLOW__CORE__DAGS_ARE_PAUSED_AT_CREATION: "true"
+    AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+    AIRFLOW__CORE__DEFAULT_TIMEZONE: Asia/Kolkata
+    AIRFLOW__CORE__EXECUTION_API_SERVER_URL: http://airflow-apiserver:8080/execution/
+    AIRFLOW__API_AUTH__JWT_SECRET: ${AIRFLOW_JWT_SECRET}
+    AIRFLOW__API__SECRET_KEY: ${AIRFLOW_API_SECRET_KEY}
+    AIRFLOW__SCHEDULER__ENABLE_HEALTH_CHECK: "true"
+    # ---- settings for OUR pipeline code running inside Airflow ----
+    ETL_PROJECT_ROOT: /opt/etl
+    ETL_DATA_ROOT: /opt/etl
+    PYTHONPATH: /opt/etl
+    SALES_DB_HOST: postgres            # inside Docker, the database is reached by service name
+    SALES_DB_PORT: "5432"
+    SALES_DB_NAME: ${SALES_DB_NAME:-sales_dw}
+    SALES_DB_USER: ${POSTGRES_USER}
+    SALES_DB_PASSWORD: ${POSTGRES_PASSWORD}
+    API_BASE_URL: ${API_BASE_URL_DOCKER:-https://dummyjson.com}
+    LOG_LEVEL: ${LOG_LEVEL:-INFO}
+  volumes:
+    - ./:/opt/etl                       # the whole project (dags, src, data, reports)
+    - ./logs/airflow:/opt/airflow/logs  # Airflow task logs, visible on Windows too
+  user: "${AIRFLOW_UID:-50000}:0"
+  depends_on: &airflow-common-depends-on
+    postgres:
+      condition: service_healthy
+
 services:
   postgres:
-    image: postgres:15
+    image: postgres:16
     environment:
-      POSTGRES_USER: ${DB_USER:-etl_user}
-      POSTGRES_PASSWORD: ${DB_PASSWORD:-etl_password}
-      POSTGRES_DB: ${DB_NAME:-etl_db}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: airflow
     ports:
-      - "5432:5432"
+      - "${POSTGRES_HOST_PORT:-5432}:5432"   # lets Windows tools (pgAdmin, Python) connect
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - postgres-data:/var/lib/postgresql/data
+      - ./docker/postgres/init:/docker-entrypoint-initdb.d:ro
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-etl_user} -d ${DB_NAME:-etl_db}"]
-      interval: 5s
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d airflow"]
+      interval: 10s
+      timeout: 5s
       retries: 10
+    restart: unless-stopped
 
-  airflow:
-    image: apache/airflow:2.9.3-python3.11
-    depends_on:
-      postgres:
-        condition: service_healthy
+  airflow-init:
+    <<: *airflow-common
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        mkdir -p /opt/airflow/logs
+        chown -R "${AIRFLOW_UID:-50000}:0" /opt/airflow/logs
+        exec /entrypoint airflow version
     environment:
-      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
-      AIRFLOW__CORE__DAGS_FOLDER: /opt/airflow/project/dags
-      PYTHONPATH: /opt/airflow/project
-      _PIP_ADDITIONAL_REQUIREMENTS: "python-dotenv requests"
-      DB_HOST: postgres
-      DB_PORT: "5432"
-      DB_USER: ${DB_USER:-etl_user}
-      DB_PASSWORD: ${DB_PASSWORD:-etl_password}
-      DB_NAME: ${DB_NAME:-etl_db}
-    volumes:
-      - .:/opt/airflow/project
+      <<: *airflow-common-env
+      _AIRFLOW_DB_MIGRATE: "true"
+      _AIRFLOW_WWW_USER_CREATE: "true"
+      _AIRFLOW_WWW_USER_USERNAME: ${AIRFLOW_ADMIN_USER:-admin}
+      _AIRFLOW_WWW_USER_PASSWORD: ${AIRFLOW_ADMIN_PASSWORD}
+    user: "0:0"
+
+  airflow-apiserver:
+    <<: *airflow-common
+    command: api-server
     ports:
       - "8080:8080"
-    command: standalone   # admin password is printed in `docker compose logs airflow`
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8080/api/v2/version"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    restart: unless-stopped
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-scheduler:
+    <<: *airflow-common
+    command: scheduler
+    healthcheck:
+      test: ["CMD", "curl", "--fail", "http://localhost:8974/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    restart: unless-stopped
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
+
+  airflow-dag-processor:
+    <<: *airflow-common
+    command: dag-processor
+    healthcheck:
+      test: ["CMD-SHELL", 'airflow jobs check --job-type DagProcessorJob --hostname "$${HOSTNAME}"']
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    restart: unless-stopped
+    depends_on:
+      <<: *airflow-common-depends-on
+      airflow-init:
+        condition: service_completed_successfully
 
 volumes:
-  pgdata:
+  postgres-data:

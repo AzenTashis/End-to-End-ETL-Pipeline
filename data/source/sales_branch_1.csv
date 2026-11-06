@@ -1,0 +1,2051 @@
+transaction_id,transaction_date,customer_id,product_id,product_name,category,quantity,unit_price,discount,region,payment_method
+T01363,12-01-2026,C0192,7,Chanel Coco Noir Eau De,perfume,3,11098.98,0.1,EAST,Upi
+T00228,05-12-2025,C0405,32,Milk,grocery,1,294.84,0.15,east,paytm wallet
+T00542,19-11-2025,C0273,29,,Grocery ,2,348.45,0,E,gpay
+T00244,28-07-2026,C0114,2,EYESHADOW PALETTE WITH MIRROR,beauty,1,1727.87,0.2,east ,UPI
+T00023,05-10-2025,C0303,21,Cucumber,grocery,2,127.21,0,east,phonepe
+T01263,08-02-2026,C0224,22,Dog Food,GROCERIES,3,906.75,0,E,UPI
+T01823,15-09-2026,C0350,26,GREEN CHILI PEPPER,Groceries,2,85.15,0,EAST,CASH
+T01098,08-11-2025,C0121,25,  Green Bell Pepper,Groceries,3,108.11,0,east ,Debit Card
+T01858,03-05-2026,C0161,7,Chanel Coco Noir Eau De,fragrances,1,11322.75,0.05,EAST,UPI
+T00055,10-01-2026,C0442,10, Gucci Bloom Eau de   ,  Fragrances,5,6622.73,0.15,EAST,debit card
+T00977,29-01-2026,C0409,27,Honey Jar,grocery,2,589.42,0,east,Upi
+T00535,12-04-2025,C0384,40,Strawberry,Grocery ,2,334.91,0.05,E, upi   
+T00650,17-04-2026,C0269,21,  Cucumber,Grocery ,two,126.92,0.15,EAST,cash
+T01781,28-09-2025,C0284,39,Soft Drinks,Grocery ,2,169.62,0.2, east   ,phonepe
+T01000,12-02-2026,C0214,1,Essence Mascara Lash Princess,  beauty,0,824.15,0,E,CASH
+T00812,10-10-2026,C0120,2,Eyeshadow Palette with Mirror,BEAUTY,2,1748.26,0.2,east,cash
+T00522,06-10-2025,C0377,26,Green Chili Pepper,Grocery ,4,81.81,0,E,UPI
+T00855,21-04-2025,C0261,28,Ice Cream,groceries,7,459.02,0,East,wallet
+T01359,16-10-2026,C0278,39,Soft Drinks,Grocery ,2,166.02,0,E,CASH
+T00131,15-07-2026,C0047,28,Ice Cream,GROCERIES,1,463.68,0.2,Eastern,creditcard
+T01950,18-06-2026,C0475,24,Fish Steak,Grocery ,4,1281.43,0,east ,UPI
+T01072,28-05-2026,C0032,38,Rice,Groceries,2,519.23,0.1,EAST,UPI
+T01629,18-09-2026,C0212,29,Juice,Groceries,3,330.44,0,EAST,debitcard
+T00730,02 Aug 2025,C0452,35,Potatoes,groceries,5,194.49,0.05,E,debit card
+T01367,30-11-2025,C0195,22,Dog Food,grocery,1,926.71,0,  E   ,cod
+T00870,21 Aug 2025,C0187,20,Cooking Oil,GROCERIES,1,426.32,0.2,east ,U.P.I
+T00376,03-04-2025,C0462,9002,Bluetooth Speaker Mini,Electronics,3,1335.10,0,Eastern,credit card
+T00759,28-04-2025,,30,Kiwi,grocery,3,210.96,0,East,gpay
+T01168,25-01-2026,,35,Potatoes,Grocery ,5,193.41,0,EAST,U.P.I
+T00858,22-04-2025,C0116,26,Green Chili Pepper,Groceries,3,85.29,0,east,U.P.I
+T01723,23 Sep 2025,C0097,23,Eggs,Grocery ,1,253.96,0,E,DC
+T00573,06-11-2025,C0461,27,Honey Jar,  Groceries,3,577.64,0.15,east ,phonepe
+T00148,15-12-2025,C0051,38,Rice,grocery,2,517.86,0.2,EAST,NET BANKING
+T01557,13-02-2026,C0096,26,Green Chili Pepper,Groceries,1,84.70,0.05,Eastern,cash
+T01037,17-07-2026,C0098,4,Red Lipstick,beauty,1,1124.46,0,East,CC
+T00955,17-07-2025,,3,Powder Canister,beauty,3,1265.94,0.1,east,  cash 
+T01057,06-03-2026,C0469,38,Rice,grocery,2,494.79,0,EAST,CREDIT CARD
+T00736,01-09-2025,C0363,1,Essence Mascara Lash Princess,beauty,-3,861.24,0,Eastern,gpay
+T00101,06-12-2025,C0478,37,Red Onions,groceries,3,172.86,0,Eastern,Credit Card
+T00166,06-05-2026,C0265,39,soft drinks, grocery ,2,170.29,0, east ,Credit Card
+T01013,05-08-2026,C0477,27,Honey Jar,GROCERIES,two,590.16,0,Eastern,CC
+T01852,28-02-2026,C0122,3, Powder Canister ,makeup,1,1305.46,0.15,E,phonepe
+T00034,07-01-2026,C0292,39,Soft Drinks,Groceries,1,169.56,0.1,east ,creditcard
+T00028,31-10-2025,C0253,16,Apple,Groceries,2,173.61,0,east ,cod
+T00978,28-06-2026,C0418,1,Essence Mascara Lash Princess,BEAUTY,1,874.14,0,East,debit card
+T01733,21-06-2025,C0041,29,JUICE,Groceries,3,347.20,0.15,EAST, DC 
+T01993,22-04-2026,,39, Soft Drinks,  groceries   ,3,172.95,0,Eastern,gpay
+T01545,19-09-2025,C0355,23,Eggs, groceries ,2,250.74,0.2,E,Cash
+T01103,07-07-2025,C0197,31,  Lemon,grocery,1,68.71,0.1,Eastern,UPI
+T01434,28-11-2025,C0078,39,Soft Drinks,Groceries,3,167.86,0,Eastern,wallet
+T01550,05-01-2026,C0367,4,Red Lipstick,Beauty,1,1098.35,0.05,  Eastern   ,creditcard
+T01329,05-03-2026,C0330,4,Red Lipstick,beauty,1,1072.55,0.15,East,NET BANKING
+T01887,20-10-2026,C0452,27,Honey Jar,Groceries,3,589.01,0.05,East,  Cash 
+T00675,12-10-2026,C0067,12,Annibale Colombo Sofa,FURNITURE,1,213290.46,0,East,wallet
+T00458,26-10-2025,C0393,25,  Green Bell Pepper   ,GROCERIES,2,109.46,0,Eastern, gpay 
+T01503,04 May 2025,C0016,16,,groceries,2,171.90,0,east ,  upi
+T00598,18-09-2026,C0226,35,Potatoes,grocery,2,191.47,0.15,East,phonepe
+T00677,23-11-2025,C0025,35,Potatoes,groceries,2,196.76,0.15,EAST,gpay
+T00015,21-08-2026,C0198,5,Red Nail Polish,Beauty,1,₹765.29,0,Eastern,wallet
+T00975,14-02-2025,C0219,38,Rice,Groceries,3,520.95,0.2,EAST,phonepe
+T00265,07-01-2025,C0494,39,soft drinks,  GROCERIES ,1,165.65,0,East,UPI
+T01873,10-05-2025,C0196,26,Green Chili Pepper,Groceries,2,84.79,0,E,UPI
+T00757,07-10-2026,C0379,39,Soft Drinks,GROCERIES,2,169.13,0,EAST,CC
+T01351,09-02-2025,C0350,39,Soft Drinks,GROCERIES,1,167.60,0,east,gpay
+T01586,24 Apr 2026,C0101,20,Cooking Oil,GROCERIES,1,421.64,0,Eastern,  Cash 
+T01797,15-02-2026,C0347,9004,LED Desk Lamp,Home Decoration,7,764.05,0,  EAST ,Upi
+T01371,13-07-2025,C0163,35,Potatoes,groceries,1,189.20,0.15,EAST,Net Banking
+T00113,24-05-2026,c0029,1,Essence Mascara Lash Princess,beauty,1,841.00,0,east ,gpay
+T01306,27-01-2026,C0415,31,Lemon,GROCERIES,3,68.80,0,EAST,gpay
+T01800,13-05-2026,C0485,4,Red Lipstick,makeup,1,1130.80,0.2,E,Upi
+T00554,24-01-2025,C0020,37,Red Onions,grocery,1,164.49,0.1,E, Debit Card
+T00207,16-05-2026,C0412,27,Honey Jar,Grocery ,3,580.82,0,EAST,
+T01073,28-01-2026,,37,RED ONIONS,groceries,5,165.50,0,east,upi
+T00959,04-04-2025,C0077,26,Green Chili Pepper,groceries,1,83.92,0.15,EAST,upi
+T00734,12-04-2025,C0405,40,Strawberry,Grocery ,2,336.33,0,E,CC
+T01782,21-06-2025,C0370,28,Ice Cream,grocery,2,abc,0, east ,UPI
+T01402,01-02-2026,C0156,16,Apple, Grocery ,1,167.22,0,east,Credit Card
+T00022,30-05-2026,C0356,29,Juice,Grocery ,1,342.20,0.05,Eastern,credit card
+T00191,17-06-2025,C0510,1,Essence Mascara Lash Princess,Beauty,3,836.71,0,Eastern,CC
+T00124,29-10-2026,C0284,29,Juice,GROCERIES,3,332.09,0.15, East,Cash
+T01157,20-03-2025,C0334,39,Soft Drinks,GROCERIES,1,169.59,0.05,Eastern,credit card
+T01875,07-03-2025,,35,Potatoes, Grocery  ,3,193.64,0.05,east,creditcard
+T00526,12-07-2026,C0476,30,Kiwi,GROCERIES,5,215.21,0.2,Eastern,gpay
+T00751,08-06-2025,,1,Essence Mascara Lash Princess,Cosmetics,5,860.55,0.15,East,U.P.I
+T01685,08-08-2025,C0041,18,Cat Food,Groceries,2,742.25,0,east,upi
+T00017,09-01-2026,C0112,29,Juice,grocery,1,343.42,0,E,netbanking
+T01350,12-07-2026,C0094,34,  Nescafe Coffee, grocery ,1,668.84,0,east ,debit card
+T00669,19-05-2025,C0308,4, Red Lipstick ,makeup,1,1080.12,0,EAST,
+T01091,25-12-2025,C0262,35,Potatoes,grocery,3,199.13,0.05,Eastern,credit card
+T00885,09-07-2025,C0282,1,Essence Mascara Lash Princess,Cosmetics,2,835.46,0.15,E,phonepe
+T00185,11-09-2025,C0452,19,  Chicken Meat   ,groceries,1,853.74,0.05,East,CREDIT CARD
+T01128,22-03-2026,C0109,26,Green Chili Pepper,Grocery ,7,84.61,0,east ,cash
+T00715,07-02-2025,C0094,28,Ice Cream,groceries,4,470.92,0,east,creditcard
+T01469,30-10-2026,C0086,26,Green Chili Pepper,Groceries,3,86.57,0,East,phonepe
+T01274,05-07-2025,C0417,34,NESCAFE COFFEE,grocery,1,684.67,0.1,east,UPI
+T01036,05-09-2026,C0147,22,Dog Food,  groceries ,3,907.27,0,Eastern,CASH
+T01844,11 Dec 2025,C0254,39,Soft Drinks,grocery,1,164.46,0.1,east ,phonepe
+T01581,03-03-2026,C0144,26,Green Chili Pepper,Groceries,1,83.11,-5,East,  CC 
+T00231,28-04-2025,C0368,26,green chili pepper,Groceries,2,85.56,0, Eastern ,
+T00109,27-10-2025,C0007,7,Chanel Coco Noir Eau De,Perfumes,5,11097.06,0.15,East,upi
+T01356,04-01-2025,C0049,26,Green Chili Pepper,groceries,5,₹86.42,0,East,debit card
+T00080,22-02-2026,C0172,31,Lemon,grocery,3,67.26,0,EAST,Upi
+T00210,23-07-2026,C0328,36,Protein Powder,Grocery ,2,1734.20,0.05,E,CC
+T00279,11-01-2026,C0286,10,Gucci Bloom Eau de,fragrances,1,6774.77,0.15,EAST,gpay
+T01427,07-06-2025,c0437,16,Apple,GROCERIES,1,171.19,0,E,gpay
+T00360,27-04-2025,C0171,35,Potatoes,grocery,4,198.15,0,east ,  cod 
+T00830,16-07-2025,C0244,14,Knoll Saarinen Executive Conference Chair,Furniture,1,41313.05,0,EAST,net-banking
+T01315,01-10-2025,C0362,24,Fish Steak,  grocery   ,2,1271.19,0.05,east ,upi
+T00334,22-03-2025,C0184,3,Powder Canister,makeup,4,1249.95,0,Eastern,Cash
+T00684,23-08-2026,C0189,6,Calvin Klein CK One,Fragrances,2,4258.03,0,East,upi
+T01591,29-05-2025,C0147,16,Apple,groceries,1,169.05,0.1,East, U.P.I   
+T01576,29-05-2025,C0137,16,apple,grocery,3,165.88,0,east ,DC
+T01181,10-03-2026,C0355,30,Kiwi,GROCERIES,3,215.46,0,east ,Upi
+T00805,19-05-2026,C0331,27,HONEY JAR,groceries,1,603.81,0.15,East,Paytm
+T00498,01-11-2025,C0286,26,Green Chili Pepper,grocery,1,83.33,0, east  ,debit card
+T00488,21-02-2026,C0462,20,cooking oil,Grocery ,1,₹427.55,0,East,Cash
+T01302,02-10-2025,C0322,34,Nescafe Coffee,GROCERIES,0,664.40,0,east ,debitcard
+T01248,27-11-2025,C0467,35,Potatoes,GROCERIES,1,190.52,0,EAST, DC   
+T00005,12-01-2025,C0292,35,Potatoes,grocery,3,198.72,0,E,UPI
+T01124,10-10-2025,C0287,32,Milk,  grocery   ,2,296.87,0.2,EAST,CASH
+T01796,30-10-2025,,39,Soft Drinks,groceries,3,166.18,0,E,U.P.I
+T01484,01-11-2025,C0437,39,Soft Drinks,grocery,0,164.18,0.2,Eastern,debitcard
+T00590,02-10-2026,C0354,2,Eyeshadow Palette with Mirror,Beauty,5,1652.52,0,Eastern,Upi
+T01108,31-08-2025,C0115,36,,Groceries,1,N/A,0.1,East,UPI
+T00533,20-02-2026,C0042,31,Lemon,GROCERIES,3,68.29,0,East,DC
+T00872,18-12-2025,C0021,38,Rice,grocery,3,521.86,0,E,U.P.I
+T01624,04-05-2026,C0252,28,Ice Cream,groceries,2,465.91,0,  E,phonepe
+T00771,18-10-2025,C0335,35,,GROCERIES,3,191.88,0,east,cash
+T01767,08-12-2025,C0424,39,soft drinks,grocery,3,171.49,0.2,Eastern,NET BANKING
+T00946,29-07-2025,C0047,1,Essence Mascara Lash Princess,Cosmetics,3,840.89,0.15,E,debitcard
+T01885,12-10-2025,C0420,31,lemon,groceries,1,68.11,0,East,CREDIT CARD
+T01994,18-07-2026,C0058,18,Cat Food,GROCERIES,1,784.46,0.15,east,CC
+T01722,02-11-2025,C0012,32,MILK, groceries ,2,299.30,0,east,CREDIT CARD
+T00710,06-11-2025,C0281,3,Powder Canister,Cosmetics,2,1280.27,0,east ,Wallet
+T01014,04-10-2025,C0470,39,Soft Drinks,Grocery ,2,169.42,0.2,East,DC
+T01620,16-10-2025,C0359,16,Apple, GROCERIES   ,2,169.15,0.2,EAST,creditcard
+T00587,28-06-2026,C0258,36,Protein Powder,grocery,2,1697.55,0,east, Paytm
+T00266,25-05-2026,C0194,35,potatoes,groceries,2,195.13,0.2,east ,phonepe
+T00243,15-02-2025,C0313,35,Potatoes,GROCERIES,1,192.10,0,east , CC   
+T01139,13-01-2026,C0265,,Ice Cream,grocery,1,454.05,0.15,East,upi
+T00408,11-09-2025,C0052,35,Potatoes,Grocery ,5,198.69,0.1,EAST,debitcard
+T00881,03-02-2026,C0511,16,Apple,grocery,2,166.62,0,E,gpay
+T01115,31-01-2026,C0194,37,Red Onions,grocery,1,165.51,0,  east ,NET BANKING
+T00604,31-08-2026,C0406,29,Juice,  Grocery  ,2,0,0,east,netbanking
+T01198,14-04-2025,C0179,39,Soft Drinks,  Grocery  ,1,173.19,0.05,east,UPI
+T01431,29-07-2025,C0180,27,HONEY JAR,Grocery ,3,598.83,0.1,Eastern,cash
+T00603,08-07-2025,C0396,40, Strawberry   ,grocery,3,348.36,0,east ,CREDIT CARD
+T01498,10-07-2026,C0476,28,Ice Cream,GROCERIES,1,468.99,0,east ,CASH
+T00953,08-01-2025,C0103,31,lemon,Grocery ,2,67.83,0, E,  debit card
+T01861,02-04-2026,C0410,39,Soft Drinks,Grocery ,3,171.43,,EAST,Upi
+T01007,08-08-2026,C0062,25,Green Bell Pepper,  groceries,3,107.56,0.15,E, wallet   
+T01642,15-09-2026,C0133,22,Dog Food,GROCERIES,2,956.26,0,east ,CASH
+T00428,13-03-2025,c0187,16,Apple,Grocery ,3,172.59,0.1,Eastern,wallet
+T00602,29-11-2025,C0195,9004,LED Desk Lamp,Home Decoration,1,729.97,0.05,EAST,CREDIT CARD
+T01408,08-10-2025,c0060,36,protein powder,GROCERIES,2,1720.88,0.15,east,Upi
+T01199,14-09-2025,C0197,35,Potatoes,Grocery ,1,198.10,0.2,Eastern,gpay
+T01968,29-10-2025,C0375,31,Lemon,Groceries,2,66.93,0.15,east,  Cash
+T01575,19-06-2025,C0033,3,POWDER CANISTER,BEAUTY,1,1237.88,0,  E,CREDIT CARD
+T00434,19-02-2025,C0401,21,Cucumber,groceries,1,126.70,0,Eastern,Wallet
+T01214,08-04-2026,C0439,26,Green Chili Pepper,GROCERIES,2,84.51,0.2,E,CC
+T01286,09-01-2026,,31,Lemon,Groceries,2,68.27,0.15,EAST,gpay
+T01228,02-10-2026,C0116,35,POTATOES,GROCERIES,1,197.62,0,EAST,UPI
+T00111,24-02-2026,C0386,39,Soft Drinks,grocery,1,167.72,0.2,EAST,  phonepe
+T01159,25-05-2025,C0181,34,Nescafe Coffee,groceries,3,665.49,0.2,east,debit card
+T01131,05-05-2026,C0214,35,Potatoes,GROCERIES,2,193.44,0,East,netbanking
+T01352,01 Jan 2025,C0449,27,Honey Jar,GROCERIES,4,595.13,0,E,Cash
+T00161,02-06-2025,C0073,35,Potatoes,Grocery ,1,197.19,0,Eastern,Upi
+T01398,03-04-2025,C0008,35,POTATOES, Groceries   ,3,191.05,0,  East   ,Debit Card
+T01903,06-09-2026,C0084,16,Apple,grocery,1,167.92,0,east,cod
+T00561,18-04-2026,C0239,39, Soft Drinks,Groceries,3,167.40,0,East,cash
+T00389,14-10-2025,C0294,26,Green Chili Pepper,groceries,4,86.66,0.05,E,Cash
+T00920,11 Nov 2025,C0164,25,  green bell pepper   ,GROCERIES,2,109.11,0,east,debit card
+T01241,10-01-2025,C0486,4,Red Lipstick,beauty,2,1120.92,0,east,creditcard
+T00303,25-08-2025,C0337,2,Eyeshadow Palette with Mirror,makeup,3,1661.66,0,Eastern,Net Banking
+T01161,24-05-2025,C0066,27,Honey Jar,Grocery ,3,594.17,0,Eastern,
+T00633,04-09-2026,C0236,35, Potatoes ,Grocery ,3,192.56,0.15,E,Credit Card
+T00944,13-01-2025,C0052,36,Protein Powder,GROCERIES,2,1729.90,0,east,upi
+T01039,04-08-2025,C0142,26,Green Chili Pepper,GROCERIES,2,86.66,0,Eastern,upi
+T00352,21-06-2026,C0108,4,red lipstick,BEAUTY,2,1111.31,0.15,Eastern,Net Banking
+T01910,27-01-2025,C0240,35,Potatoes,grocery,3,190.25,0,,CREDIT CARD
+T00549,06-04-2026,C0095,31,Lemon,grocery,1,67.74,0,  East ,cod
+T00179,14-03-2025,C0105,20,Cooking Oil,GROCERIES,1,423.82,0,east,paytm wallet
+T01473,22-08-2025,C0354,26,Green Chili Pepper,groceries,2,84.65,0.2,EAST,creditcard
+T00417,18-05-2025,C0288,38,Rice,grocery,2,519.87,0,east ,wallet
+T01816,25-09-2025,C0081,16,,groceries,2,173.08,0,EAST,CREDIT CARD
+T00553,06-08-2026,C0080,36,Protein Powder,grocery,3,1682.45,0.2,E,  debit card   
+T00062,15-03-2025,C0343,26,Green Chili Pepper,  Grocery ,1,85.75,0,EAST,debit card
+T01789,21-03-2026,C0124,31,LEMON,groceries,4,69.02,0.2,East,Wallet
+T01317,09-10-2026,C0132,35,POTATOES, groceries   ,5,191.13,,east,credit card
+T01065,10-10-2025,C0075,31,Lemon,groceries,2,65.64,0,  East   ,debit card
+T01809,03-01-2025,C0027,22,Dog Food,Grocery ,1,914.43,0.2,,UPI
+T00105,18-04-2027,C0187,1,Essence Mascara Lash Princess,beauty,4,856.41,0.2,East,UPI
+T00747,25-12-2025,C0229,3,powder canister,makeup,4,1292.12,0,EAST,NET BANKING
+T00166,06-05-2026,C0265,39,soft drinks, grocery ,2,170.29,0, east ,Credit Card
+T01911,08-03-2026,C0096,34,Nescafe Coffee,Grocery ,1,661.98,0,east,credit card
+T00880,02-04-2025,C0311,16,,Groceries,1,169.09,0,EAST,upi
+T00227,13-10-2026,C0100,4,Red Lipstick,beauty,1,1116.85,0.15,Eastern,debit card
+T00594,28-07-2026,C0088,32,Milk,grocery,2,298.77,0,East,Upi
+T01270,21-07-2025,C0508,23,eggs,Groceries,5,250.30,0, east  ,Wallet
+T00525,27-12-2025,C0407,2,  Eyeshadow Palette with Mirror   ,BEAUTY,-1,1671.60,0.2,Eastern,paytm wallet
+T01384,25-03-2026,C0326,35,Potatoes,groceries,1,195.42,0,east,CC
+T00990,24-02-2025,C0474,3,Powder Canister,BEAUTY,2,1285.65,0,EAST,U.P.I
+T00775,10-11-2025,C0095,1,essence mascara lash princess,BEAUTY,0,829.24,0,EAST,net-banking
+T00369,22-08-2026,C0352,3,Powder Canister,beauty,5,1272.55,0.05,EAST,Wallet
+T00508,04-09-2026,C0042,6,  calvin klein ck one ,Perfumes,3,4152.78,0,EAST,UPI
+T00280,04-07-2025,C0136,7,Chanel Coco Noir Eau De,FRAGRANCES,3,11095.52,0,east ,Net Banking
+T01295,16-10-2026,c0285,31,Lemon, Groceries ,5,66.79,0,East,cod
+T00335,13-04-2026,C0372,24,Fish Steak,GROCERIES,4,1251.74,0,E,Credit Card
+T01063,14-11-2025,C0363,20,Cooking Oil,Grocery ,1,429.85,0,east,phonepe
+T00860,14-05-2026,C0118,26,Green Chili Pepper,Grocery ,4,82.23,0.15,EAST,UPI
+T01385,29-05-2025,C0077,18,  CAT FOOD ,groceries,2,759.04,0,east,  DC
+T00612,27-01-2025,C0188,28,ICE CREAM,GROCERIES,3,472.70,0.05,East,Paytm
+T01432,16-05-2025,C0071,39,Soft Drinks,groceries,-5,173.75,0,Eastern,gpay
+T00305,26-04-2025,C0452,38,Rice,groceries,2,513.58,0.15,  east ,Debit Card
+T01508,29-09-2026,C0407,27,Honey Jar, groceries   ,3,585.23,0,east,CC
+T01227,05-07-2026,C0457,35,Potatoes,Grocery ,2,199.38,0.05,East,credit card
+T00084,05-05-2026,C0316,31,Lemon,GROCERIES,2,67.52,0.1,EAST,Net Banking
+T01948,08-09-2026,C0130,21,Cucumber,GROCERIES,2,125.66,0.2,E,Credit Card
+T00720,16-08-2025,C0280,19,Chicken Meat,GROCERIES,4,841.53,0,east ,gpay
+T01963,05-08-2026,C0476,34,Nescafe Coffee,Grocery ,1,674.33,0,Eastern,CREDIT CARD
+T01991,13-10-2025,C0451,28,Ice Cream,GROCERIES,1,466.91,0.2,E,Upi
+T01981,08-10-2026,C0061,4,Red Lipstick,Beauty,1,1097.49,0.1,E,debitcard
+T01871,12-06-2026,C0432,21,Cucumber,grocery,1,129.05,0.05,East,Cash
+T01680,14-03-2026,C0213,29,Juice,Groceries,3,342.26,0.05,east ,Debit Card
+T00323,29-03-2026,C0508,24,Fish Steak,GROCERIES,1,1261.53,0.05,East,CC
+T01259,01-09-2026,C0327,30,Kiwi,Groceries,1,209.97,0.05,EAST,net-banking
+T01382,02-09-2026,C0046,29,Juice,groceries,1,331.32,0,east ,phonepe
+T00765,27-12-2025,c0420,34,Nescafe Coffee,grocery,4,677.06,0,East,credit card
+T00430,05-12-2025,C0042,35,Potatoes,  Grocery    ,1,193.51,0.1,EAST,Net Banking
+T01651,24-06-2026,C0100,35,Potatoes,Groceries,2,191.72,0,East,UPI
+T01020,07-11-2025,C0232,27,Honey Jar,grocery,3,584.71,0, east    ,cash
+T00150,25-04-2026,C0471,38,Rice,groceries,1,504.20,0,East,U.P.I
+T01489,08-05-2026,C0038,28,ICE CREAM, grocery,1,472.97,0.1,EAST,  gpay
+T00842,07 Oct 2025,C0398,4,Red Lipstick,Cosmetics,2,1096.69,0.2, E   ,cash
+T00122,08-05-2026,C0415,22,Dog Food,Groceries,2,943.08,0.05,E,Upi
+T01524,19-07-2025,C0047,6,Calvin Klein CK One,FRAGRANCES,1,4220.43,0.2,East,debit card
+T01612,18-09-2026,C0417,31,Lemon, Grocery ,1,66.09,0.05,east,cod
+T00875,28-10-2026,C0155,26,Green Chili Pepper,grocery,2,82.37,0, Eastern   ,UPI
+T01753,10-06-2025,C0265,39,Soft Drinks,grocery,2,167.50,0.05,east,DC
+T01462,26-06-2025,C0497,38,Rice,GROCERIES,2,498.13,0,East,UPI
+T01902,11-08-2026,C0084,21,Cucumber,GROCERIES,7,128.44,0,E,  U.P.I
+T00297,02-02-2025,C0229,38,RICE,GROCERIES,1,496.23,0.05,east,debitcard
+T00703,25-11-2025,C0085,1,Essence Mascara Lash Princess,BEAUTY,1,830.31,0, Eastern,UPI
+T00889,06-08-2026,C0364,31,lemon,groceries,2,67.79,0,EAST,Credit Card
+T01798,11-10-2026,C0059,4,Red Lipstick,BEAUTY,1,1073.29,0,East,UPI
+T01442,30-06-2025,C0445,35,potatoes,Groceries,2,200.35,0,  Eastern   ,Credit Card
+T00596,04-11-2025,C0469,35,  Potatoes   ,Grocery ,5,198.22,0,east ,  credit card   
+T01443,08-01-2025,C0171,16,,grocery,3,168.95,0.15,EAST,Upi
+T01448,29-07-2025,C0399,35,Potatoes,grocery,1,200.25,0,east ,CC
+T00578,24-09-2025,C0149,26,Green Chili Pepper,Groceries,1,86.09,0,East,CC
+T01255,14-02-2026,C0299,25, Green Bell Pepper ,groceries,1,112.22,0,East,  creditcard   
+T01365,22-10-2026,C0182,4,Red Lipstick,Beauty,2,1081.86,0,east ,Cash
+T00600,19-03-2026,C0112,33,Mulberry,GROCERIES,3,432.06,0,Eastern,debit card
+T01867,05-05-2025,C0486,26,Green Chili Pepper,GROCERIES,4,83.96,0,,CREDIT CARD
+T00387,30-10-2026,C0488,1,Essence Mascara Lash Princess,Cosmetics,3,874.24,0,E,Upi
+T00258,23-07-2025,C0216,32,Milk,Groceries,1,289.64,0.15,EAST, debit card 
+T01904,18-09-2026,C0161,35,Potatoes,Grocery ,3,197.99,0,Eastern,Debit Card
+T01027,22-07-2026,C0229,28,Ice Cream,grocery,1,477.98,0,east,Credit Card
+T00282,22-03-2026,C0215,27,Honey Jar,GROCERIES,1,606.56,0.1,E,creditcard
+T01417,28-12-2025,C0511,1,Essence Mascara Lash Princess,beauty,3,862.43,0,Eastern,net-banking
+T00442,11-03-2026,C0273,1,Essence Mascara Lash Princess,Beauty,1,849.64,0.1,east,UPI
+T00772,22-11-2025,C0460,22,Dog Food,Groceries,2,952.59,0.05,Eastern,upi
+T01093,16-04-2026,C0105,2,Eyeshadow Palette with Mirror,Cosmetics,2,1710.40,0,EAST,CASH
+T01974,15-12-2025,C0326,4,RED LIPSTICK, makeup,1,1071.21,0,east,paytm wallet
+T01970,07-10-2026,C0057,38,Rice,grocery,1,523.52,0,East,Debit Card
+T00385,05-01-2025,C0323,26,Green Chili Pepper, grocery ,2,83.83,0,east ,Upi
+T00098,06-03-2025,,2,,BEAUTY,2,1731.75,0,east,U.P.I
+T01916,26-02-2025,C0213,37,  Red Onions   ,  grocery,1,171.91,0.05,East,credit card
+T00327,14-09-2025,C0336,4,Red Lipstick,beauty,1,1077.33,0,east ,Cash
+T00260,03-07-2026,C0481,39,Soft Drinks,GROCERIES,3,167.39,0,east, cash 
+T01477,01-11-2025,C0434,37,Red Onions,Grocery ,2,166.29,0,East,credit card
+T00919,02-03-2026,C0178,36,Protein Powder,  Groceries,1,1651.59,0,Eastern,gpay
+T01511,29-05-2025,C0431,36,Protein Powder,grocery,4,1667.34,0,East,cod
+T00902,25-08-2026,C0355,26,  green chili pepper,Grocery ,5,82.15,0,  Eastern,DC
+T00072,14-09-2026,C0056,38,Rice,grocery,3,₹508.96,0.1,east,credit card
+T00057,12-04-2026,C0451,12,Annibale Colombo Sofa,Furniture,1,209115.64,0.15,Eastern,CC
+T01815,14-07-2026,C0356,37,Red Onions,grocery,2,168.24,0,EAST,credit card
+T01958,22-10-2025,C0434,4,  Red Lipstick   ,makeup,5,1114.31,0,east,Net Banking
+T01435,25-01-2026,C0469,32,Milk,Groceries,5,304.35,0.2,east ,cash
+T01500,12-08-2026,C0456,4,Red Lipstick,makeup,1,1123.42,0.1,Eastern,paytm wallet
+T00660,29-12-2025,C0399,16,Apple,Grocery ,2,165.42,0.15,east ,creditcard
+T00716,19-10-2026,C0127,35,Potatoes,grocery,1,194.78,0,east ,UPI
+T01453,20-04-2025,C0193,39,Soft Drinks,grocery,2,169.27,0,east,upi
+T00126,21-11-2025,C0457,16,Apple,Groceries,1,164.44,0.05,east ,credit card
+T01380,18-03-2025,C0148,39,Soft Drinks,GROCERIES,5,167.53,0,  east    ,NET BANKING
+T01942,23-10-2025,C0192,4,Red Lipstick,beauty,1,1089.57,0,E, creditcard   
+T00003,25-05-2026,C0265,5,Red Nail Polish,beauty,3,771.77,0,east,upi
+T01070,25-01-2025,C0249,26,Green Chili Pepper,GROCERIES,1,83.98,0.1,E,Net Banking
+T00400,10-04-2025,C0312,16,Apple,Groceries,1,164.22,0,  east  ,Paytm
+T00670,06-08-2026,C0118,27,Honey Jar,Grocery ,1,599.29,0.05,east,creditcard
+T01779,06-11-2025,C0140,35,potatoes,  grocery   ,2,192.58,0,E,UPI
+T01397,04-11-2025,C0288,9003,Yoga Mat Pro, Sports Accessories   ,1,921.08,0.05,EAST,netbanking
+T00676,15-12-2025,C0280,23,  Eggs ,Groceries,2,250.25,0.2,East,phonepe
+T01081,10-02-2026,C0415,13, Bedside Table African Cherry ,furniture,1,25881.73,0,Eastern,credit card
+T00807,25-07-2025,C0267,27,HONEY JAR,grocery,1,597.57,0,E,  cash 
+T01999,05 Jun 2026,,27,Honey Jar,grocery,2,589.17,0.15,east ,debit card
+T00862,10 Jun 2025,C0255,28,Ice Cream,groceries,1,467.19,0,E,gpay
+T00641,15-03-2026,C0357,9001,Smart Watch X1,Electronics,2,2571.09,0,EAST,gpay
+T00848,14-06-2026,C0428,39,Soft Drinks,GROCERIES,3,173.93,0.2,east,  UPI 
+T01870,19-06-2026,C0124,35,Potatoes,groceries,3,194.97,0,East,CREDIT CARD
+T00796,04-12-2025,C0452,32,Milk,groceries,2,294.71,0.15,EAST,netbanking
+T00810,12-07-2025,C0218,4,RED LIPSTICK,makeup,5,1119.67,0,east, U.P.I 
+T01126,25-02-2026,C0249,39,soft drinks,Groceries,2,169.31,0.15,east ,CASH
+T00545,09-12-2025,C0094,4,RED LIPSTICK,Beauty,3,1086.77,0,E,Upi
+T00556,11 Oct 2025,C0480,21,CUCUMBER,grocery,3,123.92,0.15,east,gpay
+T01865,24-09-2025,C0427,20,Cooking Oil,Groceries,1,434.19,0.2,East,phonepe
+T00201,18-12-2025,C0084,35,Potatoes,Groceries,2,197.17,0,east,gpay
+T00114,05-07-2026,C0074,38,  Rice ,groceries,3,516.25,0.05,east,Upi
+T00223,05-08-2025,C0197,31,Lemon,Grocery ,5,68.78,0.1,east ,upi
+T01314,14-06-2026,C0408,25,Green Bell Pepper,Grocery ,2,107.71,0.2,East,gpay
+T01349,16-11-2025,C0362,36,Protein Powder,GROCERIES,1,1703.97,0, Eastern ,Upi
+T00773,12-04-2025,C0044,38,Rice,grocery,5,520.74,0.1,Eastern,upi
+T00396,08-08-2026,C0158,38,RICE,groceries,3,505.43,0,Eastern,CASH
+T01769,21-05-2025,C0342,3,Powder Canister,BEAUTY,3,1307.00,0.2,East,gpay
+T01863,15-01-2025,C0019,36,Protein Powder,  Grocery    ,1,1718.44,0,East,  U.P.I 
+T01827,10-06-2026,C0491,28,Ice Cream,  groceries ,5,453.76,0,E,Credit Card
+T01917,29-09-2025,C0274,29,,Grocery ,2,332.84,0,E,cash
+T01560,15-04-2026,C0325,29,Juice,Grocery ,2,344.64,0.2,EAST,CC
+T01323,25-04-2026,C0448,16,Apple,Groceries,5,168.14,0,east,Debit Card
+T01053,28-04-2025,C0244,29,JUICE,groceries,2,333.29,0,east ,upi
+T00186,29-07-2025,,28,Ice Cream,groceries,1,474.29,0.05,east ,Upi
+T01953,08-09-2026,C0177,31,LEMON,  Grocery  ,2,66.17,0,E,debitcard
+T01609,10-02-2025,C0347,38,Rice,grocery,4,500.20,0,EAST,Credit Card
+T00901,18-04-2025,C0390,1,Essence Mascara Lash Princess,beauty,5,845.91,0,Eastern,Upi
+T00601,24-03-2025,C0207,35,Potatoes,groceries,2,196.01,0,EAST,DC
+T01758,24-03-2026,C0387,25,Green Bell Pepper,grocery,1,110.07,0,East,Wallet
+T00714,29-08-2026,C0116,36,Protein Powder,groceries,2,"₹1,699.35",0.05,east,gpay
+T01947,25-01-2026,C0325,10,Gucci Bloom Eau de, perfume ,4,6605.80,0,E,U.P.I
+T00168,03-10-2025,C0164,18,Cat Food,groceries,1,773.60,0,east,debitcard
+T00922,17-10-2026,C0158,1,Essence Mascara Lash Princess,beauty,1,845.36,0,E,phonepe
+T01754,07-06-2026,C0418,35,Potatoes,groceries,3,199.54,0.1,east,wallet
+T01627,09-04-2025,C0505,4,Red Lipstick,BEAUTY,2,1106.24,0,Eastern,DC
+T01149,13 Jun 2026,C0319,1,Essence Mascara Lash Princess,beauty,2,854.67,0.1,E,upi
+T00155,26-02-2025,C0355,13,Bedside Table African Cherry,FURNITURE,1,25097.26,0,  east    ,gpay
+T00579,26-02-2025,C0103,1,Essence Mascara Lash Princess,Cosmetics,4,865.97,0.2, E   ,net-banking
+T01778,07-01-2025,C0121,24,Fish Steak,Grocery ,4,1250.56,0,EAST,gpay
+T00175,18-08-2025,c0250,16,Apple,GROCERIES,1,167.76,0,EAST,debit card
+T01444,16-09-2025,C0127,3,Powder Canister,Cosmetics,3,1295.38,0,E,DC
+T01018,10-04-2026,C0098,23,Eggs,Grocery ,3,253.77,0,  East ,Upi
+T00216,30-03-2025,C0239,26,Green Chili Pepper,GROCERIES,2,83.03,0,Eastern,cod
+T01869,26-06-2025,C0030,16,Apple,groceries,3,166.25,0.05,east,UPI
+T00158,24-12-2025,C0116,4,Red Lipstick,Beauty,2,1083.52,0,  E ,
+T00388,27-12-2025,C0261,32,Milk,grocery,1,299.30,0.1,EAST,gpay
+T00127,19-08-2026,C0313,24,, grocery ,2,1251.19,0.15,EAST,CASH
+T01755,18 May 2026,c0157,20,Cooking Oil,GROCERIES,1,416.58,0.2,Eastern,debitcard
+T01369,23-12-2025,c0262,31,Lemon,groceries,3,65.95,0,E,gpay
+T00668,11-02-2026,c0303,35,Potatoes,GROCERIES,4,197.67,0.15,East,UPI
+T01290,08-05-2026,C0382,31,LEMON,grocery,1,66.23,0,Eastern,phonepe
+T00356,08-01-2025,C0182,,Honey Jar,grocery,2,611.66,0,east ,UPI
+T00413,12-04-2025,C0153,37,Red Onions,GROCERIES,3,165.70,0,  east   ,Debit Card
+T00493,15-05-2026,C0341,16,Apple,GROCERIES,3,169.99,0,east,U.P.I
+T01145,28-03-2026,C0374,29, Juice   ,groceries,2,341.07,0,  EAST ,cash
+T00115,25-08-2026,C0215,4,red lipstick, makeup ,3,1114.18,0, EAST,CC
+T01325,15-10-2026,C0168,36,PROTEIN POWDER,Groceries,2,1670.86,0,EAST,cod
+T00666,18-08-2026,C0308,32,Milk,Grocery ,1,296.44,0,east ,wallet
+T01284,27-04-2026,C0112,26,Green Chili Pepper,Groceries,2,85.88,0,Eastern,CASH
+T00856,15-05-2025,C0496,17,Beef Steak,GROCERIES,3,1125.18,0.05,  East,phonepe
+T01031,01-09-2026,c0289,40,Strawberry,Grocery ,3,347.86,0,east ,Net Banking
+T01051,29-12-2025,C0198,25,Green Bell Pepper,GROCERIES,3,111.36,0.1,E,phonepe
+T00678,31-02-2025,C0444,32,Milk,  GROCERIES ,1,288.01,0.2,EAST,UPI
+T00652,22-09-2025,C0028,38,Rice,Groceries,-1,abc,0,east ,Upi
+T00218,04-05-2025,C0313,26,,Grocery ,2,86.27,0, EAST ,Cash
+T01468,12-08-2025,C0115,24,Fish Steak,Grocery ,2,1302.40,0,east ,upi
+T01630,02-07-2026,C0014,39,SOFT DRINKS,Groceries,3,166.20,0,  E , Upi
+T01638,16-03-2026,C0203,34,Nescafe Coffee,Groceries,1,₹691.78,0.1,East,DC
+T01360,11-10-2025,C0198,28,Ice Cream,Grocery ,1,471.20,0,east ,Cash
+T00622,27-05-2026,C0417,35,Potatoes,Grocery ,5,197.98,0.15,EAST,debitcard
+T00627,07-03-2025,C0210,25,Green Bell Pepper,grocery,2,108.33,0.1,  east ,CREDIT CARD
+T00706,22-12-2025,C0306,25,green bell pepper,grocery,2,108.93,0.1,east ,gpay
+T00931,16-10-2026,C0209,35,Potatoes,GROCERIES,2,195.39,0.2,Eastern,CC
+T00853,26-01-2026,C0053,31,Lemon,Grocery ,1,67.28,0.15,E,phonepe
+T01765,31-02-2025,C0300,34,Nescafe Coffee,Groceries,3,685.84,0,East,credit card
+T00569,26-03-2025,C0472,16,Apple,  Grocery  ,2,164.70,0.15,Eastern,cod
+T01718,08-01-2026,C0221,27,  Honey Jar,GROCERIES,2,590.23,0.05,East,  Cash 
+T00791,23-11-2025,C0171,5,Red Nail Polish,makeup,3,750.83,0,EAST,CASH
+T00918,06-11-2025,C0102,1,ESSENCE MASCARA LASH PRINCESS,Beauty,1,849.15,0.2,E,cash
+T00342,16-08-2026,C0102,34,Nescafe Coffee,groceries,5,₹665.72,0,EAST,U.P.I
+T01933,09-11-2025,c0174,23,Eggs,  Grocery  ,2,257.45,0,E,creditcard
+T01308,13-03-2025,C0170,16,apple,grocery,1,164.26,0.1,East,debit card
+T00278,26-07-2025,C0421,26,Green Chili Pepper,Grocery ,1,84.65,0,EAST,Cash
+T01089,15-03-2025,C0350,28,  Ice Cream,grocery,1,465.52,0, EAST,Paytm
+T01847,11-11-2025,C0378,35,Potatoes,Grocery ,1,190.21,0,Eastern,creditcard
+T01521,19-10-2026,C0096,31,Lemon,groceries,3,66.23,0,  E   ,Upi
+T00386,18-06-2026,C0378,28,, Grocery  ,1,463.54,0.2,east,  Upi 
+T01331,10-02-2025,C0208,16,Apple,grocery,2,165.22,0,east,gpay
+T00140,21-12-2025,C0258,20,Cooking Oil,Grocery ,2,435.09,0.05,east, Cash 
+T00882,13-12-2025,c0268,31,Lemon,grocery,1,69.07,0.15,EAST,gpay
+T00197,13-07-2025,C0011,21,Cucumber,  grocery   ,5,127.60,0,Eastern,  CREDIT CARD
+T00888,19-07-2025,C0421,28,Ice Cream,GROCERIES,5,466.41,0,East,DC
+T01986,07-09-2025,C0315,31,Lemon,GROCERIES,2,68.48,0.2,east ,NET BANKING
+T00589,10-03-2025,C0054,35,  Potatoes ,groceries,5,194.77,0,east,Debit Card
+T01150,26-12-2025,C0491,35,Potatoes,grocery,2,193.62,0.2,  Eastern   ,U.P.I
+T01180,11-02-2025,C0349,27,honey jar,Groceries,1,-604.02,0.05,EAST,debitcard
+T01236,17-02-2025,,38,Rice,GROCERIES,2,495.22,0.15,Eastern,netbanking
+T00267,21-08-2025,C0448,35,POTATOES, Grocery    ,1,192.60,0,EAST,upi
+T00177,21-03-2026,C0382,26,Green Chili Pepper,Grocery ,2,82.68,0, Eastern   ,creditcard
+T01012,25-05-2025,c0310,21,Cucumber,Grocery ,5,127.42,0,East,DC
+T00507,23-01-2026,c0179,16,Apple,Groceries,5,172.01,0,East,UPI
+T00926,27-05-2026,C0427,26,Green Chili Pepper,grocery,1,81.83,0,E,Upi
+T00117,26-12-2025,C0102,22,dog food,grocery,1,927.93,0.05,east ,netbanking
+T01048,18-11-2025,C0201,31,Lemon,  groceries,3,68.71,0,East, Cash 
+T01486,08-06-2026,C0161,19,,Groceries,3,854.13,,East,cash
+T01880,14-12-2025,C0377,33,Mulberry,groceries,2,435.30,0,East,Net Banking
+T00110,29-09-2025,C0360,8,Dior J'adore,fragrances,1,7739.55,0.05,  E   ,gpay
+T00829,02 Sep 2026,C0343,9004,LED Desk Lamp,Home Decoration,3,741.11,0,E,UPI
+T01756,13-03-2025,C0235,39,Soft Drinks,GROCERIES,2,168.82,0.1,EAST,upi
+T01455,01-02-2026,C0197,4,Red Lipstick,makeup,1,1102.60,0,E,UPI
+T00232,04-08-2026,C0074,39,SOFT DRINKS,GROCERIES,1,167.05,0.2,east ,upi
+T00808,13-01-2026,C0072,35,Potatoes,Grocery ,1,198.67,0.05,East,Wallet
+T00846,29 Jan 2026,C0428,31,Lemon,grocery,2,68.61,0,east ,debitcard
+T01996,27-12-2025,C0405,21,Cucumber,Groceries,2,127.85,0.2,east ,debitcard
+T01029,25-09-2025,C0110,23,Eggs,Groceries,5,254.09,0.05,east,Cash
+T01264,28-05-2026,C0013,36,Protein Powder,Groceries,1,1691.89,0.05,east ,creditcard
+T01976,02-09-2026,C0014,27, Honey Jar,groceries,1,591.07,0,east ,gpay
+T00667,23-03-2025,C0080,23,Eggs,grocery,3,247.45,0.1,east,gpay
+T01831,15-01-2025,C0381,18,cat food,Groceries,3,775.11,0,east ,Cash
+T01716,01-01-2026,C0022,37,RED ONIONS,GROCERIES,1,165.49,0,Eastern,UPI
+T00643,15-10-2026,C0080,39,,groceries,1,165.27,0,E,U.P.I
+T00375,17-11-2025,C0350,29,Juice,groceries,3,330.68,0.15,east ,creditcard
+T01908,16-08-2025,C0065,16,Apple,grocery,2,171.42,0,Eastern,Upi
+T00840,10-11-2025,C0269,26,Green Chili Pepper,grocery,1,84.82,0.2,Eastern,netbanking
+T00611,05-07-2026,C0471,20,Cooking Oil,Groceries,4,413.62,0,Eastern,CC
+T00133,20-11-2025,C0038,26,Green Chili Pepper,Grocery ,1,85.46,0,Eastern,gpay
+T01464,20-10-2025,C0339,4,Red Lipstick,BEAUTY,4,1094.14,0.1,  east    ,debitcard
+T00193,23-06-2026,C0318,4,Red Lipstick,BEAUTY,3,1101.17,0.1,EAST, Upi   
+T01213,18-01-2026,C0474,36,Protein Powder,  groceries,1,1663.39,0.15,Eastern,cash
+T00273,03-02-2025,C0050,3,Powder Canister,Cosmetics,4,"₹1,287.19",0,east ,credit card
+T01860,22-08-2026,C0255,35,POTATOES,Grocery ,3,195.75,0,east ,phonepe
+T00971,31-01-2026,c0016,39, Soft Drinks ,grocery,2,₹165.59,0,EAST,  Credit Card   
+T00040,02-04-2025,C0246,28,Ice Cream,GROCERIES,2,475.63,0.2,Eastern,phonepe
+T00123,07-03-2025,C0010,16,Apple,Grocery ,2,164.23,0,east ,cod
+T00064,06-06-2026,C0498,31,Lemon,Groceries,1,67.57,0.1,East,U.P.I
+T01998,13-06-2025,C0026,35,Potatoes,GROCERIES,2,197.04,0,east,U.P.I
+T00213,28-05-2025,C0272,1,essence mascara lash princess,makeup,1,863.19,0,  E ,DC
+T01032,15-01-2026,c0325,20,Cooking Oil,Grocery ,4,435.10,0.05,East,  upi 
+T00621,23-03-2026,C0351,6,Calvin Klein CK One,perfume,2,4297.87,0,EAST,DC
+T01196,28-04-2026,C0111,16, Apple,Groceries,3,172.85,0.2,East,  Upi   
+T00743,14-07-2026,,28,Ice Cream, grocery ,5,472.81,0.05,East,Upi
+T01654,14-10-2025,C0343,32,Milk,groceries,1,292.25,0,east ,upi
+T01604,31-08-2026,C0409,40,strawberry,grocery,3,344.15,0,East,gpay
+T01282,20-02-2025,C0397,1,Essence Mascara Lash Princess,beauty,2,850.73,0.1,Eastern,gpay
+T01121,08-01-2026,C0258,35,Potatoes,groceries,3,198.23,0,Eastern,debit card
+T00887,21-12-2025,C0333,38,rice,Grocery ,2,502.94,0,East,debit card
+T01165,02-10-2026,C0077,,  Mulberry ,GROCERIES,2,413.63,0,east ,Cash
+T00257,30-07-2025,C0485,19,Chicken Meat,GROCERIES,2,849.73,0.05,E,phonepe
+T00073,18-08-2025,C0202,16,Apple,grocery,5,172.70,0,Eastern, netbanking   
+T00839,09-01-2025,C0301,37,Red Onions, groceries ,3,168.92,0,EAST,CC
+T01482,29-04-2026,C0088,22,  Dog Food,GROCERIES,1,919.19,0.2,Eastern,credit card
+T01562,01-08-2025,C0156,35,Potatoes,GROCERIES,1,195.80,0,east,phonepe
+T01160,08-03-2026,C0026,21,Cucumber,GROCERIES,1,128.87,0,east,net-banking
+T00868,18-09-2025,C0044,35,Potatoes,Grocery ,5,191.90,0,east ,Upi
+T00960,26-10-2025,C0367,34,Nescafe Coffee,Grocery ,1,675.24,0.1,East,Net Banking
+T01645,25-03-2026,C0041,39,soft drinks,Grocery ,3,166.55,0,Eastern,phonepe
+T01619,01-06-2026,C0205,4,,beauty,2,1102.95,0.1,east,paytm wallet
+T01030,05-10-2026,C0222,1,Essence Mascara Lash Princess,makeup,2,870.09,0.2,Eastern,U.P.I
+T00325,03-01-2026,C0383,4,red lipstick, Cosmetics,2,1125.39,0.05, EAST ,U.P.I
+T00511,19-11-2025,C0295,4,  Red Lipstick ,Beauty,2,1109.22,0,east ,U.P.I
+T00679,10-10-2025,C0302,34,Nescafe Coffee,grocery,1,688.69,0,Eastern,gpay
+T00511,19-11-2025,C0295,4,  Red Lipstick ,Beauty,2,1109.22,0,east ,U.P.I
+T01086,14-02-2025,C0416,31,Lemon,Groceries,1,69.07,0,Eastern,debit card
+T01333,12-02-2025,c0233,18,Cat Food,groceries,1,756.07,0.1,East,gpay
+T00167,11-05-2025,C0489,27,Honey Jar, groceries   ,2,598.70,0,east,CASH
+T01095,29-07-2025,c0400,26,GREEN CHILI PEPPER,groceries,3,85.95,0.05,east ,cod
+T01273,20-10-2026,C0309,30,Kiwi,Groceries,3,217.86,0,Eastern,U.P.I
+T00557,11-02-2026,C0002,1,  Essence Mascara Lash Princess,makeup,3,835.20,0,E,Wallet
+T01855,06-01-2026,C0184,21,Cucumber,grocery,4,₹129.03,0.2,Eastern,CC
+T00164,19-04-2026,C0466,39,Soft Drinks,grocery,3,172.70,0,east,creditcard
+T01556,24-03-2026,C0198,35,Potatoes,Grocery ,2,195.20,0,EAST,Credit Card
+T00281,17-10-2025,C0280,24,Fish Steak, GROCERIES ,1,1270.29,0.2,EAST,Cash
+T01386,06-03-2025,C0078,38,Rice,Groceries,3,502.26,0,EAST,DC
+T00321,19-09-2025,C0422,38,  Rice   ,Grocery ,5,514.55,0.05,east,
+T00492,21-09-2026,C0356,39,Soft Drinks,grocery,4,164.17,0.2,E,CASH
+T00429,04-07-2026,C0285,37,Red Onions,GROCERIES,1,166.22,0.05,east,debitcard
+T01043,14-01-2026,C0312,38,RICE,  Grocery    ,2,506.46,0,East,Upi
+T01666,17-10-2025,C0205,26,Green Chili Pepper,Grocery ,3,83.20,0.15,east,CASH
+T01552,11-05-2025,C0322,30,Kiwi,grocery,1,210.55,0.1,East,Upi
+T01882,06-04-2025,C0392,34,nescafe coffee,grocery,2,687.16,0,Eastern,phonepe
+T01409,11-07-2026,C0476,38,Rice,groceries,3,517.35,0,Eastern,debit card
+T01310,02-01-2026,C0297,2,Eyeshadow Palette with Mirror,beauty,1,1726.85,0.05,EAST,gpay
+T01986,07-09-2025,C0315,31,Lemon,GROCERIES,2,68.48,0.2,east ,NET BANKING
+T00998,22-12-2025,C0326,35,Potatoes,grocery,two,199.47,0,east,Credit Card
+T00595,05-06-2025,C0061,9001,Smart Watch X1,Electronics,1,2452.09,,E,U.P.I
+T01327,08-06-2026,C0220,4,Red Lipstick,Cosmetics,1,1089.16,0,east ,gpay
+T00329,03-10-2025,C0481,35,Potatoes,GROCERIES,2,195.42,0.1,EAST,NET BANKING
+T00455,11-10-2025,C0401,16,Apple,  Grocery ,2,166.78,0,EAST,U.P.I
+T01577,07-10-2025,c0366,33,  Mulberry,groceries,5,412.84,0,east ,UPI
+T00006,27-12-2025,#N/A,9004,LED Desk Lamp,Home Decoration,1,769.34,0,EAST,phonepe
+T00132,13-07-2026,C0278,29,Juice,groceries,3,334.30,0,Eastern,  credit card
+T01436,31-07-2026,,16,Apple,Grocery ,2,174.07,0,East,cash
+T00445,30-05-2025,c0181,4,red lipstick,Cosmetics,4,1077.23,0,east ,UPI
+T01906,31-03-2025,C0055,4,Red Lipstick,Beauty,2,1098.66,0,E,phonepe
+T00994,26-03-2026,C0112,18,Cat Food,Groceries,3,778.40,0.2,EAST,
+T01842,26-03-2026,C0483,32,MILK,groceries,3,303.55,0,  E   ,Credit Card
+T00390,17-10-2025,C0450,3, Powder Canister ,Beauty,3,1304.11,0,East,
+T01962,10-05-2026,C0330,24,  Fish Steak   ,Groceries,1,1303.21,0.2,E, net-banking 
+T01487,12-03-2025,C0397,21,,Grocery ,3,129.28,0.05,Eastern,Upi
+T00742,14-01-2026,,38,Rice,GROCERIES,2,521.94,0.1,EAST,Wallet
+T00089,20-02-2025,C0118,31,,GROCERIES,5,68.09,0.1,East,gpay
+T01299,27-11-2025,C0023,39,Soft Drinks,groceries,1,168.50,0.15,east,CC
+T00054,13-06-2026,C0325,29,JUICE,GROCERIES,1,331.97,0,Eastern,debitcard
+T01695,28-04-2025,C0287,2,Eyeshadow Palette with Mirror,makeup,2,1740.60,0.05,east ,creditcard
+T00878,13-11-2025,C0328,35,POTATOES,GROCERIES,1,191.34,0,  E ,wallet
+T00540,25-06-2026,C0477,5, Red Nail Polish ,Beauty,1,747.31,0,E,credit card
+T00874,31-07-2025,C0078,36,Protein Powder,GROCERIES,1,1701.15,0,east ,netbanking
+T00138,13-06-2026,C0098,28, Ice Cream   ,Grocery ,4,457.58,0.05,east,UPI
+T01664,04-02-2025,C0456,3,Powder Canister,Beauty,1,1256.20,0,east,creditcard
+T01375,25-06-2025,C0189,35,Potatoes,groceries,3,193.88,0,  E   ,Debit Card
+T01136,01-05-2026,C0356,29, JUICE ,Groceries,4,₹338.14,0.1,East,UPI
+T00544,13-12-2025,C0087,21,  cucumber ,grocery,1,125.15,0,EAST,debitcard
+T01480,12-04-2025,C0158,39,  Soft Drinks   ,grocery,1,165.40,0.05,east,wallet
+T01293,04-09-2026,C0111,28,  Ice Cream   ,Grocery ,1,476.37,0.05,east,credit card
+T00031,28-05-2025,C0273,1,Essence Mascara Lash Princess,beauty,1,847.91,0,Eastern,Upi
+T00184,09-10-2025,C0166,35,Potatoes,groceries,2,193.64,0.2,east,Cash
+T01973,01-08-2026,C0485,29,Juice,Groceries,5,331.00,0.2,  east,NET BANKING
+T01328,31-08-2025,C0475,26,  Green Chili Pepper   ,Grocery ,3,85.61,0.1,Eastern,DC
+T00315,03-02-2025,,31,  Lemon ,groceries,3,68.47,0,E,Credit Card
+T00125,29-10-2026,C0331,39,soft drinks,Grocery ,1,170.33,0,East,
+T01361,20-01-2025,,32,Milk,GROCERIES,4,304.33,0.1,east,cod
+T01901,03-09-2025,C0007,1,Essence Mascara Lash Princess,BEAUTY,1,845.55,0.15,East,upi
+T00534,02-08-2026,c0222,35,Potatoes,GROCERIES,1,₹198.20,0,,Credit Card
+T01017,07-11-2025,C0039,27,honey jar,GROCERIES,4,604.22,0,east,creditcard
+T01404,08-05-2025,C0212,39,Soft Drinks, GROCERIES,2,170.51,0.05,Eastern,cash
+T00843,03-02-2026,C0278,3,Powder Canister,beauty,2,1305.60,0,East,Cash
+T00828,19-10-2026,C0374,9,Dolce Shine Eau de,FRAGRANCES,5,5882.24,0,east,Net Banking
+T01669,22-09-2025,C0170,38,Rice,groceries,2,509.11,0.15,east,cod
+T01704,28-11-2025,C0352,21,Cucumber,Groceries,1,128.10,0.1,  east    ,  debit card
+T00513,20 Apr 2026,C0241,35,Potatoes, Groceries,2,198.69,0.15,East,Credit Card
+T00562,28-05-2025,C0209,32,Milk,groceries,1,301.10,0.1,EAST,gpay
+T00420,03-03-2026,C0378,39,Soft Drinks,Grocery ,1,166.02,0.2,  EAST   ,upi
+T00453,13-02-2026,C0390,26,green chili pepper,grocery,1,83.98,0,E,Net Banking
+T00982,30-06-2026,C0497,35,Potatoes,GROCERIES,1,190.29,0.15,E,phonepe
+T00682,23-04-2025,C0149,35,Potatoes,GROCERIES,1,197.20,0.05,Eastern,CC
+T01745,16-07-2025,C0448,1,ESSENCE MASCARA LASH PRINCESS,beauty,1,870.26,0,E,Wallet
+T00662,03-12-2025,C0349,35,Potatoes,Groceries,1,197.55,0.15,East,Debit Card
+T01790,14-03-2026,C0450,4, Red Lipstick ,Cosmetics,2,1083.45,0,East,upi
+T00119,27-01-2025,C0265,16,Apple,Grocery ,1,172.66,0.15,East,CREDIT CARD
+T00834,21-07-2025,C0138,21,Cucumber,groceries,3,125.24,0.2,  east   ,phonepe
+T00566,19-01-2026,C0425,17, Beef Steak,Groceries,2,N/A,0,  east ,Upi
+T00879,09-05-2025,C0242,8,Dior J'adore,fragrances,2,7667.02,0,Eastern,Cash
+T00435,N/A,c0174,2,Eyeshadow Palette with Mirror,makeup,4,1742.14,0,E,upi
+T01617,04-07-2025,C0382,2,Eyeshadow Palette with Mirror,Cosmetics,1,1711.79,0.1,EAST,CASH
+T00422,21-02-2025,C0442,4,Red Lipstick,makeup,two,1104.81,0.1,Eastern,U.P.I
+T00311,09-08-2025,C0490,40,Strawberry,groceries,2,331.09,0.05,east,debit card
+T00987,15-09-2025,c0287,39,Soft Drinks,grocery,3,164.82,0.2,Eastern,Debit Card
+T01929,09-10-2025,C0120,26,Green Chili Pepper,Groceries,2,85.51,0.05,east ,Net Banking
+T01952,04-09-2025,C0330,4,Red Lipstick,makeup,3,1105.78,0.2,EAST,
+T01262,05-08-2025,C0355,9004,LED Desk Lamp,Home Decoration,3,771.19,0,E,debitcard
+T01224,16-02-2025,C0169,25,Green Bell Pepper,Grocery ,2,107.70,0.2,East,CC
+T01566,24-12-2025,C0249,31,,groceries,2,66.22,0.2, E   , Upi
+T00233,05-03-2025,C0322,2,Eyeshadow Palette with Mirror,makeup,2,1700.73,0,E,Net Banking
+T00151,26-07-2026,C0082,36,Protein Powder,Grocery ,4,1737.82,0.1,Eastern,Debit Card
+T00183,30-05-2025,C0266,36,Protein Powder,groceries,5,1708.58,0,East,Debit Card
+T00962,N/A,C0057,8,Dior J'adore,perfume,2,7752.06,0,E,DC
+T01507,03-07-2026,c0492,1,Essence Mascara Lash Princess,beauty,5,832.84,0,East,UPI
+T00112,31-02-2025,C0142,4,red lipstick,Beauty,2,1103.06,0,E,debitcard
+T01499,23-05-2026,C0003,32,Milk,Groceries,2,289.70,0,east,UPI
+T01964,02-09-2025,,23,EGGS,Grocery ,3,247.11,0.2,E, Upi 
+T00014,23-02-2026,C0006,33,Mulberry,Groceries,2,428.10,0,east ,debit card
+T01681,03-12-2025,c0229,29,Juice,Groceries,5,339.62,0,E,Debit Card
+T00475,13-03-2026,C0081,35,potatoes,Grocery ,1,196.29,0,E,phonepe
+T00318,17-10-2026,C0267,35,Potatoes,Grocery ,5,196.68,0,Eastern,cash
+T01076,11-08-2026,C0433,31,  Lemon, groceries   ,1,65.99,0.05, EAST ,phonepe
+T00503,29-09-2026,C0265,35, Potatoes   ,Grocery ,3,199.63,0,  Eastern,  debit card
+T00536,27-05-2025,C0278,18,Cat Food,Grocery ,4,786.89,0,E,net-banking
+T01893,06-01-2025,C0279,33,Mulberry,grocery,2,416.02,0.05,east,debitcard
+T01834,07-10-2026,C0078,38,Rice,GROCERIES,1,506.96,0,east ,paytm wallet
+T01983,06-10-2025,c0460,26,Green Chili Pepper,GROCERIES,2,84.27,0,EAST,Paytm
+T01830,24-07-2025,C0489,39,Soft Drinks,grocery,1,164.66,0,east ,U.P.I
+T00510,14-02-2026,C0309,26,Green Chili Pepper,GROCERIES,2,85.84,0.05,east,Cash
+T00411,23-06-2025,C0279,29,Juice,GROCERIES,4,331.68,0,E,Upi
+T00997,25-12-2025,,28,ICE CREAM,Groceries,1,462.17,0,Eastern,cod
+T00020,04-05-2025,C0122,40, STRAWBERRY,GROCERIES,3,340.73,0.05, east   ,  Credit Card 
+T00564,11-11-2025,C0388,35,POTATOES,Grocery ,3,198.09,0.15,Eastern,debitcard
+T00047,02-06-2026,C0408,10,Gucci Bloom Eau de,Fragrances,3,6843.30,0, east    ,Cash
+T00894,17-08-2026,C0215,28,Ice Cream,Groceries,2,469.96,0,East,upi
+T00895,04-07-2025,C0303,16,Apple,GROCERIES,1,167.59,0,East, gpay   
+T00182,25-11-2025,C0262,16, Apple ,Grocery ,4,172.40,0.2,EAST, creditcard   
+T01374,01-01-2025,C0395,26,Green Chili Pepper, Groceries   ,3,81.98,0,Eastern,phonepe
+T01737,19-05-2026,C0272,33,Mulberry,GROCERIES,1,419.24,0,East,credit card
+T00749,00/00/0000,C0043,38,Rice,Grocery ,2,498.20,0.15,E,debit card
+T00898,30-04-2025,C0096,40,Strawberry,  Groceries ,5,336.93,0.1,EAST,gpay
+T01615,21-09-2026,C0130,32,MILK,Groceries,3,296.17,0,Eastern,Credit Card
+T01171,16-08-2026,C0371,5,RED NAIL POLISH,makeup,5,752.67,0,Eastern, gpay
+T00854,24-06-2026,C0242,26,Green Chili Pepper,groceries,1,85.47,0,east ,upi
+T00046,17-02-2025,C0151,21,Cucumber,Groceries,1,127.14,0,east,  netbanking
+T00050,12-09-2026,C0002,34,Nescafe Coffee,grocery,3,675.64,0,Eastern,UPI
+T01326,01-08-2025,C0273,32,Milk,grocery,2,288.04,0.05,Eastern,UPI
+T00061,30-10-2026,C0412,23,EGGS,groceries,5,261.36,0.1,east ,
+T01348,04-09-2026,C0306,35,Potatoes,groceries,2,198.58,0,Eastern,cash
+T01260,22-09-2025,C0004,17,beef steak,Grocery ,2,1135.39,0,E,credit card
+T00144,28-10-2025,C0338,31,Lemon,Groceries,3,67.18,0,EAST,Net Banking
+T00079,09-10-2026,C0120,35,Potatoes,Groceries,1,195.41,0.1,east,DC
+T01656,22-10-2025,C0161,31,Lemon,Grocery ,1,68.24,0.05,E,Debit Card
+T01390,11-10-2025,C0266,37,Red Onions,GROCERIES,2,167.83,0.15, E   ,gpay
+T00029,N/A,C0219,35,Potatoes,GROCERIES,2,190.77,0,east ,Cash
+T00456,21-07-2025,C0184,39,Soft Drinks,Groceries,2,174.22,0.1,Eastern,cod
+T01641,01-03-2025,C0248,9004,led desk lamp, Home Decoration,4,765.11,0,East,creditcard
+T00147,19-01-2026,C0202,32,Milk,groceries,2,304.33,0.15,EAST,phonepe
+T01276,25-01-2026,C0106,35,Potatoes,Groceries,1,194.08,0,E,phonepe
+T00085,12-03-2026,C0043,27,Honey Jar,Grocery ,2,610.63,0,EAST,phonepe
+T00691,10-05-2026,C0047,29,juice,grocery,2,333.01,0,EAST,debit card
+T00211,02-05-2026,C0135,28,Ice Cream,grocery,1,472.98,0,E,Net Banking
+T00393,11-12-2025,C0139,3,Powder Canister,Beauty,5,1278.58,0,East,cash
+T00721,25-08-2026,C0132,16,APPLE,Groceries,1,168.19,0.1,east,UPI
+T01212,18-03-2026,C0131,16,Apple,grocery,1,171.58,0,  E ,paytm wallet
+T00088,08-04-2026,C0049,34,Nescafe Coffee,GROCERIES,3,680.82,0,east ,U.P.I
+T00859,23 Nov 2025,c0022,15, Wooden Bathroom Sink With Mirror   ,furnitures,1,66049.54,0.1,Eastern,DC
+T00169,28-04-2025,C0202,29,Juice,Grocery ,3,332.80,0,East,NET BANKING
+T00051,01-08-2026,C0476,25,Green Bell Pepper,Groceries,1,111.31,0,east,cash
+T01501,00/00/0000,C0263,35, Potatoes ,groceries,3,198.59,0,EAST,  CASH 
+T01585,12-08-2025,C0449,40,,Grocery ,2,349.31,0,East, Net Banking   
+T01752,05-02-2026,C0021,5,RED NAIL POLISH,makeup,1,744.50,0.15,East,paytm wallet
+T00584,12-03-2026,,40,Strawberry,Grocery ,5,329.20,0,  Eastern   ,debitcard
+T00565,14-06-2025,C0083,35,Potatoes,grocery,1,193.76,0,east,upi
+T01936,19-07-2026,C0458,5,  Red Nail Polish ,makeup,4,782.23,0,E,Cash
+T01522,24-09-2026,C0510,25,Green Bell Pepper,Groceries,3,110.02,0,Eastern,  NET BANKING 
+T00688,08-08-2025,,35,Potatoes,groceries,3,197.27,0.15,East,UPI
+T00288,27-01-2025,C0259,36,PROTEIN POWDER,Groceries,2,1725.02,0,EAST,cod
+T01725,10-10-2025,C0411,40, Strawberry ,GROCERIES,1,349.27,0.2,east,cash
+T01334,05-04-2025,C0311,24,Fish Steak,grocery,1,1238.80,0.2,EAST,netbanking
+T01684,07-01-2026,C0055,36,Protein Powder,groceries,3,1723.27,0.2,EAST,Upi
+T01761,26-08-2026,C0404,18,Cat Food,groceries,1,744.08,0,East,CASH
+T01463,20-03-2026,C0052,4,Red Lipstick,Beauty,1,1123.07,0.15,  Eastern ,upi
+T01714,18-08-2025,C0183,16,Apple,Grocery ,4,167.48,0,Eastern,CASH
+T01554,18-12-2025,C0288,25,green bell pepper,Groceries,2,106.50,0.15, East,UPI
+T01766,07-08-2025,C0094,12,Annibale Colombo Sofa, furniture,1,206653.77,0,east,Credit Card
+T00664,27-06-2025,C0177,16,  Apple,Groceries,0,174.15,0, east,phonepe
+T01913,21-10-2026,C0124,3,Powder Canister,makeup,1,1289.31,0.2,Eastern, Credit Card   
+T01579,20-06-2026,C0125,39,Soft Drinks,Grocery ,3,166.09,0,E,Upi
+T00224,00/00/0000,C0390,34,Nescafe Coffee,grocery,3,688.80,0,east ,U.P.I
+T01891,10-02-2025,C0211,29,Juice,Groceries,2,341.29,0,Eastern,debitcard
+T01153,25-06-2026,C0375,28,Ice Cream,groceries,3,456.91,0,East,U.P.I
+T00973,21-04-2026,C0191,38,Rice,groceries,2,504.95,0,east ,upi
+T01190,19-06-2025,C0481,16, Apple ,groceries,2,172.20,0.1,east,CC
+T00820,27-06-2026,C0061,4,Red Lipstick,makeup,1,1125.81,0,E,gpay
+T00528,30-05-2025,C0340,16,Apple,GROCERIES,3,173.74,0.15,  Eastern   ,Upi
+T01540,08-04-2025,C0300,37,Red Onions,GROCERIES,1,165.88,150,Eastern,gpay
+T01483,27-04-2025,C0426,2,Eyeshadow Palette with Mirror,makeup,3,1680.15,0,East,Credit Card
+T01749,10-01-2025,C0110,25,green bell pepper, Grocery ,5,111.14,0.05,east ,CASH
+T00451,06-04-2025,c0368,30,Kiwi,GROCERIES,1,217.73,0.1, EAST,CASH
+T00890,26-01-2025,C0068,1,Essence Mascara Lash Princess,Beauty,2,835.87,0.2,  EAST ,U.P.I
+T00324,10-12-2025,C0156,31,Lemon,groceries,3,65.75,,EAST,Upi
+T01265,27-06-2026,C0103,26,Green Chili Pepper,GROCERIES,2,86.66,0.1,east,upi
+T00576,17-07-2026,C0089,29,Juice,GROCERIES,4,333.34,0.15,east,Wallet
+T00202,12 Jan 2026,C0260,37,Red Onions,groceries,2,165.62,0.05,Eastern,gpay
+T00764,17-09-2025,C0147,2, Eyeshadow Palette with Mirror ,beauty,3,1693.41,0,Eastern,debitcard
+T01099,03-03-2025,C0492,24,Fish Steak,groceries,2,1277.61,0.1,east,cod
+T01406,31-07-2025,C0306,27,honey jar,Grocery ,2,594.31,0,East,debitcard
+T01542,25-04-2026,C0165,36,Protein Powder,Groceries,2,1709.40,0,east,Credit Card
+T01357,04-05-2026,C0451,39,SOFT DRINKS,Groceries,2,172.64,0,EAST,UPI
+T00961,10-08-2026,C0214,18,Cat Food, groceries,4,775.78,0,Eastern,U.P.I
+T00552,23-01-2025,C0050,21,Cucumber,grocery,5,123.39,0,  East   ,gpay
+T00180,24-08-2026,C0170,22,Dog Food,Groceries,3,924.88,0,east ,creditcard
+T01254,25-05-2026,C0442,38,rice,grocery,3,494.01,0,EAST,debit card
+T00693,14-04-2026,c0285,5,Red Nail Polish,Beauty,2,744.94,0.05,EAST,U.P.I
+T01637,18-04-2025,C0160,40,strawberry,groceries,3,346.19,0,east,phonepe
+T01278,15-03-2026,C0507,15,Wooden Bathroom Sink With Mirror,FURNITURE,1,69617.55,0,east ,cod
+T01501,00/00/0000,C0263,35, Potatoes ,groceries,3,198.59,0,EAST,  CASH 
+T00833,27-10-2026,C0144,25,Green Bell Pepper,grocery,1,110.95,0.1,east ,cash
+T00819,02-02-2025,C0213,16,Apple,  GROCERIES ,3,164.95,0,east,CREDIT CARD
+T01584,22-01-2026,C0028,27,HONEY JAR,Grocery ,1,603.37,0,East,Cash
+T00566,19-01-2026,C0425,17, Beef Steak,Groceries,2,N/A,0,  east ,Upi
+T01035,13-02-2025,C0167,2,  Eyeshadow Palette with Mirror ,BEAUTY,3,1698.10,0, EAST   ,Debit Card
+T01387,28-06-2025,C0286,36, Protein Powder ,grocery,2,1743.40,0.1,,debitcard
+T01372,21-02-2026,C0159,31,lemon,  Grocery  ,2,68.32,0,  east  ,upi
+T00527,26-03-2026,C0227,26,Green Chili Pepper,groceries,1,86.32,0,east,cod
+T01776,02-05-2026,C0392,3,Powder Canister,makeup,1,1311.51,150,EAST,Paytm
+T00967,03-11-2025,C0397,20, Cooking Oil   ,  GROCERIES   ,3,419.36,0,Eastern,phonepe
+T01117,21-10-2026,C0333,5,Red Nail Polish,beauty,2,742.83,0.05,Eastern,  Paytm
+T01185,27-10-2026,C0193,2,Eyeshadow Palette with Mirror,Beauty,1,1717.67,0.05,E,net-banking
+T01047,01-04-2025,C0189,5,Red Nail Polish, makeup   ,3,782.19,0,Eastern, cod 
+T00152,16-02-2025,C0344,27,HONEY JAR,Grocery ,3,₹601.85,0.1,East,phonepe
+T01603,07-02-2025,C0133,33,Mulberry,groceries,4,419.94,0,east,Credit Card
+T00007,07-04-2025,C0424,33,Mulberry,Grocery ,3,430.14,0,East,upi
+T01488,10-08-2026,C0093,38,rice,groceries,1,505.70,0,E,CREDIT CARD
+T00933,18-12-2025,C0074,17,Beef Steak, Groceries ,4,1087.27,0.05,east,gpay
+T00659,13-12-2025,C0419,4,RED LIPSTICK,BEAUTY,1,1117.47,0.2,Eastern,cod
+T01741,02-09-2025,C0012,35,Potatoes,grocery,1,191.59,0.1,east,upi
+T00583,20-01-2026,C0405,2,,Beauty,2,1700.18,0.2,east ,Debit Card
+T00363,08-10-2026,C0331,21,Cucumber,  GROCERIES,2,128.92,0.05,East,CC
+T00665,09-10-2025,C0248,33,  Mulberry   ,Grocery ,2,432.65,0,Eastern,DC
+T01859,17-12-2025,C0287,16,Apple,grocery,3,170.82,0,Eastern,Paytm
+T00722,13-08-2025,C0161,3,Powder Canister,BEAUTY,5,1278.54,0.05,EAST,Upi
+T01688,29-08-2025,C0412,36,Protein Powder,Groceries,4,1723.18,0,  E,phonepe
+T00083,10-10-2025,C0161,35, Potatoes,  grocery,2,196.32,0.1,E,netbanking
+T01049,06-12-2025,,1,Essence Mascara Lash Princess,BEAUTY,1,₹861.22,0,east,debit card
+T00863,22-08-2025,C0188,37,  Red Onions, Groceries   ,3,173.39,0,east ,cod
+T01024,26-03-2026,C0010,22,Dog Food,grocery,2,923.52,0.05,EAST,credit card
+T01982,24-01-2026,C0097,20,COOKING OIL,Grocery ,2,-435.72,0,  east   ,Wallet
+T00999,09-10-2025,C0026,25,Green Bell Pepper,Groceries,1,109.97,0,,cash
+T01921,21-01-2025,C0176,39, Soft Drinks   ,groceries,-1,172.11,0.2,east, UPI 
+T01433,08-09-2025,C0291,38,  Rice   ,Grocery ,3,519.38,0,E,U.P.I
+T01988,17-04-2026,C0048,39,Soft Drinks,  Groceries   ,3,167.73,0,E,  Debit Card 
+T00033,05-09-2026,C0491,28,Ice Cream,Grocery ,2,464.00,0,east,CREDIT CARD
+T00777,20-09-2026,C0016,34,Nescafe Coffee,grocery,3,674.91,0.2,east,CASH
+T01128,22-03-2026,C0109,26,Green Chili Pepper,Grocery ,1,84.61,0,east ,cash
+T00049,28-10-2025,C0221,35,Potatoes,GROCERIES,5,190.28,0,east, Credit Card   
+T00077,07-09-2026,c0316,16,Apple,grocery,1,167.60,0.1,Eastern,debitcard
+T01677,N/A,C0424,1,Essence Mascara Lash Princess,BEAUTY,1,845.03,0.05,east ,Cash
+T01728,30-03-2025,C0231,2,Eyeshadow Palette with Mirror,makeup,1,1654.10,0,E,netbanking
+T00038,27-05-2026,,35,Potatoes,Groceries,4,195.24,0,Eastern,Cash
+T01668,13-05-2026,C0010,9003,Yoga Mat Pro,Sports Accessories,4,878.78,0.05,East,CASH
+T00555,27-05-2026,c0119,24,Fish Steak,Groceries,1,1261.09,0,East,upi
+T01717,21-07-2026,C0469,39,Soft Drinks,grocery,5,171.61,0,east,creditcard
+T01633,21-05-2025,C0288,35,POTATOES,groceries,1,193.67,0.15,East,U.P.I
+T01429,01-06-2026,,35,potatoes,groceries,3,199.10,0.05,East,Upi
+T00541,21-04-2025,C0424,2,Eyeshadow Palette with Mirror,beauty,1,1648.89,0,east,Cash
+T00529,11-05-2026,C0461,31,lemon,groceries,2,66.20,0,east ,phonepe
+T00711,05-06-2025,C0080,1,Essence Mascara Lash Princess,beauty,1,868.52,0.1,EAST,U.P.I
+T01568,25-03-2026,C0041,37,red onions,Grocery ,5,165.35,0.05,east ,U.P.I
+T01978,28-03-2025,C0345,17,Beef Steak,groceries,2,1114.82,0.15,E,phonepe
+T01346,11-02-2026,C0014,31,  Lemon,groceries,2,65.43,0,east,Upi
+T01167,24-01-2025,,37,Red Onions,Grocery ,7,171.55,0.05,East,cash
+T01221,08-09-2025,C0363,22,DOG FOOD,Grocery ,3,932.89,0,east,creditcard
+T00001,04-07-2026,C0348,4,Red Lipstick,makeup,5,1122.14,0,E,Upi
+T00653,28 Apr 2026,C0057,33,Mulberry,Grocery ,1,428.31,0,EAST,upi
+T00226,23-06-2026,C0396,26,  Green Chili Pepper   ,Grocery ,1,84.69,0,east,gpay
+T01285,06-12-2025,C0373,6,calvin klein ck one,FRAGRANCES,-1,4293.86,0,Eastern,upi
+T00763,15-04-2026,C0492,37,Red Onions,grocery,1,168.96,0,Eastern,Credit Card
+T01862,01-10-2025,C0236,16,Apple,grocery,4,166.79,0,east,gpay
+T00665,09-10-2025,C0248,33,  Mulberry   ,Grocery ,2,432.65,0,Eastern,DC
+T01719,19-04-2025,C0249,28,Ice Cream,Groceries,1,0,0.1,east,cod
+T01178,21-10-2025,C0100,26,Green Chili Pepper,GROCERIES,2,84.17,0.1,Eastern,Paytm
+T01771,01-05-2025,C0299,2,Eyeshadow Palette with Mirror,makeup,3,1680.29,0,east ,Debit Card
+T01735,11-01-2025,C0274,18,Cat Food,Groceries,1,749.34,0,  east ,Net Banking
+T00255,20-03-2025,C0436,21,Cucumber,grocery,1,127.86,0,east ,CREDIT CARD
+T01058,03-03-2026,C0086,39,Soft Drinks,Groceries,2,168.67,0,east ,CASH
+T00979,22-07-2025,C0097,26,GREEN CHILI PEPPER,Grocery ,2,86.03,0.1,East,U.P.I
+T00972,02-06-2025,C0108,35,Potatoes,Groceries,3,198.65,0,Eastern, CC
+T00807,25-07-2025,C0267,27,HONEY JAR,grocery,1,597.57,0,E,  cash 
+T01839,23-05-2026,C0197,26,  Green Chili Pepper,Groceries,1,82.94,0,E,upi
+T01795,29-08-2025,C0439,29,JUICE,GROCERIES,2,342.74,0.15,EAST,upi
+T00004,30-10-2025,C0200,2,Eyeshadow Palette with Mirror,BEAUTY,2,1692.85,0,E,cash
+T00754,13-01-2025,c0415,31,Lemon,grocery,1,65.33,0,east,Cash
+T00512,20-09-2025,C0406,26,Green Chili Pepper,  groceries   ,4,84.21,0.1,Eastern,
+T00817,22-01-2026,C0471,31,Lemon,Groceries,4,68.98,0,east, Upi   
+T01792,25-11-2025,C0032,13,Bedside Table African Cherry,FURNITURE,1,25806.99,0,east,UPI
+T00707,06-04-2025,C0404,24,Fish Steak, grocery ,1,1236.57,0.1,E,UPI
+T00238,20-01-2025,C0497,35,Potatoes,groceries,1,195.91,0.05,EAST,credit card
+T00934,15-07-2025,C0115,21,Cucumber,  Groceries,3,127.22,0,  east,CASH
+T01021,04-09-2026,C0165,32,Milk,grocery,2,292.01,0,east ,UPI
+T00985,17-07-2026,C0118,16,  Apple ,groceries,4,166.61,,east,
+T01205,13-09-2026,C0137,25,Green Bell Pepper,groceries,5,112.61,0,East,NET BANKING
+T01242,14-02-2026,C0219,26,Green Chili Pepper,  GROCERIES,2,86.66,0,EAST,Upi
+T01793,03-12-2025,C0050,3,Powder Canister,beauty,1,1245.17,0,east ,gpay
+T01955,21-05-2026,C0189,22,  Dog Food,GROCERIES,2,950.65,0,East,Debit Card
+T00336,14-10-2026,C0246,35,Potatoes,GROCERIES,2,198.10,0.1, Eastern ,UPI
+T00039,13-08-2025,C0397,5,,beauty,1,754.03,0.05,east,gpay
+T00695,22-09-2026,C0355,35,Potatoes,groceries,2,193.57,0,Eastern,Credit Card
+T00825,21 Nov 2025,C0420,39,Soft Drinks,Groceries,2,172.28,0,EAST,CASH
+T00099,19 Feb 2026,C0038,34,NESCAFE COFFEE,Grocery ,4,667.42,0.2,E,cash
+T01635,26-07-2025,C0183,4,Red Lipstick,Beauty,3,1130.75,0,east ,upi
+T01712,18-09-2026,C0301,29,Juice,grocery,1,345.05,0.1,East,DC
+T00287,16-07-2026,C0310,24,Fish Steak,Groceries,3,1300.55,0, E   ,cash
+T00605,13-04-2025,C0461,35,potatoes,Grocery ,4,193.56,0.2,Eastern,
+T01957,28-10-2025,C0015,39,Soft Drinks,grocery,1,170.46,0,east,CC
+T01068,02-11-2025,C0224,35,Potatoes,GROCERIES,1,₹198.67,0,East,net-banking
+T00619,11-05-2026,C0465,35,POTATOES,GROCERIES,5,200.28,0.05,East, U.P.I   
+T01527,27-09-2025,C0169,37,Red Onions,Grocery ,2,168.97,0, East   ,paytm wallet
+T01378,05-05-2025,C0236,16,  Apple ,grocery,2,173.08,0,  east  ,debit card
+T01220,19-01-2025,C0364,16,  Apple   ,Grocery ,2,171.04,0.2,Eastern,Credit Card
+T00016,01-10-2025,C0408,39,  Soft Drinks   ,GROCERIES,5,164.64,0,East,Wallet
+T01828,14-08-2025,C0180,3,Powder Canister,BEAUTY,1,1253.00,0.15,East,CREDIT CARD
+T00309,05-07-2025,C0322,39,Soft Drinks,grocery,1,169.99,0.2,east ,  paytm wallet   
+T00060,23-07-2026,C0457,21,Cucumber,grocery,1,123.09,0,Eastern,CC
+T00601,24-03-2025,C0207,35,Potatoes,groceries,2,196.01,0,EAST,DC
+T00379,26-08-2026,,37,Red Onions,Groceries,1,166.61,0.05,EAST,phonepe
+T01324,17-10-2026,C0422,21,CUCUMBER,Groceries,4,126.20,0.15,east,creditcard
+T01693,07-04-2025,,9002, Bluetooth Speaker Mini ,Electronics,4,1337.52,0,EAST,Debit Card
+T01866,20-11-2025,C0465,2,Eyeshadow Palette with Mirror, Beauty   ,1,1693.91,0,East,CREDIT CARD
+T00532,01-03-2026,C0044,27, Honey Jar ,GROCERIES,1,606.70,,east,paytm wallet
+T01646,27-08-2026,C0277,6,Calvin Klein CK One,Fragrances,2,4127.53,0,E,UPI
+T01746,03-09-2025,C0448,35,Potatoes,groceries,1,193.13,0,Eastern,gpay
+T01941,24-04-2026,C0212,40,Strawberry,Groceries,1,abc,0,  East   ,U.P.I
+T00340,30-01-2026,,32,Milk,Groceries,1,291.03,0.05,Eastern,gpay
+T00306,08-12-2025,C0387,16, Apple,GROCERIES,2,171.86,0,East,net-banking
+T01102,27-10-2025,C-12X,5,Red Nail Polish,makeup,2,774.57,0, East ,U.P.I
+T00002,09-04-2025,,40,Strawberry,GROCERIES,3,342.67,0.15,East,CC
+T00424,25-05-2025,C0188,38,Rice,GROCERIES,2,496.83,0.2,east,  CASH 
+T00702,15-12-2025,C0433,23,Eggs,Groceries,3,261.28,0.2,East,DC
+T01583,06-08-2026,C0455,32,Milk,Groceries,2,295.90,0,east,  CASH   
+T00106,23-05-2026,C0246,21,Cucumber,Grocery ,1,125.20,0,EAST,debit card
+T01163,17-10-2026,C0266,26,green chili pepper,Groceries,3,84.98,0.2,  Eastern   ,U.P.I
+T01920,11-09-2026,C0476,38,Rice,groceries,3,522.48,0,East,netbanking
+T00219,27-11-2025,C0242,32,Milk,  grocery   ,2,293.58,0,east,netbanking
+T01599,05-02-2025,C0257,4,Red Lipstick,makeup,1,1083.53,0,east ,U.P.I
+T01803,21-03-2026,C0239,26,  Green Chili Pepper   ,Groceries,1,81.73,0,Eastern,upi
+T00925,14-02-2026,C0149,31,Lemon,groceries,1,₹67.10,0.2, Eastern,upi
+T01797,15-02-2026,C0347,9004,LED Desk Lamp,Home Decoration,1,764.05,0,  EAST ,Upi
+T01832,30-04-2025,C0278,27,Honey Jar, Grocery  ,4,581.49,0.2,Eastern,CASH
+T00027,01-02-2026,C0287,39,SOFT DRINKS,Groceries,3,173.80,0,EAST,U.P.I
+T01257,20-05-2026,c0283,28,,Grocery ,4,453.23,0.1,east ,upi
+T00705,2025-13-45,C0139,39,soft drinks,  grocery   ,2,169.54,0.1,EAST,DC
+T01354,25-02-2025,C0383,4,Red Lipstick,Cosmetics,1,1117.38,0,east,UPI
+T00008,09-06-2025,C0016,39,Soft Drinks,Grocery ,2,170.77,0,E,Upi
+T01835,31-10-2026,C0136,4,Red Lipstick,makeup,1,1106.13,0.2,,Upi
+T01644,17-11-2025,C0294,32,Milk,Groceries,2,291.81,0,E,credit card
+T00256,27-12-2025,C0049,33,mulberry,GROCERIES,5,431.36,0.15, east  ,  cod
+T01783,20-09-2026,C0202,16,Apple,Grocery ,5,167.58,0.15,East, U.P.I
+T00738,13-02-2026,C0269,35,  Potatoes,Groceries,4,190.18,0,east ,gpay
+T01084,11-02-2026,C0110,26,Green Chili Pepper,groceries,1,84.87,0.1,  E ,gpay
+T01614,15 Aug 2026,C0393,20,  Cooking Oil   ,Grocery ,1,433.38,0.1,EAST,gpay
+T01534,26-12-2025,c0283,25,Green Bell Pepper,groceries,3,108.31,0.05,EAST,net-banking
+T00891,16-01-2026,C0359,39,  Soft Drinks ,grocery,1,168.69,0.2,East,cod
+T01193,10-10-2026,C0398,29,Juice,Groceries,3,344.76,0.2,Eastern,debit card
+T01366,00/00/0000,C0017,3,Powder Canister,Beauty,3,1302.00,0,EAST,Credit Card
+T00871,19-01-2025,C0439,39,Soft Drinks,grocery,1,171.34,0,east, CREDIT CARD
+T01702,02-08-2025,C0112,39,Soft Drinks,GROCERIES,4,172.57,0,  Eastern,cash
+T01801,09-07-2026,C0330,4,Red Lipstick,beauty,3,1091.50,0,Eastern,
+T01353,27-12-2025,C0057,35,  Potatoes ,groceries,1,198.66,0,Eastern,debit card
+T00087,08-09-2026,C0317,3,Powder Canister,beauty,1,1288.09,0,east,UPI
+T01496,31-10-2026,c0177,39,Soft Drinks,grocery,2,167.30,0,east,UPI
+T00750,14-10-2026,C0052,31,Lemon,groceries,4,65.65,0, east ,CC
+T01256,29-03-2026,C0332,26,Green Chili Pepper,groceries,1,84.33,0,east ,  CREDIT CARD 
+T00395,06-01-2026,C0321,23,Eggs,Grocery ,1,248.12,0,east,phonepe
+T00509,20 Mar 2026,C0406,30,Kiwi, grocery   ,0,217.78,0.05,E,net-banking
+T01447,16-02-2025,C0397,32,MILK,Grocery ,1,290.42,0.2,  Eastern   ,Debit Card
+T00065,17-02-2025,c0168,1,Essence Mascara Lash Princess,Cosmetics,1,865.45,0,East,Upi
+T00845,07-09-2025,C0365,9002,Bluetooth Speaker Mini,  Electronics   ,1,1321.87,0,Eastern,CASH
+T00095,11 Oct 2025,C0120,35,Potatoes,grocery,5,189.05,0.05,EAST,Upi
+T00606,09-02-2025,C0051,7,Chanel Coco Noir Eau De,Fragrances,1,10776.84,0, EAST   ,CASH
+T01969,10-02-2025,C0086,35,potatoes,groceries,1,196.77,0,,gpay
+T00096,03-06-2026,C0187,31,LEMON,Grocery ,2,65.61,0.1,EAST,Credit Card
+T00923,13-10-2026,C0460,26,Green Chili Pepper,GROCERIES,1,85.86,0,Eastern,debitcard
+T00469,01-09-2025,C0378,23,Eggs,Grocery ,3,258.45,0,E,UPI
+T01184,23-04-2026,C0266,39,Soft Drinks,Grocery ,2,169.44,0,east,upi
+T01394,22-10-2026,C0352,16,Apple,grocery,1,169.02,0,east ,phonepe
+T01813,11-02-2026,c0027,35,Potatoes,Grocery ,2,195.12,0,E,Cash
+T00770,27-03-2025,C0402,38,Rice,grocery,1,504.10,0,Eastern,U.P.I
+T01914,19-03-2026,C0038,31,Lemon,grocery,4,67.63,0,east,U.P.I
+T01493,13-02-2026,C0241,1,  Essence Mascara Lash Princess   ,beauty,1,864.96,0,east ,U.P.I
+T00593,09 Oct 2025,C0171,1,Essence Mascara Lash Princess,Beauty,2,844.09,0,east ,CREDIT CARD
+T01272,25-08-2025,C0191,18,Cat Food,  grocery ,1,760.22,0.2,East,Cash
+T00160,19-08-2025,C0444,31,Lemon,  Groceries,3,65.85,0, East ,cash
+T01069,15-10-2025,C0017,21,Cucumber,grocery,5,127.48,0.15,Eastern,creditcard
+T01551,30-01-2025,C0486,3,Powder Canister,beauty,2,1297.29,0.1,East,CC
+T01497,28-01-2026,C0118,21,cucumber,groceries,2,123.83,0.1,east ,paytm wallet
+T01423,11-10-2026,C0041,16,,groceries,4,164.39,0.2,east ,CREDIT CARD
+T01675,01-09-2026,C0211,34,Nescafe Coffee,GROCERIES,1,690.02,0,east ,CASH
+T01788,05-02-2025,C0235,26,Green Chili Pepper,Grocery ,1,86.50,0, E ,debit card
+T01197,24-10-2025,C0442,34,Nescafe Coffee,Groceries,1,668.44,0,east,CC
+T00708,21-08-2026,C0335,3,Powder Canister,Cosmetics,1,1246.47,0,east,Debit Card
+T00574,15-09-2026,C0131,16,Apple,Grocery ,1,164.79,0,East,  CASH   
+T01932,25-02-2026,C0257,17,Beef Steak,Groceries,1,1128.28,0,east,debitcard
+T00270,18-07-2026,C0200,21,Cucumber,groceries,1,129.93,0.2,Eastern,Net Banking
+T00368,01-08-2026,C0066,35,Potatoes,groceries,1,199.66,0,East,net-banking
+T01760,06-06-2025,C0230,21,Cucumber,  Groceries,3,125.50,0,EAST,UPI
+T01158,11-12-2025,C0079,40,Strawberry,groceries,1,341.69,0,East,CC
+T00239,17-06-2026,C0133,20,Cooking Oil,groceries,1,423.87,0.1,  EAST,UPI
+T01253,05-10-2025,C0242,18,Cat Food,GROCERIES,2,752.03,0,East,  U.P.I
+T01114,22-09-2025,C0469,35,Potatoes,grocery,3,191.71,0.05,east,phonepe
+T00208,03-04-2026,C0511,16,apple,  Grocery    ,1,165.86,0,EAST,netbanking
+T01667,28-09-2026,C0148,5,Red Nail Polish,makeup,2,762.89,0.05,EAST,wallet
+T00632,12 Sep 2025,C0463,4,Red Lipstick,BEAUTY,1,1132.21,0.2,Eastern,net-banking
+T01403,24-10-2025,C0500,27,Honey Jar,groceries,2,599.10,0.2,Eastern,  Upi   
+T00963,26-07-2025,C0086,38,RICE,Grocery ,1,500.13,0.1,EAST,cash
+T01456,07-04-2026,c0219,1,Essence Mascara Lash Princess,Cosmetics,2,850.57,0.1,  EAST ,debitcard
+T00818,27-03-2025,C0275,16,Apple,Grocery ,5,172.20,0,east ,gpay
+T00832,15-01-2025,C0254,35,Potatoes,groceries,2,196.21,0.2,Eastern,DC
+T00698,31-07-2025,C0306,25,Green Bell Pepper,groceries,1,108.38,0.15,EAST,gpay
+T00568,16-12-2025,C0265,16,Apple,GROCERIES,5,170.11,0,East,cod
+T00048,01-01-2026,C0112,4,Red Lipstick, beauty   ,2,1102.69,0,East, U.P.I
+T00471,04-01-2025,C0088,39,Soft Drinks,  grocery ,5,164.92,0,east ,cod
+T00276,26-08-2025,C0315,28,ice cream,Grocery ,1,470.47,0.05, east,Upi
+T00658,16-04-2026,C0401,18,Cat Food,Grocery ,1,780.95,0,Eastern,gpay
+T00543,27-10-2026,C0520,31,Lemon,Groceries,3,68.77,0,E,DC
+T00222,30-04-2026,C0490,25,Green Bell Pepper,groceries,1,108.53,0.1,Eastern,debitcard
+T01658,27-08-2025,C0070,16,Apple,Grocery ,1,171.64,0.1,east ,Upi
+T00217,26-04-2025,C0379,36,Protein Powder, GROCERIES   ,1,"₹1,670.21",0,E,credit card
+T00468,19-02-2025,C0464,27,Honey Jar,Grocery ,2,591.99,0,Eastern,debitcard
+T01956,30-03-2026,C0301,27,Honey Jar,Grocery ,1,598.50,0, east ,cash
+T01215,21-01-2026,c0101,17,beef steak,grocery,3,1092.91,0.1,EAST,DC
+T00745,07-06-2025,C0104,37,Red Onions,GROCERIES,2,168.19,0.2,Eastern,phonepe
+T01777,10-04-2025,C0417,35,Potatoes,GROCERIES,3,191.11,0,EAST,gpay
+T00030,22-02-2025,C0173,9001,Smart Watch X1,Electronics,4,2524.09,0,east,upi
+T00245,20-01-2025,C0071,33,Mulberry,GROCERIES,1,421.14,0.1,east,  U.P.I   
+T00397,22-06-2025,C0486,16,Apple,Groceries,2,169.65,0,east,CASH
+T00561,18-04-2026,C0239,39, Soft Drinks,Groceries,3,167.40,0,East,cash
+T01853,01-02-2026,C0132,16,apple,GROCERIES,3,170.79,0,east ,UPI
+T00608,16-11-2025,C0395,31,lemon,GROCERIES,1,67.96,0,east ,upi
+T01428,07-03-2026,C0482,4,Red Lipstick,beauty,3,1119.69,0.05,E,cash
+T00063,16-03-2025,c0232,38, Rice ,Groceries,4,505.02,0,EAST,credit card
+T00690,10-10-2026,C0273,5,Red Nail Polish,beauty,3,752.55,0,east,upi
+T01692,24-07-2025,C0158,35,Potatoes,GROCERIES,3,194.59,0,Eastern,UPI
+T00806,02-05-2026,,40,Strawberry,grocery,1,333.50,0,E,CASH
+T00910,26-01-2026,C0087,12,Annibale Colombo Sofa,furnitures,1,210381.34,0,east,debitcard
+T01452,14-09-2025,C0474,31,Lemon,GROCERIES,2,66.85,0.15,East,  Debit Card   
+T01845,14-05-2026,C0491,30,KIWI,groceries,2,206.29,0.2,EAST,cash
+T00479,10-07-2025,C0011,33,,GROCERIES,1,420.44,0.15,E,upi
+T01166,04-12-2025,c0173,33,Mulberry,groceries,1,415.13,0.15,Eastern,Net Banking
+T00419,24-12-2025,C0075,39,Soft Drinks,grocery,1,164.67,0,east ,CC
+T01010,09-07-2026,C0018,1,Essence Mascara Lash Princess,BEAUTY,1,838.58,0,E,  upi 
+T00454,05-03-2025,C0474,21,Cucumber,GROCERIES,5,127.63,0,E,UPI
+T00345,30-03-2025,C0484,39,Soft Drinks,grocery,1,164.12,0,east,Upi
+T00269,07-05-2025,C0151,4,,makeup,4,1119.99,0,East,debitcard
+T00192,16-03-2025,C0426,38,Rice,groceries,2,507.36,0.05,east ,gpay
+T00157,03-05-2026,C0396,3,Powder Canister,Cosmetics,1,1305.21,0.2, East,debit card
+T01490,15-09-2025,C0331,1,Essence Mascara Lash Princess,beauty,5,865.74,0,East,gpay
+T00558,10-07-2025,C0280,40,Strawberry,Groceries,2,329.30,0.1,east ,upi
+T01252,26-10-2026,C0387,39,Soft Drinks,groceries,4,165.46,0.1,East,debit card
+T01670,17-10-2026,C0314,25,Green Bell Pepper,Grocery ,2,108.25,0,EAST,gpay
+T00295,17-11-2025,C0044,27,Honey Jar,Grocery ,0,591.57,0.1,East,wallet
+T00980,01-04-2025,C0073,22,  Dog Food   ,Groceries,7,929.63,0,  east,Credit Card
+T01449,02-02-2025,C0059,28,Ice Cream,groceries,1,477.99,0,EAST,cash
+T01109,14-03-2026,C0156,34,Nescafe Coffee,grocery,2,₹688.01,0.15,Eastern,credit card
+T00253,10-04-2025,C0305,31,Lemon,groceries,2,67.41,0,East,Wallet
+T01596,11-08-2026,C0154,37,Red Onions,grocery,5,170.76,0.15,east ,upi
+T00502,03-01-2025,C0004,35,Potatoes,GROCERIES,2,196.82,0.2,EAST,Credit Card
+T00636,14-09-2026,C0005,2,Eyeshadow Palette with Mirror,Beauty,1,1698.06,0,east ,  debitcard
+T01026,08-02-2026,C0405,5,  Red Nail Polish ,makeup,3,750.49,0.15,East,CASH
+T00814,N/A,C0382,38,Rice,GROCERIES,1,521.00,0.05,east ,CC
+T00189,03-09-2026,C0104,35,POTATOES,Groceries,2,192.54,0,E,Wallet
+T00929,18-07-2025,C0105,25,Green Bell Pepper,Groceries,1,111.05,0,Eastern,U.P.I
+T00784,07-12-2025,C0318,4,Red Lipstick,makeup,1,1105.57,0.15,east,Credit Card
+T01330,11-02-2026,C0234,30,Kiwi,grocery,3,210.31,0,EAST,Paytm
+T00861,19-03-2026,C0399,25,Green Bell Pepper,groceries,1,109.19,0,EAST,UPI
+T01851,07-08-2026,C0080,8,dior j'adore,Perfumes,1,7612.43,0,east,phonepe
+T01085,01-10-2025,C0284,6,Calvin Klein CK One,Perfumes,1,-4302.67,0.15, East,debit card
+T00484,23-05-2025,C0279,27,  Honey Jar, Grocery  ,2,583.31,0,east,gpay
+T01479,05-04-2026,C0025,27,Honey Jar,groceries,3,586.81,0,east , gpay   
+T01636,25-07-2026,C0044,31,Lemon,grocery,3,67.11,0,East,U.P.I
+T01288,11-10-2025,C0222,31,  Lemon ,grocery,1,65.26,0.1,  east    , U.P.I   
+T01368,16-03-2025,C0336,38,Rice, GROCERIES,2,502.44,0,east ,phonepe
+T01905,14-08-2025,C0469,16,apple,GROCERIES,1,164.24,0,east,CC
+T01678,15-10-2025,C0079,18,Cat Food,GROCERIES,1,748.61,0,East,netbanking
+T01111,26-11-2025,C0219,30,  Kiwi ,Grocery ,2,214.85,0.1, East ,UPI
+T00135,15-04-2026,C0295,28,Ice Cream,Grocery ,5,466.59,0,east,CC
+T00225,20-06-2025,C0025,18,Cat Food,grocery,1,776.11,0,E,U.P.I
+T00361,21-07-2026,C0401,31, lemon ,grocery,4,69.06,0,East,net-banking
+T00684,23-08-2026,C0189,6,Calvin Klein CK One,Fragrances,2,4258.03,0,East,upi
+T01305,12-05-2025,C0233,31,Lemon,Grocery ,2,67.96,0.2,EAST,upi
+T01736,14-06-2025,C0170,22,Dog Food,groceries,5,915.87,0,Eastern,upi
+T00560,30-12-2025,C0377,4,Red Lipstick,Cosmetics,-3,1074.63,0.1,,CC
+T01033,26-11-2025,C0472,35,Potatoes,grocery,2,191.72,0,EAST,CREDIT CARD
+T00865,13-11-2025,C0059,36,Protein Powder,groceries,3,1670.16,0.1,Eastern,CREDIT CARD
+T01412,03-11-2025,c0326,25,Green Bell Pepper,Groceries,4,111.68,0,EAST,Upi
+T01559,21-02-2025,C0220,16,Apple, GROCERIES,1,173.80,0.1,EAST,UPI
+T00322,30-04-2025,C0132,9004,LED Desk Lamp,Home Decoration,2,752.76,0,east ,cash
+T00391,13-03-2025,C0247,1,Essence Mascara Lash Princess,Cosmetics,1,870.69,0,east,U.P.I
+T00134,19-07-2026,C0455,23,Eggs,Grocery ,2,255.34,0,Eastern, CASH   
+T01135,07-09-2025,c0302,25,Green Bell Pepper,Grocery ,2,107.77,0,,  gpay 
+T01774,28-07-2026,C0368,16,Apple,grocery,2,170.90,0.05,Eastern,CC
+T00472,31-12-2025,C0486,34,Nescafe Coffee, GROCERIES,two,698.23,0,east,CASH
+T01450,13-03-2026,C0381,9004,LED Desk Lamp,Home Decoration,2,751.12,0.15,East,  creditcard 
+T00221,13-05-2025,C0151,39,soft drinks,groceries,2,173.62,0,Eastern,wallet
+T00332,08-10-2026,C0400,36,protein powder,groceries,2,1700.33,0,east ,debit card
+T01183,07-09-2026,C0450,19,chicken meat,Groceries,2,855.02,150,east , gpay   
+T01626,28-04-2025,C0382,29,Juice,Grocery ,3,331.25,0,east,Credit Card
+T01653,18-10-2025,C0395,27,honey jar,Groceries,1,582.59,0.1,east ,UPI
+T01187,15-09-2025,C0314,23,Eggs,grocery,2,248.21,0,east,Debit Card
+T00646,23-12-2025,C0160,35,Potatoes,groceries,5,197.85,0.15,EAST,Cash
+T00739,03-06-2026,c0111,5,,makeup,1,744.77,0.15,east ,paytm wallet
+T00966,03-01-2025,,30,Kiwi,grocery,2,208.91,0,east,cod
+T01571,02-09-2025,C0488,35,Potatoes,GROCERIES,2,190.23,0,East,CREDIT CARD
+T00850,05-10-2026,c0100,21,Cucumber,GROCERIES,5,128.82,0,Eastern,UPI
+T00575,04-12-2025,C0368,16,APPLE,grocery,4,173.76,0.15,east ,U.P.I
+T01546,05-01-2025,C0382,16,Apple,grocery,2,164.97,0,east,Net Banking
+T01062,02-03-2026,C0207,26,Green Chili Pepper,grocery,2,84.93,0,Eastern,  U.P.I   
+T00364,22-10-2026,C0026,22, Dog Food   ,Groceries,2,945.79,0,E,credit card
+T00733,02-06-2025,C0178,28,ICE CREAM,Grocery ,1,457.90,0.1,E,Cash
+T00302,30-03-2026,C0446,37,Red Onions, GROCERIES ,1,165.79,0.15,east,CREDIT CARD
+T00378,29-10-2026,C0017,27,Honey Jar,grocery,5,₹586.36,0, East   ,phonepe
+T01297,07-03-2026,C0318,28,Ice Cream,Groceries,5,460.64,0,E,UPI
+T00074,01-08-2025,C0026,20,Cooking Oil,Grocery ,1,433.63,0.2,EAST,Cash
+T01570,20-01-2025,C0167,9001,Smart Watch X1,Electronics,3,2530.27,0,EAST,Cash
+T01768,26-05-2026,,25,Green Bell Pepper,GROCERIES,2,108.97,0,East,CC
+T01517,18-03-2026,C0469,28,Ice Cream,grocery,2,467.62,0,E,Upi
+T01762,20-11-2025,C0513,18,Cat Food,groceries,4,746.90,0.05,,CREDIT CARD
+T01899,22-09-2026,C0223,,Potatoes,GROCERIES,2,190.06,0,east ,CASH
+T01549,22-10-2025,C0159,39,Soft Drinks,grocery,2,170.03,0.05,east,Upi
+T01597,20-02-2026,C0018,10,,Fragrances,2,6616.12,0,east ,UPI
+T01232,19-02-2026,C0429,4,Red Lipstick,Beauty,1,1071.10,0,east, U.P.I 
+T01588,21-11-2025,C0067,27,honey jar,grocery,2,586.99,0,E,  UPI   
+T00401,23-01-2026,C0180,4,RED LIPSTICK,beauty,1,1071.91,0,east ,paytm wallet
+T01600,13-11-2025,C0185,25,Green Bell Pepper,Groceries,1,111.01,0,Eastern,gpay
+T01090,20-02-2026,C0496,28,Ice Cream,GROCERIES,2,473.20,0.1,east,gpay
+T00236,20-12-2025,C0227,38,Rice,GROCERIES,4,511.74,0,East,CASH
+T00857,29-05-2026,C0406,29,JUICE,groceries,2,347.71,0,E,DC
+T00317,29-10-2026,C0100,1,Essence Mascara Lash Princess,makeup,5,870.39,0,E,CASH
+T00630,13-12-2025,C0227,37,Red Onions,grocery,2,171.80,0,E,Debit Card
+T00563,08-11-2025,C0243,28,  ICE CREAM   ,Groceries,1,476.83,0.2,Eastern,phonepe
+T01841,11-12-2025,C0090,24,Fish Steak,grocery,1,1249.88,0.2,east ,gpay
+T00350,22-03-2026,C0478,16,Apple,grocery,2,171.18,0,east ,credit card
+T00877,06-02-2025,C0255,26,Green Chili Pepper,GROCERIES,3,86.15,0.2,East,creditcard
+T00163,26-10-2025,C0512,18,CAT FOOD, Groceries ,2,755.89,0,east ,  U.P.I   
+T01313,21-01-2026,C0062,1,Essence Mascara Lash Princess,beauty,1,827.85,0,East,creditcard
+T01954,10-06-2026,C0079,40,,GROCERIES,3,347.56,0.15,east,net-banking
+T00746,02-01-2025,C0105,16,Apple,Groceries,2,173.11,0,EAST,upi
+T00774,26-10-2025,C0278,39,Soft Drinks,GROCERIES,1,166.77,0,east ,  Upi 
+T01946,17-12-2025,C0375,9003,Yoga Mat Pro,Sports Accessories,1,890.61,,East,debitcard
+T00333,30-11-2025,C0147,35,potatoes,Grocery ,3,198.48,0,E,Net Banking
+T01780,09-03-2025,C0238,36,PROTEIN POWDER,GROCERIES,1,1714.63,0,EAST,  phonepe 
+T01481,28-06-2025,C0237,22,DOG FOOD,groceries,1,939.57,0.2,east,Debit Card
+T00505,17-01-2026,C0363,16, Apple   ,Grocery ,1,169.42,0.1, EAST ,Cash
+T00328,30-03-2026,C0244,1,Essence Mascara Lash Princess,BEAUTY,1,842.47,0,Eastern,upi
+T01045,01-03-2026,C0015,27,Honey Jar,  grocery,1,595.49,0,Eastern,DC
+T01699,12-10-2025,C0252,33,Mulberry,groceries,1,434.20,0.1,Eastern, Credit Card
+T01370,12-02-2026,C0317,23,Eggs,grocery,3,254.03,0,East,CASH
+T00616,08-02-2026,C0381,34,Nescafe Coffee,groceries,1,692.81,0.2, east ,Upi
+T01879,14-10-2026,C0447,35,Potatoes,groceries,1,198.32,0.1,Eastern,Cash
+T00461,08-04-2025,C0127,35,Potatoes,grocery,1,191.61,0,east,CREDIT CARD
+T00615,19-06-2025,C0103,4,Red Lipstick,beauty,3,1093.12,0,EAST,CC
+T00930,03-01-2025,C0355,34,nescafe coffee,grocery,1,686.12,0,Eastern,NET BANKING
+T00474,10-08-2025,c0007,4,Red Lipstick,makeup,1,1084.60,0,east,gpay
+T01605,23-07-2026,C0178,32,milk,Groceries,2,293.82,0,east ,Wallet
+T01399,12-10-2025,c0352,29,JUICE,Grocery ,5,₹331.38,0,EAST,U.P.I
+T00993,27-08-2025,C0320,25,Green Bell Pepper,Grocery ,2,109.27,0.15,E,CREDIT CARD
+T01924,19-07-2025,c0395,35,Potatoes,Grocery ,3,195.15,0,East, Credit Card 
+T00795,08-08-2025,c0393,31,  Lemon ,grocery,3,66.01,0,EAST,credit card
+T00948,14-05-2026,C0505,20,Cooking Oil,grocery,2,423.90,0.15,E,Upi
+T00537,01-12-2025,C0442,17,Beef Steak,grocery,3,1071.16,0.15,east,cash
+T00778,12-02-2026,c0069,35,Potatoes,GROCERIES,-3,193.44,0,East,paytm wallet
+T01731,06-04-2025,C0032,34,Nescafe Coffee,groceries,1,686.51,0,EAST,Debit Card
+T01038,17-11-2025,C0061,39,soft drinks,grocery,4,172.76,0.2,Eastern,creditcard
+T00623,13-02-2025,,2,Eyeshadow Palette with Mirror,Beauty,3,1653.09,0,E,Upi
+T00873,04-03-2025,C0210,36,Protein Powder,Grocery ,2,1732.12,0,East,DC
+T01134,07-10-2025,C0226,34,Nescafe Coffee,GROCERIES,4,685.33,0,Eastern,U.P.I
+T01915,08-10-2026,C0361,35,Potatoes,Grocery ,3,190.60,0.15,E,Paytm
+T01120,18-10-2025,c0189,9002,Bluetooth Speaker Mini,Electronics,2,1271.44,0.15,east ,CREDIT CARD
+T00173,28-06-2026,C0015,35,POTATOES,  groceries   ,5,195.04,0,east ,debit card
+T01857,20-04-2026,C0066,38,Rice, Groceries ,2,494.40,0.15,E,Credit Card
+T00989,16-03-2025,C0462,36,Protein Powder,grocery,2,1689.97,0.1,E,CREDIT CARD
+T00926,27-05-2026,C0427,26,Green Chili Pepper,grocery,1,81.83,0,E,Upi
+T01945,24-10-2026,C0513,37,Red Onions,grocery,1,167.01,0.05,east ,debit card
+T01082,29-06-2026,C0395,33,Mulberry,groceries,1,428.50,0.15,  East,Upi
+T01562,01-08-2025,C0156,35,Potatoes,GROCERIES,1,195.80,0,east,phonepe
+T00680,03-11-2025,C0336,38,  Rice , grocery   ,5,508.91,0,east,  phonepe 
+T01454,12-10-2026,C0393,38,Rice,grocery,4,495.33,0,East,Cash
+T00262,21-08-2026,C0227,29,Juice,groceries,3,337.00,0,East,Paytm
+T01122,26-09-2025,C0106,4,Red Lipstick,makeup,4,1127.03,0.05,Eastern,phonepe
+T01239,02-04-2025,C0233,4,Red Lipstick,beauty,3,"₹1,101.63",0,Eastern,Upi
+T01207,06-09-2025,C0277,24,Fish Steak,groceries,2,1257.46,0,E,gpay
+T01240,26-09-2026,C0021,26,Green Chili Pepper,GROCERIES,4,83.69,0.2,east,phonepe
+T01939,02-09-2026,C0126,9,Dolce Shine Eau de,fragrances,5,6006.55,0.15,East,CC
+T00546,15-01-2026,C0224,3,Powder Canister,beauty,3,1248.97,0,Eastern,Wallet
+T01006,11-04-2025,C0043,38,Rice,Grocery ,2,503.17,0.1,east ,Credit Card
+T01311,10 May 2025,C0336,2,Eyeshadow Palette with Mirror,makeup,1,1701.16,0.2,east ,CREDIT CARD
+T00647,01-05-2025,C0369,33,Mulberry,Groceries,3,414.56,0.15,east,U.P.I
+T00908,08-11-2025,C0083,3,Powder Canister, beauty   ,5,1278.57,0.05,Eastern,creditcard
+T00187,21-01-2026,C0352,25,  Green Bell Pepper ,Grocery ,3,112.70,0,East,debit card
+T01721,12-10-2026,C0009,16,Apple,groceries,1,173.25,0,east,U.P.I
+T00914,21-04-2026,C0106,4,Red Lipstick,beauty,1,1109.32,0,Eastern,Upi
+T00592,24-02-2026,C0214,32,Milk,Groceries,2,299.23,0,E,phonepe
+T00718,08-08-2025,C0514,39,Soft Drinks,grocery,2,171.22,0.05,east,Debit Card
+T00402,10-07-2026,C0373,21,Cucumber,GROCERIES,1,127.60,0,east ,Cash
+T00259,08-02-2026,C0059,30,Kiwi,GROCERIES,3,216.49,0,E,cash
+T00694,13-06-2026,C0475,4,Red Lipstick,Cosmetics,2,1124.13,0.05,Eastern,UPI
+T01918,07-01-2025,C0320,24,FISH STEAK,GROCERIES,1,1261.29,0,east,netbanking
+T00481,24-05-2025,C0104,4,RED LIPSTICK,Beauty,2,1073.29,0,Eastern,credit card
+T00251,01-03-2026,C0274,31,Lemon,Grocery ,2,65.97,0.05,EAST,UPI
+T00354,04-06-2026,C0318,4,Red Lipstick,Beauty,1,1077.36,0.2,E,Upi
+T01204,15-06-2025,C0442,26,Green Chili Pepper,grocery,1,82.34,0,E,upi
+T00827,yesterday,C0100,39,soft drinks,Groceries,1,167.31,0.15,EAST,debit card
+T01147,10-10-2025,C0205,3,Powder Canister,beauty,2,1278.06,0.1,E,Paytm
+T00586,27-01-2025,C0230,37,Red Onions,grocery,1,0,0,east,phonepe
+T01944,31-10-2026,C0205,1,Essence Mascara Lash Princess,Cosmetics,2,846.34,0,east ,CREDIT CARD
+T01935,13-09-2026,C0279,16,Apple,Grocery ,2,168.98,0,EAST,debit card
+T00308,17 Apr 2026,C0329,39,  Soft Drinks,Groceries,3,173.45,0,east ,credit card
+T00517,04-11-2025,C0155,16,Apple,grocery,2,169.80,0,east,Paytm
+T01292,02-05-2026,C0101,3,  Powder Canister   ,makeup,1,1253.90,0,Eastern,Upi
+T00866,02-02-2025,C0330,21,Cucumber,groceries,2,127.52,0,EAST,upi
+T01582,29-11-2025,C0132,26,Green Chili Pepper,Grocery ,1,82.44,0,  E ,U.P.I
+T01589,26-10-2026,C0247,21,CUCUMBER,GROCERIES,1,125.50,0,Eastern,Wallet
+T01682,09-04-2025,C0466,4,Red Lipstick,BEAUTY,5,1097.61,0.15,EAST,Debit Card
+T00264,22-11-2025,C0305,29,Juice,GROCERIES,2,341.30,0.1,EAST,Net Banking
+T00911,11-12-2025,C0382,18,Cat Food,Groceries,1,757.51,0.2,  Eastern   ,UPI
+T01389,14-10-2026,C0390,5,Red Nail Polish,Cosmetics,7,780.64,0,east,Credit Card
+T00291,30-03-2026,C0274,24,Fish Steak,Groceries,2,1309.13,0,E,debit card
+T00788,22-06-2025,C0428,35,POTATOES,Groceries,0,195.86,0,east,Credit Card
+T00423,12-08-2026,,38,Rice,Grocery ,1,₹501.48,0,Eastern,Upi
+T00912,24-02-2026,C0255,33,Mulberry,groceries,3,428.13,0, East,CASH
+T01105,06-02-2026,C0014,28,ice cream,GROCERIES,3,458.60,0.05,East,phonepe
+T00864,17-10-2026,C0289,36,Protein Powder, Grocery    ,1,1717.93,0,east,cash
+T00409,22-08-2026,C0172,27,Honey Jar,Groceries,5,608.21,0,Eastern,paytm wallet
+T01537,06-12-2025,C0484,1,Essence Mascara Lash Princess,BEAUTY,4,828.95,0.15,East,creditcard
+T00913,09-09-2026,C0439,32, Milk,grocery,1,295.01,0,east ,netbanking
+T00283,30-07-2026,C0030,16,,groceries,1,173.22,0.2,Eastern,upi
+T00988,04 Mar 2026,C0372,27, Honey Jar   ,Grocery ,1,591.42,0.2, East ,cash
+T00740,29-06-2026,C0301,16,APPLE,Groceries,1,166.32,0,Eastern,UPI
+T00331,09-10-2025,c0394,35,Potatoes,Groceries,3,199.34,0,EAST,gpay
+T00362,23-05-2026,c0316,35,Potatoes, grocery   ,2,193.84,0.2,East,Cash
+T00520,26-04-2026,C0294,25, Green Bell Pepper ,grocery,3,106.50,0.15,Eastern,Upi
+T00599,22-09-2026,C0091,35,Potatoes,Groceries,1,197.62,0,east ,Net Banking
+T00904,15-11-2025,C0295,4,Red Lipstick, Cosmetics ,2,1118.05,0,  Eastern ,Upi
+T01216,08-11-2025,C0003,24,Fish Steak,GROCERIES,4,1284.73,0.2,East,debitcard
+T00121,09-01-2026,C0118,9003,  Yoga Mat Pro   ,Sports Accessories,-3,882.21,0,East,debit card
+T01804,29-11-2025,C0493,16,Apple,grocery,3,168.03,0,EAST,CREDIT CARD
+T00142,25-03-2026,C0028,28,Ice Cream,groceries,1,454.37,0,E, Upi 
+T00467,17-09-2025,C0061,38,  Rice   ,GROCERIES,4,494.47,0,east ,cash
+T01344,22-05-2026,C0355,4, Red Lipstick ,BEAUTY,1,1112.38,0.15,  East   ,debit card
+T01172,27-02-2026,C0116,18,Cat Food, Groceries,3,742.81,0.05,EAST,credit card
+T01137,30-01-2026,C0375,25,Green Bell Pepper,Grocery ,5,110.40,0.15,  East,cash
+T01909,06-04-2027,C0436,16,Apple,grocery,3,171.30,0,EAST,gpay
+T01175,26-02-2026,c0072,22,  Dog Food ,Grocery ,2,940.03,0,east, U.P.I
+T01200,29-06-2025,C0349,26,Green Chili Pepper,  GROCERIES,3,82.99,0.2,Eastern,debitcard
+T01056,27-08-2025,C0222,30,Kiwi,grocery,1,205.43,0.1,E,Wallet
+T00644,04-06-2025,C0336,1, Essence Mascara Lash Princess,Beauty,2,855.92,0,east,UPI
+T01967,13-04-2025,C0251,1,Essence Mascara Lash Princess,Cosmetics,1,871.97,0.1,EAST,CREDIT CARD
+T01710,07-05-2025,C0392,26,  green chili pepper   ,Grocery ,5,86.48,0.05,East,wallet
+T01750,13-10-2026,C0021,35,Potatoes,grocery,3,190.51,0.2,East,credit card
+T01634,04-10-2025,c0065,16,Apple,groceries,3,168.97,0.05,east ,upi
+T01362,20-01-2025,C0292,35,POTATOES,GROCERIES,3,190.08,0.05,E,wallet
+T00483,12-11-2025,C0135,16, Apple,GROCERIES,2,₹174.07,0,East,  Debit Card   
+T00059,30-05-2025,C0027,33,Mulberry,Grocery ,2,423.51,0,E,Debit Card
+T01318,17-01-2026,C0430,40,Strawberry,  groceries ,3,343.07,0.2,East,Paytm
+T00701,05-10-2026,C0228,36,Protein Powder,Grocery ,3,1652.62,0.05,east,debit card
+T01104,01-02-2025,C0231,33,  Mulberry ,groceries,4,423.55,0,east, CASH
+T00058,19-03-2025,C0173,1,Essence Mascara Lash Princess,beauty,3,838.01,0,EAST, phonepe   
+T01674,10-06-2025,C0382,35,Potatoes,grocery,5,192.86,0.15,EAST,NET BANKING
+T00358,31-03-2025,C0256,25,Green Bell Pepper,groceries,1,112.22,0,east,Credit Card
+T00036,30-12-2025,C0013,1,Essence Mascara Lash Princess,Beauty,2,832.45,0.1,EAST,cash
+T00463,01-01-2025,C0184,39,Soft Drinks,GROCERIES,2,171.75,0,E,cod
+T01622,21-02-2026,C0350,39,Soft Drinks,groceries,5,171.78,0,Eastern,paytm wallet
+T01439,23-07-2025,C0267,27,Honey Jar,  grocery   ,1,603.78,0,E,  upi 
+T00075,01-09-2026,,35,Potatoes,groceries,3,199.65,0,Eastern,Upi
+T01531,06-09-2025,C0030,27,Honey Jar,Grocery ,1,609.29,0.1, East   ,gpay
+T00482,18-05-2025,C0159,20,Cooking Oil,GROCERIES,1,413.93,0,east,cod
+T00320,31-05-2026,C0355,17,Beef Steak,Grocery ,1,1071.39,0,Eastern,gpay
+T01810,11-06-2025,C0380,21,cucumber,groceries,3,127.30,0,Eastern,UPI
+T00174,01-04-2026,C0062,29,Juice,groceries,2,330.09,0, East,gpay
+T00907,06-10-2026,C0508,18,Cat Food,  Grocery ,2,763.80,0.05,EAST,CREDIT CARD
+T01590,27-08-2026,C0216,27,Honey Jar,GROCERIES,1,594.79,0,Eastern,debitcard
+T00172,25-12-2025,C0501,35,Potatoes,GROCERIES,1,189.10,0.2,east ,debit card
+T00559,26-04-2025,C0292,26,GREEN CHILI PEPPER,grocery,1,83.52,0,East,cash
+T01638,16-03-2026,C0203,34,Nescafe Coffee,Groceries,1,₹691.78,0.1,East,DC
+T01912,13-09-2026,C0206,4,Red Lipstick,Cosmetics,2,1106.47,0,EAST,Debit Card
+T00613,21-01-2025,C0439,37,Red Onions,Groceries,2,171.99,0,  E ,cod
+T01097,16-09-2026,C0034,27, Honey Jar ,Groceries,1,607.62,0,E,creditcard
+T00655,06-08-2026,c0215,32,Milk,Groceries,1,296.87,0.2,Eastern,Net Banking
+T01515,07-01-2026,C0225,22,Dog Food,Groceries,5,948.56,0,  Eastern   ,U.P.I
+T00964,10-07-2026,C0494,38,Rice,GROCERIES,3,513.49,0.15, East ,Wallet
+T00407,21-10-2025,C0322,26,Green Chili Pepper,GROCERIES,5,84.30,0,east,Debit Card
+T01238,25-04-2025,C0462,2,Eyeshadow Palette with Mirror,Cosmetics,1,1659.08,0.2,Eastern,Upi
+T00489,19-03-2026,C0372,34,Nescafe Coffee,grocery,3,686.29,0,East,cod
+T00261,17-06-2026,C0268,23,Eggs,Groceries,1,254.15,0,east,  UPI
+T00268,17-01-2026,C0408,26,Green Chili Pepper,Grocery ,-1,85.20,0.05,E,phonepe
+T01281,18-01-2026,C0441,39,Soft Drinks,Grocery ,1,169.89,0,EAST,debit card
+T01563,28-05-2025,C0443,37,Red Onions,Grocery ,5,166.84,0.05,East,Net Banking
+T01235,03-09-2025,C0344,1,Essence Mascara Lash Princess, beauty   ,2,825.06,0.15,,debit card
+T00214,10-03-2026,C0166,23,Eggs,groceries,3,257.60,0.2,east,  DC   
+T01169,15-01-2026,C0278,23,eggs,grocery,2,249.15,0.15, east,debit card
+T01142,13-01-2026,C0226,16,Apple,groceries,3,166.21,0,Eastern,CC
+T00804,22-06-2025,C0278,16,Apple,Groceries,3,172.98,0,East,CC
+T01934,06-10-2025,C0177,20,Cooking Oil,Groceries,2,416.26,0,E,Credit Card
+T01751,26-01-2026,C0072,2,Eyeshadow Palette with Mirror,BEAUTY,1,1742.70,0,Eastern,Upi
+T00799,25-05-2026,C0224,4,Red Lipstick,makeup,-1,1090.55,0.2,Eastern,net-banking
+T00496,29 Sep 2025,C0097,17,Beef Steak,groceries,3,1077.90,0,E,cash
+T01502,26-05-2025,C0341,31,Lemon,GROCERIES,3,66.71,0,east ,UPI
+T01739,09-09-2026,C0021,16,Apple,Grocery ,1,172.31,0,Eastern,UPI
+T01071,01-08-2025,C0145,4,Red Lipstick,Cosmetics,5,1077.54,0,E,upi
+T01884,07-10-2026,c0100,27,Honey Jar,groceries,1,611.31,0.15,east,credit card
+T00867,17-06-2025,C0321,35,,Groceries,5,191.01,0,East,Upi
+T00766,00/00/0000,C0405,5,Red Nail Polish,makeup,1,758.53,0,Eastern,upi
+T00146,04-06-2026,C0384,38,Rice,GROCERIES,1,520.46,0,Eastern,cod
+T00090,18-05-2025,C0323,21,Cucumber,Groceries,4,129.65,0.1,E,CC
+T01938,24-02-2026,C0337,25, Green Bell Pepper ,Grocery ,1,110.77,0,EAST,Upi
+T00292,04-10-2025,C0419,29,Juice,Grocery ,2,330.01,0,Eastern,cod
+T01606,07-01-2026,C0081,28,Ice Cream,Groceries,2,476.40,0,Eastern,credit card
+T01691,27-11-2025,,4,Red Lipstick,Cosmetics,1,1118.96,0.1,E,Upi
+T00530,05-05-2026,C0369,3,Powder Canister,beauty,5,1288.00,0,EAST,upi
+T00249,29-08-2026,C0465,26,Green Chili Pepper, groceries ,3,85.43,0,East,  U.P.I 
+T01176,18 Jul 2025,C0176,27,Honey Jar,  groceries   ,5,₹599.62,0,East,  NET BANKING 
+T01004,11-09-2025,c0361,38,Rice,GROCERIES,4,517.59,0,East,upi
+T00819,02-02-2025,C0213,16,Apple,  GROCERIES ,3,164.95,0,east,CREDIT CARD
+T00645,10-12-2025,C0153,23,  Eggs   , grocery ,1,253.98,0,E,phonepe
+T00519,27-10-2026,c0336,38,Rice,Grocery ,1,512.29,0,E,  cod 
+T00794,16-08-2025,C0444,1,essence mascara lash princess,makeup,2,828.19,0,EAST,phonepe
+T00128,07-07-2025,C0026,39,Soft Drinks,Groceries,1,170.53,0,E,netbanking
+T01757,09-02-2026,C0162,4,Red Lipstick, Cosmetics   ,3,1102.02,0.15,E,wallet
+T01252,26-10-2026,C0387,39,Soft Drinks,groceries,7,165.46,0.1,East,debit card
+T00341,16-07-2026,C0046,1,Essence Mascara Lash Princess,makeup,1,828.28,0,east ,gpay
+T00403,01-09-2026,c0242,31,Lemon,Groceries,3,66.19,0,East,Upi
+T01059,01-08-2026,C0148,26, Green Chili Pepper   ,GROCERIES,1,84.37,0,east ,DC
+T01689,01-01-2026,C0392,1,Essence Mascara Lash Princess,makeup,1,₹834.79,0.1,E,Credit Card
+T00289,23-07-2025,C0136,24,Fish Steak,Grocery ,3,1289.97,,  EAST ,U.P.I
+T01127,15-02-2025,,1,Essence Mascara Lash Princess,BEAUTY,1,859.23,0.1,EAST,debit card
+T01125,12-10-2025,C0219,25,Green Bell Pepper, grocery ,3,107.96,0,east,CASH
+T01548,17-02-2026,c0424,38,Rice,groceries,3,495.03,0,east ,cod
+T01740,15-10-2025,C0424,36,Protein Powder,Grocery ,1,1660.88,0,E,upi
+T01673,03-11-2025,C0109,23,Eggs,Groceries,1,257.28,0.2,Eastern,UPI
+T01643,14-03-2026,C0490,25,Green Bell Pepper,  Grocery    ,2,108.89,0,Eastern,gpay
+T00916,16-03-2026,C0491,31,Lemon,groceries,1,65.50,0,east ,CASH
+T01223,22-03-2025,C0223,17,Beef Steak,Grocery ,1,1110.99,0.2,East,CASH
+T00578,24-09-2025,C0149,26,Green Chili Pepper,Groceries,1,86.09,0,East,CC
+T00374,04-10-2025,C0167,26,Green Chili Pepper,grocery,1,82.68,0,East,debitcard
+T01424,11-07-2026,,26,Green Chili Pepper,Groceries,2,83.47,0.05,East,gpay
+T00436,24-02-2026,C0136,9002,Bluetooth Speaker Mini,  Electronics ,4,1308.56,0,EAST,upi
+T00203,14-07-2025,C0358,36,,groceries,3,1656.44,0.1,east,creditcard
+T01148,31-08-2026,C0018,21,Cucumber,Groceries,1,123.53,0,Eastern,cash
+T01268,12-09-2025,c0253,31,Lemon,groceries,1,66.01,0.15,east,  cod
+T01770,28-10-2026,C0084,26,  green chili pepper,Grocery ,5,82.33,0,Eastern,gpay
+T01510,04-05-2026,C0004,32,Milk,GROCERIES,2,301.89,0.1,east,creditcard
+T01829,27-06-2026,C0026,26,Green Chili Pepper,Groceries,4,85.15,0,east ,cash
+T01513,16-01-2025,C0210,22,Dog Food,groceries,1,951.29,0.15,east,cash
+T00362,23-05-2026,c0316,35,Potatoes, grocery   ,2,193.84,0.2,East,Cash
+T01874,24-03-2025,C0429,22,,Grocery ,3,961.14,0,Eastern,UPI
+T01878,12-09-2025,C0114,21,Cucumber,GROCERIES,3,130.35,0,Eastern,netbanking
+T00712,12-01-2026,C0350,39,Soft Drinks,groceries,2,168.55,0.05,east ,Upi
+T00162,23-09-2025,C0468,3,Powder Canister,makeup,1,1276.35,0,Eastern,creditcard
+T01245,26 Dec 2025,C0183,39,Soft Drinks,Groceries,2,164.77,0,Eastern,NET BANKING
+T01564,12-06-2025,C0479,39,Soft Drinks,GROCERIES,4,166.70,0.05,east ,Debit Card
+T01129,13-12-2025,C0222,32,Milk,groceries,4,300.80,0.1,Eastern,upi
+T01244,30-09-2025,C0368,34, Nescafe Coffee ,GROCERIES,1,658.78,0,East,Net Banking
+T01258,27-05-2026,C0180,1,Essence Mascara Lash Princess,Beauty,5,860.68,0,Eastern,Debit Card
+T01088,12-03-2025,C0344,35,Potatoes,GROCERIES,1,190.92,0.15,E,  credit card   
+T01805,24-01-2026,C0108,22,Dog Food,Groceries,4,910.46,0,East,upi
+T00538,01-02-2025,C0186,37,Red Onions,Groceries,1,172.96,0,,creditcard
+T00651,08-08-2026,C0353,4,Red Lipstick,Beauty,3,1111.59,0,EAST,Cash
+T01155,09-08-2025,C0004,20,  Cooking Oil,groceries,1,421.17,0,east ,U.P.I
+T01943,12-02-2026,C0472,26,GREEN CHILI PEPPER,Groceries,1,83.31,0,E,CASH
+T01077,01-07-2026,C0444,18,Cat Food,Groceries,2,770.73,0,E,wallet
+T01061,02-08-2026,C0097,4,Red Lipstick,BEAUTY,3,1125.67,0,east,CASH
+T01727,16-02-2025,C0004,32,Milk,grocery,3,299.47,0,,gpay
+T00070,19 Mar 2026,C0330,35,Potatoes,GROCERIES,1,191.68,0,E,CREDIT CARD
+T01595,18-12-2025,C0411,36,Protein Powder,groceries,4,1743.46,0,  E,NET BANKING
+T00190,04-10-2026,,16,Apple,Grocery ,2,172.12,0,EAST,CASH
+T00501,31-01-2025,C0278,35,Potatoes,Grocery ,4,195.98,0,east,creditcard
+T01505,14-11-2025,C0395,29,juice,groceries,1,338.50,0.15,  East   ,DC
+T01266,31-10-2025,C0175,37,Red Onions,Grocery ,1,170.39,0.2,Eastern,creditcard
+T00478,09-09-2025,C0489,21,Cucumber,GROCERIES,5,124.41,0.1,East,Upi
+T01786,01-05-2026,C0084,17,Beef Steak,Grocery ,2,1089.99,0.05,EAST,NET BANKING
+T00995,26-10-2026,C0115,39,  Soft Drinks,grocery,1,165.07,0.15,E,cash
+T01287,10-02-2026,C0414,39,Soft Drinks,grocery,1,172.57,0,  East ,DC
+T01094,13-01-2025,C0099,3,Powder Canister, BEAUTY   ,4,1256.56,0,East,Upi
+T00741,26-04-2025,C0108,23,eggs,GROCERIES,1,261.54,0.2,EAST,UPI
+T01697,26-01-2026,C0213,33,Mulberry,GROCERIES,1,414.43,0,East,U.P.I
+T01578,17-02-2026,C0403,40,Strawberry,groceries,1,349.08,0.15,E,Upi
+T01151,08 Oct 2026,C0267,4,  Red Lipstick ,BEAUTY,2,1115.90,0.2,east,CC
+T01864,13-02-2025,C0212,32,Milk,GROCERIES,1,₹292.00,0,east , UPI
+T01523,06-09-2025,C0443,1,,beauty,4,841.72,0.1,East,debit card
+T00071,04-09-2025,C0447,39,,grocery,5,165.72,0.15,east,  phonepe 
+T00886,24-09-2026,C0152,40,Strawberry,GROCERIES,2,343.04,0,east,U.P.I
+T01925,06-08-2026,C0481,4,Red Lipstick,Cosmetics,3,1118.84,0, East   ,UPI
+T00935,17-04-2026,C0379,2,eyeshadow palette with mirror,Beauty,2,1698.72,0,east,Credit Card
+T01231,24-07-2025,C0394,40,STRAWBERRY,GROCERIES,1,334.08,0.1,Eastern,Cash
+T00581,31-03-2026,C0442,,Soft Drinks,GROCERIES,2,173.67,0,east ,U.P.I
+T00821,01-11-2025,C0297,35,Potatoes,Groceries,3,192.25,0,east ,Cash
+T01156,15-09-2025,C0067,39,Soft Drinks,Groceries,5,172.11,0,E, Credit Card   
+T00709,29-09-2025,C0449,5,Red Nail Polish,beauty,3,762.43,0,Eastern,UPI
+T00443,14-04-2025,C0393,16,Apple,Groceries,1,-169.85,0.05,east ,CC
+T00066,21-02-2025,C0261,20,Cooking Oil,Grocery ,2,421.14,0,Eastern,CC
+T01724,27-09-2025,C0396,33,  mulberry   ,grocery,1,419.71,0,East,Upi
+T00452,04-10-2025,C0113,16,Apple,Grocery ,5,170.92,0,E,debitcard
+T00370,23-04-2025,C0016,35,Potatoes,Groceries,2,199.95,0.2, east  ,debit card
+T01279,26-04-2026,C0149,39,Soft Drinks,Groceries,2,166.96,0,east ,cod
+T01836,05-06-2026,C0358,35,POTATOES,Groceries,3,189.91,0.05,EAST,phonepe
+T00737,10-04-2025,C0034,28,Ice Cream,groceries,2,477.18,0,east ,net-banking
+T01705,11-06-2026,C0134,23,eggs,GROCERIES,1,258.34,0,east ,wallet
+T01747,26-02-2027,C0389,23,Eggs,Groceries,1,259.66,0,East,upi
+T01192,02-06-2025,C0466,4,Red Lipstick, Beauty   ,4,1093.59,0,east ,UPI
+T01005,30-08-2026,C0385,31,Lemon,  grocery,1,68.69,0,east ,UPI
+T00855,21-04-2025,C0261,28,Ice Cream,groceries,2,459.02,0,East,wallet
+T00078,27-04-2025,C0352,16,Apple,Groceries,1,169.90,0.05,East,U.P.I
+T01569,20-03-2025,C0378,35,Potatoes, GROCERIES   ,5,192.13,0,east,DC
+T01706,08-09-2026,C0163,5,  Red Nail Polish,makeup,1,757.98,,E,cod
+T00614,19-11-2025,C0485,38,Rice,Grocery ,4,510.41,0.05, EAST ,credit card
+T00779,14-10-2025,C0111,31,Lemon,Groceries,1,65.97,0.1,Eastern,gpay
+T01623,20-05-2026,C0387,4,Red Lipstick,BEAUTY,2,1081.32,0.05,Eastern,Paytm
+T00697,06-11-2025,C0482,29,Juice,Groceries,2,333.43,0,Eastern,gpay
+T00178,09-01-2026,c0096,40,Strawberry,grocery,3,333.67,0,east ,U.P.I
+T00188,20-11-2025,C0143,33,Mulberry,grocery,5,422.65,0,east ,debitcard
+T01892,25-03-2025,C0476,1, Essence Mascara Lash Princess ,BEAUTY,2,867.76,0.1,east,Net Banking
+T00939,22-09-2025,C0120,35,Potatoes,Groceries,4,196.13,0.1,East,U.P.I
+T00815,18-02-2026,C0223,35,Potatoes,groceries,2,190.39,0,Eastern,wallet
+T00769,17-01-2025,C0394,35,Potatoes,GROCERIES,1,191.12,0,EAST,
+T00838,07-08-2026,C0331,39,Soft Drinks,GROCERIES,2,169.55,0,  Eastern,debit card
+T00724,25-04-2026,C0281,,  Yoga Mat Pro   ,Sports Accessories,2,₹910.33,0,east, U.P.I 
+T00487,12-03-2026,C0352,31,Lemon,Grocery ,3,67.81,0,east,Credit Card
+T00909,15-04-2026,C0261,25,Green Bell Pepper,GROCERIES,3,106.65,0,east ,CREDIT CARD
+T01194,29-10-2026,C0453,29,Juice,Groceries,4,329.50,0,EAST,
+T01087,31-02-2025,C0210,23,Eggs,Groceries,1,258.42,0,east,CREDIT CARD
+T00565,14-06-2025,C0083,35,Potatoes,grocery,1,193.76,0,east,upi
+T00490,14-06-2026,C0302,1,Essence Mascara Lash Princess,beauty,5,844.87,0.1,east,Upi
+T01694,27-01-2025,C0272,16,apple,Grocery ,1,168.22,0,EAST,UPI
+T01665,27-01-2025,C0433,34,nescafe coffee,grocery,4,673.05,0.2,east ,U.P.I
+T01143,28-04-2025,C0048,27,honey jar,grocery,3,579.14,0.15,east,upi
+T01096,17-06-2026,C0126,19,Chicken Meat,groceries,1,830.47,0,  Eastern ,U.P.I
+T00373,11-05-2025,C0065,29,Juice,  Groceries,4,334.70,0,Eastern,wallet
+T00732,20-10-2026,C0233,21,Cucumber,GROCERIES,4,129.40,0,E,cod
+T00198,01-02-2025,C0192,30,Kiwi,grocery,1,212.38,0,EAST,Upi
+T00713,23-04-2026,C0260,4,  Red Lipstick ,  makeup ,4,1112.29,0.2,Eastern, upi 
+T00252,13-08-2025,c0468,38,rice,GROCERIES,3,515.16,0.05,east ,gpay
+T00943,17-10-2025,C0299,38,rice,Groceries,1,514.46,0,East,Debit Card
+T00441,01-01-2026,C0116,39,Soft Drinks,GROCERIES,1,167.07,0,  Eastern,CASH
+T01544,07-10-2025,,25,Green Bell Pepper,groceries,4,110.53,0,Eastern,
+T00683,01-05-2026,C0355,26,Green Chili Pepper,Grocery ,2,85.73,0,E,DC
+T01538,01-07-2026,C0342,39,Soft Drinks,grocery,3,167.34,0.05,  east    ,U.P.I
+T01078,15-03-2025,C0361,34,Nescafe Coffee,groceries,2,688.74,0,Eastern,  Upi
+T00294,21-09-2025,C0418,35,Potatoes,Grocery ,1,192.48,0.1,E,  cod
+T01820,28-11-2025,C0276,28,ice cream,groceries,1,465.16,0,east,cash
+T00053,24-02-2026,C0177,35,Potatoes,grocery,1,197.87,0,EAST,  CASH 
+T01067,06-04-2025,C0273,39,soft drinks,GROCERIES,1,170.57,0.2,  E ,netbanking
+T01003,02-11-2025,C0424,22,Dog Food,Grocery ,1,908.91,0.05,E,upi
+T01167,24-01-2025,,37,Red Onions,Grocery ,1,171.55,0.05,East,cash
+T01191,29-10-2025,C0461,16,Apple,Grocery ,3,₹171.49,0.2,E,debit card
+T01650,24-02-2025,C0229,39,Soft Drinks,Grocery ,2,170.19,0,east,Paytm
+T00783,26-01-2026,C0271,20,Cooking Oil,GROCERIES,1,432.94,0.2,EAST,gpay
+T00141,14-09-2026,C0199,29,Juice,Groceries,3,341.63,0.2,east,Cash
+T00495,06-05-2026,C0432,39,Soft Drinks,Grocery ,3,164.25,0.05,east ,Debit Card
+T00240,28-03-2025,C0498,4,RED LIPSTICK,beauty,2,1073.29,0.1,east,upi
+T01304,27-09-2025,C0320,3,Powder Canister,beauty,3,1237.99,0,East,U.P.I
+T01413,27-04-2026,C0230,26,Green Chili Pepper,GROCERIES,1,84.65,0,E,Upi
+T01985,19-09-2026,C0284,35,Potatoes,groceries,5,195.49,0,EAST,upi
+T01744,01-01-2026,C0410,35,  Potatoes   ,grocery,3,197.96,0,EAST,
+T01652,04-04-2025,C0040,5,Red Nail Polish,  BEAUTY,5,784.04,0.1,E,CC
+T00609,01-08-2026,C0083,18,Cat Food,GROCERIES,3,747.08,0, E ,CC
+T00945,26-03-2025,C0222,25,Green Bell Pepper,Groceries,1,111.37,0,East,UPI
+T00617,19-01-2025,C0256,27,HONEY JAR,GROCERIES,5,603.78,0.2,East,CASH
+T00284,16-04-2026,C0480,36,Protein Powder,GROCERIES,1,1692.14,0,EAST,paytm wallet
+T00836,08-08-2026,C0307,3, Powder Canister,Cosmetics,1,1245.65,0.1,east ,credit card
+T00229,31-01-2025,C0073,16,Apple,groceries,5,173.03,0,east,phonepe
+T01446,24-01-2026,C0186,4,Red Lipstick,Cosmetics,3,1113.37,0.2,East,gpay
+T00277,12-07-2025,C0046,39,Soft Drinks,GROCERIES,3,166.74,0,Eastern,  cash
+T00800,2025-13-45,,27, honey jar,groceries,1,₹602.84,0,east,debitcard
+T00798,30-03-2026,C0212,33, Mulberry   ,Groceries,two,416.65,0,EAST, cash   
+T00936,07-11-2025,C0153,40,Strawberry,grocery,5,333.18,0,E,CASH
+T00896,02-08-2026,C0335,1,Essence Mascara Lash Princess,makeup,1,832.10,0.2,E,gpay
+T00917,17-02-2026,C0309,35,Potatoes,Grocery ,3,199.65,0,East,upi
+T00307,26-08-2025,C0117,26,Green Chili Pepper,GROCERIES,2,85.74,0.1,East,net-banking
+T01526,14-04-2026,C0381,37,Red Onions,Grocery ,4,164.52,0,east,Net Banking
+T01430,24-05-2026,C0203,26,green chili pepper,Grocery ,3,85.60,0,east,DC
+T00459,06-06-2026,C0146,30,Kiwi,  grocery ,3,206.59,0,EAST,Credit Card
+T00625,27-07-2025,C0406,26,Green Chili Pepper,groceries,2,84.35,0,E,CC
+T00383,02-11-2025,C0051,35,potatoes,grocery,3,199.71,0,Eastern,  Upi   
+T01283,29-07-2025,C0285,39,Soft Drinks,groceries,1,167.92,0,E,DC
+T01931,30-10-2026,C0273,39,Soft Drinks,GROCERIES,2,168.39,0.1,EAST,
+T00314,13-10-2025,C0230,28, Ice Cream,Groceries,3,478.48,0,east ,debitcard
+T01530,21-07-2025,C0346,29,Juice,  Grocery ,1,330.38,0,East,Debit Card
+T01949,25-10-2026,C0407,16,Apple,grocery,5,173.61,0,Eastern,  DC   
+T00822,10-07-2025,C0311,4,Red Lipstick,BEAUTY,4,1129.37,0,east,Net Banking
+T00704,22-09-2025,C0481,9003,yoga mat pro,Sports Accessories,1,872.63,0,east ,CC
+T00504,14-04-2026,C0383,27,Honey Jar,groceries,1,582.03,0,Eastern,Cash
+T01821,01-08-2025,C0137,3,Powder Canister,BEAUTY,1,1310.63,0.2,east,NET BANKING
+T01632,25-01-2026,C0087,23,Eggs,grocery,2,248.40,0,East,U.P.I
+T00681,14-09-2025,C0339,18,CAT FOOD,grocery,4,772.09,0.15,Eastern,creditcard
+T01610,03 Sep 2025,C0142,22,Dog Food,Groceries,2,937.76,0,Eastern,  phonepe 
+T00149,10-05-2026,C0436,23,Eggs,GROCERIES,5,254.03,0,east,DC
+T00035,20-03-2025,C0341,38,Rice,grocery,1,520.05,0.15,East,debitcard
+T01773,28-09-2026,C0057,30,Kiwi,groceries,1,217.36,0, east   ,wallet
+T01407,15-02-2025,C0367,33,mulberry,Groceries,2,431.14,0,east,upi
+T00470,08-07-2025,C0340,39,Soft Drinks,GROCERIES,1,171.10,0,Eastern, CC
+T00092,17-10-2026,C0202,33,,GROCERIES,-2,433.23,0,East,U.P.I
+T01611,05-03-2026,C0252,23,Eggs,Grocery ,5,249.47,0.05,east,gpay
+T00952,22-03-2025,,2,Eyeshadow Palette with Mirror,makeup,4,1708.79,0.2,east ,debitcard
+T01833,16-01-2025,C0407,5,Red Nail Polish,  BEAUTY,2,757.24,0.2,E,DC
+T00348,15-02-2025,C0154,26,Green Chili Pepper,Grocery ,5,86.48,0,east,debitcard
+T00485,27-04-2025,C0247,31,Lemon,GROCERIES,1,66.23,0,east,credit card
+T01529,22-10-2025,C0096,26,green chili pepper,grocery,3,84.97,0,EAST,  creditcard 
+T00246,13-04-2025,C0449,4,Red Lipstick,beauty,2,1096.55,0.15,east ,debitcard
+T00849,30-01-2025,C0308,35,Potatoes,Groceries,5,189.26,0.05,Eastern,phonepe
+T00996,31-03-2026,c0410,16,Apple,grocery,1,168.76,0.1,East,Cash
+T01764,20-03-2025,C0180,34,Nescafe Coffee,groceries,4,695.29,0.05, Eastern   ,U.P.I
+T00735,03-03-2026,C0428,35,Potatoes,groceries,2,200.18,0.2, east,wallet
+T01471,18-11-2025,C0321,32,Milk,Groceries,4,295.34,0.15, East ,UPI
+T01300,11-08-2025,C0235,21,Cucumber,Groceries,2,126.02,0,E,UPI
+T01319,20-01-2025,C0195,31,Lemon,GROCERIES,1,65.31,0.05,EAST,creditcard
+T01700,27-04-2026,C0516,29,Juice,Groceries,1,341.67,0.2, EAST,Debit Card
+T01144,24-10-2025,C0383,27,,  GROCERIES ,4,600.39,0,East,phonepe
+T01355,21-10-2026,C0487,23,EGGS,grocery,2,257.20,0,East,upi
+T00086,25-06-2026,C0338,17, Beef Steak ,Groceries,1,"₹1,080.70",0.05,east,DC
+T00639,01-07-2026,C0494,39,Soft Drinks,grocery,3,171.73,0,east,CREDIT CARD
+T00634,05-05-2026,C0327,27,Honey Jar,GROCERIES,2,595.68,0.1,Eastern,gpay
+T00465,02-10-2025,C0252,35,Potatoes,groceries,5,190.19,0,east ,U.P.I
+T00011,05-09-2026,,31,Lemon,groceries,3,67.99,0.05,EAST,Debit Card
+T01271,17-09-2026,C0144,27,Honey Jar, Grocery  ,1,578.37,0,EAST,debit card
+T00762,27-08-2026,C0405,27,Honey Jar,grocery,2,587.56,0,east,Paytm
+T00567,19-04-2025,C0252,35,Potatoes,grocery,2,191.75,0.15,east ,NET BANKING
+T01923,03-10-2025,C0390,26,Green Chili Pepper,Groceries,1,81.63,0,East,Debit Card
+T01679,11-09-2026,C0479,9001,Smart Watch X1,Electronics,1,2503.85,0,Eastern,Upi
+T01034,15-11-2025,C0260,22,  Dog Food   ,grocery,1,946.87,0.2,east,debit card
+T01872,12-10-2025,C0325,39,soft drinks,GROCERIES,3,165.76,0,East,CREDIT CARD
+T00672,22-10-2025,C0319,35,Potatoes,GROCERIES,1,198.37,0,EAST,CREDIT CARD
+T01616,16-01-2025,C0372,29,juice, Grocery    ,2,338.30,0.2,east ,cash
+T00353,13-08-2026,C0479,29,Juice,Groceries,2,335.62,0.05,east ,  U.P.I 
+T01814,13-05-2025,C0478,38,Rice,Grocery ,5,500.83,0,east,CREDIT CARD
+T00803,30-04-2026,C0128,35,potatoes, Grocery  ,1,197.31,0,East,upi
+T01465,05-01-2025,C0114,29,Juice,Grocery ,1,₹340.42,0.1,E,U.P.I
+T01410,05-05-2026,C0124,16,Apple,grocery,3,164.53,0,East,gpay
+T01621,23-03-2026,C0254,16, Apple ,groceries,1,168.59,0.1,east ,UPI
+T00813,19-08-2026,C0038,16,Apple,Groceries,3,164.15,0.2,east ,NET BANKING
+T00491,07-09-2025,C0167,19,,groceries,1,826.87,0,east, U.P.I   
+T01713,25-09-2026,C0335,3,Powder Canister,makeup,2,1256.01,0.2,east ,gpay
+T00991,19-01-2025,C0281,24,Fish Steak,groceries,5,1280.08,0.05,  east ,gpay
+T00570,01-12-2025,c0364,2,Eyeshadow Palette with Mirror,Cosmetics,3,1740.56,0,east,upi
+T01309,19-01-2026,C0281,35,Potatoes,grocery,5,189.40,0,east , debitcard 
+T01580,02-10-2025,C0469,39,Soft Drinks,  Grocery  ,1,165.86,0,EAST,DC
+T01478,26-08-2025,C0495,25,Green Bell Pepper,Groceries,3,107.49,0.15,EAST,gpay
+T00377,15-01-2025,C0016,27,Honey Jar,Grocery ,1,592.89,0,east ,CC
+T00018,19-12-2025,C0389,22,,Groceries,2,953.04,0,EAST,NET BANKING
+T01211,01-02-2025,C0246,25,GREEN BELL PEPPER, Grocery  ,1,110.51,0.1,east ,U.P.I
+T00696,06-06-2026,C0374,22,DOG FOOD,Groceries,2,₹957.69,0,east,debitcard
+T01008,16-07-2025,C0495,38,Rice,grocery,2,511.04,0,Eastern,Upi
+T01960,15-08-2025,C0298,4,RED LIPSTICK,beauty,1,1082.95,0,Eastern,creditcard
+T00786,01-08-2026,C0272,38,Rice, groceries   ,1,508.97,0,East,U.P.I
+T01613,28-09-2025,c0498,32,,groceries,2,293.99,0, East   ,debit card
+T00941,26-07-2025,C0305,16,Apple,Groceries,4,164.57,0,Eastern,phonepe
+T00021,28-01-2026,c0100,39,Soft Drinks,grocery,3,170.17,0,east ,debitcard
+T01405,09-01-2025,C0287,26,  Green Chili Pepper   ,grocery,1,83.71,0.05,east ,paytm wallet
+T00326,24-07-2026,C0187,3,Powder Canister,Cosmetics,4,1267.05,0.05,east ,Cash
+T00032,11-06-2026,c0178,32,Milk,Grocery ,1,303.46,0,E,debitcard
+T01631,28-03-2025,C0392,31,Lemon,groceries,3,66.59,0, EAST   ,CASH
+T01416,22-08-2025,C0050,4,  Red Lipstick,Cosmetics,3,1126.62,0,Eastern,credit card
+T00852,04-02-2026,C0087,35,Potatoes,Groceries,1,191.90,0,east,CASH
+T00654,27-04-2025,C0142,39,  Soft Drinks   ,groceries,2,165.49,0.05,East,Upi
+T01298,03-05-2026,C0131,40,Strawberry,Groceries,5,332.25,0.05,E,  CC 
+T00339,08-10-2025,C0164,21,Cucumber,grocery,2,123.60,0,east,Debit Card
+T01107,06-04-2026,C0463,1,Essence Mascara Lash Princess,BEAUTY,2,869.99,0.1,east,credit card
+T00986,06-06-2025,C0298,32,Milk,GROCERIES,2,293.38,0,EAST,wallet
+T01451,21-01-2026,C0268,39, Soft Drinks   ,Groceries,2,170.71,0.1,east,netbanking
+T01234,01-03-2026,C0175,39,Soft Drinks,groceries,1,166.89,0,E,  DC   
+T00316,31-12-2025,C0468,35,Potatoes,GROCERIES,1,199.51,0.1,east ,debitcard
+T01210,20-12-2025,C0049,3,Powder Canister,Cosmetics,1,1307.59,0.1,East,upi
+T01585,12-08-2025,C0449,40,,Grocery ,2,349.31,0,East, Net Banking   
+T01965,21-05-2026,C0278,35,Potatoes,Groceries,2,198.56,0.15,east ,Upi
+T01002,25-06-2026,C0115,4,Red Lipstick, makeup,2,1133.58,0,EAST,phonepe
+T00618,26-01-2025,C0044,29, Juice   ,Grocery ,1,336.95,0,east,credit card
+T00748,27-05-2025,C0211,20,  Cooking Oil ,groceries,2,434.52,0,E,CREDIT CARD
+T00019,12-09-2026,C0198,38,Rice,grocery,1,513.62,0,E,U.P.I
+T00938,31-10-2026,C0220,25,Green Bell Pepper,Groceries,2,112.20,0,east ,CC
+T01927,27-06-2026,C0348,39,Soft Drinks,groceries,1,169.19,0.15,EAST,CREDIT CARD
+T01775,17-03-2026,C0434,21,cucumber, GROCERIES   ,3,130.15,0.05,E,CREDIT CARD
+T00421,28-09-2025,C0359,22,DOG FOOD,Groceries,1,938.77,0.2,Eastern,CC
+T00200,30-01-2026,C0251,31,Lemon,groceries,2,68.62,0,east ,  debit card 
+T01100,03-07-2026,C0411,26,Green Chili Pepper,groceries,1,85.70,0,Eastern,DC
+T00723,20-11-2025,c0091,39,Soft Drinks,Grocery ,1,166.07,0,EAST, Wallet   
+T01461,14-04-2026,C0435,36,Protein Powder, groceries ,2,1679.60,0,EAST,Cash
+T00521,29 Sep 2025,C0007,29,Juice,Groceries,5,329.57,0.05,East,
+T00440,18-02-2025,C0028,37,Red Onions,Grocery ,1,169.84,0,Eastern,  phonepe   
+T01671,04-11-2025,C0065,4,Red Lipstick,Beauty,2,1089.07,0,EAST,cash
+T01895,02-04-2026,,18, Cat Food ,groceries,2,777.42,0.05,  EAST,phonepe
+T00052,12-02-2025,C0088,32,Milk,GROCERIES,1,298.30,0, E,gpay
+T01937,12-07-2026,C0401,37,Red Onions,grocery,1,166.74,0.2,EAST,Credit Card
+T00897,01-03-2025,C0257,26,Green Chili Pepper,Grocery ,3,86.46,0,EAST,credit card
+T01593,13-02-2026,C0022,16,Apple,GROCERIES,2,169.79,0.1,East,Net Banking
+T00548,20-04-2025,C0330,35,Potatoes,grocery,4,194.53,0,east,upi
+T00264,22-11-2025,C0305,29,Juice,GROCERIES,2,341.30,0.1,EAST,Net Banking
+T00494,07-07-2026,C0116,36,Protein Powder,Groceries,1,1707.00,0,E,CREDIT CARD
+T00619,11-05-2026,C0465,35,POTATOES,GROCERIES,7,200.28,0.05,East, U.P.I   
+T00196,18-01-2025,C0177,27,Honey Jar,grocery,2,592.63,0.2,E,UPI
+T01222,06-04-2026,C0201,4,Red Lipstick, Beauty   ,2,1094.30,0.1,Eastern,gpay
+T01383,26 Sep 2026,C0077,34,Nescafe Coffee,Groceries,4,695.83,0,E,U.P.I
+T01046,22-10-2026,C0382,37,Red Onions,Groceries,1,164.40,0.2,E,UPI
+T00515,02-11-2025,C0200,16,Apple,groceries,2,172.86,0.05,East,Net Banking
+T00816,28 Oct 2026,C0252,22,Dog Food,  Groceries ,4,951.30,0,east ,CASH
+T00984,18-01-2025,C0277,18,Cat Food,Grocery ,5,780.01,0,Eastern, U.P.I   
+T00247,02-07-2026,C0412,4,Red Lipstick,beauty,1,"₹1,097.78",0,east ,U.P.I
+T01730,09-01-2026,C0295,25,Green Bell Pepper,GROCERIES,1,111.47,0,East,Net Banking
+T01639,24-10-2026,C0367,35,Potatoes,GROCERIES,5,195.26,0.1,east ,upi
+T01391,06-09-2025,C0038,9,DOLCE SHINE EAU DE,Fragrances,1,6094.71,0.1,east ,DC
+T00338,24-01-2026,C0334,4,Red Lipstick,  Beauty   ,4,1073.84,0.15,East,cod
+T00293,20-03-2026,C0378,28,Ice Cream,grocery,2,466.37,0,EAST,Credit Card
+T01701,16-04-2025,C0032,23,Eggs,Grocery ,2,249.89,0,E,CC
+T01415,15-06-2025,C0113,14,knoll saarinen executive conference chair,furniture,1,41691.04,0.1,EAST,UPI
+T01265,27-06-2026,C0103,26,Green Chili Pepper,GROCERIES,2,86.66,0.1,east,upi
+T01050,05-05-2025,C0014,34,Nescafe Coffee,Grocery ,1,685.91,0,east,credit card
+T01850,15-10-2026,C0499,27,Honey Jar,GROCERIES,2,578.57,0.2,Eastern,CC
+T01824,12-12-2025,C0025,35,,GROCERIES,5,195.35,0,E,UPI
+T00577,N/A,C0312,1,Essence Mascara Lash Princess,Cosmetics,2,870.98,0.2,Eastern,cash
+T01203,25-03-2025,C0417,3,Powder Canister,Cosmetics,1,1247.31,0.15,E,upi
+T00271,17-07-2026,c0105,26,Green Chili Pepper,grocery,1,83.27,0.2,E,
+T00892,07-05-2026,C0245,1,ESSENCE MASCARA LASH PRINCESS,beauty,3,855.68,0,East,debit card
+T01763,14-03-2025,C0043,10,Gucci Bloom Eau de,Fragrances,2,6778.83,0,east,Cash
+T00476,09-05-2026,C0345,39,Soft Drinks,groceries,1,169.06,0.2,east,cash
+T00372,24-09-2026,C0238,32,Milk,grocery,1,287.79,0, E   ,Credit Card
+T01182,24-10-2026,C0054,20,cooking oil, Grocery ,1,427.21,0,east,NET BANKING
+T00731,06-04-2025,C0382,1,ESSENCE MASCARA LASH PRINCESS,beauty,2,852.65,0.15,east,DC
+T00956,16-12-2025,C0200,1,Essence Mascara Lash Princess,Cosmetics,3,835.64,0, east  ,Net Banking
+T00404,09-03-2026,C0192,26,Green Chili Pepper,groceries,1,85.84,0.1,east,  creditcard   
+T00406,26-04-2025,C0478,35,Potatoes,Grocery ,3,198.95,0,Eastern,net-banking
+T01520,27-03-2025,C0235,20,Cooking Oil,grocery,2,414.84,0,Eastern,CREDIT CARD
+T01881,20-07-2026,C0011,22,Dog Food,groceries,2,961.96,0,east,creditcard
+T00359,13-02-2025,C0378,38,Rice,grocery,1,abc,0,east , CASH 
+T01080,11-01-2025,C0301,9001,Smart Watch X1,Electronics,3,2573.57,0.05,east,phonepe
+T00025,07-10-2025,C0401,31,Lemon,GROCERIES,1,65.99,0,East,phonepe
+T01467,20-08-2026,C0041,32,Milk,grocery,1,296.34,0,East,Credit Card
+T01206,06-03-2025,c0228,31,LEMON,Groceries,4,68.34,0,east ,cash
+T01009,02-05-2026,C0424,39,Soft Drinks,GROCERIES,2,164.42,0, east ,UPI
+T01123,07-05-2026,C0251,23,Eggs,grocery,2,249.83,0,Eastern,debit card
+T01476,07-04-2025,C0401,23,Eggs,Groceries,4,₹260.95,0,East,Credit Card
+T01711,22-06-2026,C0169,23,Eggs,GROCERIES,5,248.72,0.15,EAST,gpay
+T01811,16-05-2025,C0124,9,Dolce Shine Eau de,fragrances,1,6017.98,0,East,cash
+T01110,27-07-2026,C0476,25, Green Bell Pepper,Groceries,5,112.84,0,EAST,debitcard
+T01880,14-12-2025,C0377,33,Mulberry,groceries,2,435.30,0,East,Net Banking
+T00924,19-07-2026,C0453,9, Dolce Shine Eau de ,  perfume,3,6060.79,0.2,East,Wallet
+T01897,18-06-2025,C0376,37,Red Onions,Grocery ,3,164.50,0,EAST,CC
+T01543,16-04-2026,C0069,38,  Rice   ,Groceries,2,495.18,0.2,east ,wallet
+T01425,01-08-2026,C0049,30,Kiwi,grocery,3,211.25,0,East,phonepe
+T01345,11-09-2026,,9004,LED Desk Lamp,Home Decoration,2,746.32,0.15,E, CC 
+T00366,09-04-2025,,12,annibale colombo sofa,furnitures,1,213334.26,0.2,Eastern,cod
+T01419,20-11-2025,C0131,26,Green Chili Pepper,Groceries,3,86.59,0,east,
+T01472,09-08-2026,C0124,33,Mulberry,Grocery ,3,417.47,0,east,UPI
+T00949,20-03-2025,C0454,9003,Yoga Mat Pro,Sports Accessories,2,880.39,0,Eastern,CASH
+T00045,14-03-2025,C0231,37,,Groceries,1,168.06,0,East,upi
+T00263,14-08-2025,C0048,25,Green Bell Pepper,GROCERIES,1,107.24,0,EAST,U.P.I
+T00500,15-11-2025,C0356,9002,Bluetooth Speaker Mini,Electronics,2,1337.73,0.15,EAST, upi   
+T01261,21-03-2026,C0051,39,  Soft Drinks   ,Grocery ,2,165.91,0,east ,U.P.I
+T01118,20-12-2025,C0327,27,Honey Jar,Grocery ,1,595.41,0,EAST,phonepe
+T01647,27-11-2025,c0182,36,Protein Powder,GROCERIES,4,1657.66,0,Eastern,gpay
+T00012,23-03-2026,C0399,3,Powder Canister,BEAUTY,5,1250.27,0.2,Eastern, Paytm   
+T01491,06-06-2026,C0374,32,Milk,groceries,4,302.71,0.05,Eastern,upi
+T00275,10-07-2025,C0437,20,Cooking Oil,Grocery ,1,421.48,0.15,E, credit card
+T00793,04-06-2026,C0394,2,  Eyeshadow Palette with Mirror   ,Cosmetics,3,1662.10,0,East,CREDIT CARD
+T01170,11-01-2025,C0373,24,Fish Steak,grocery,2,1305.04,0,E,Upi
+T00591,14-10-2026,C0497,34,Nescafe Coffee,Grocery ,4,673.84,0,  East ,Debit Card
+T00199,19-07-2026,C0513,3,Powder Canister,Cosmetics,1,1268.79,0,EAST,cod
+T00640,07-07-2026,C0019,26,Green Chili Pepper,groceries,1,₹84.33,0,EAST,  debit card   
+T00752,18-03-2026,C0068,31,Lemon,Groceries,2,68.95,0,Eastern,Upi
+T00056,24-10-2026,C0361,26,,groceries,3,85.55,0,Eastern,gpay
+T00744,01-05-2025,C0294,26,Green Chili Pepper,grocery,5,83.88,0,Eastern,Upi
+T00410,02-12-2025,c0246,4,Red Lipstick,Beauty,1,1071.21,0.05,EAST,U.P.I
+T00906,29-03-2025,C0194,40,Strawberry,Grocery ,4,339.96,0,E,CC
+T00418,29-04-2027,C0361,40,Strawberry,Grocery ,2,347.61,0.1,east,CASH
+T00343,18-07-2026,C0147,37,Red Onions,grocery,3,173.58,0.2,Eastern,  UPI
+T00789,24-04-2025,C0316,38,Rice,  Groceries   ,3,511.07,0,east ,phonepe
+T00347,27-04-2025,C0331,19,Chicken Meat,GROCERIES,1,872.25,0,EAST,UPI
+T01690,16-09-2025,C0304,29,,grocery,1,332.97,0,East,Upi
+T00143,18-10-2025,C0293,16,  Apple   ,grocery,2,171.08,0.2,E,upi
+T01340,16-05-2026,C0201,37,Red Onions,grocery,2,166.54,0.05,Eastern,Cash
+T00480,11-10-2026,C0347,20,Cooking Oil,groceries,3,418.28,0, East,credit card
+T01054,26-04-2025,C0006,4,Red Lipstick,Cosmetics,2,1104.06,0,EAST,  Cash
+T00811,17-05-2026,C0236,35,Potatoes,Groceries,1,195.16,-5,Eastern,UPI
+T00013,27-07-2026,C0040,31,Lemon,Grocery ,1,65.15,0.1,east,UPI
+T00304,11-01-2025,C0398,1,Essence Mascara Lash Princess,Cosmetics,4,834.30,0.1,E,gpay
+T00631,17-10-2026,C0231,26,Green Chili Pepper,groceries,4,86.48,0,East,debitcard
+T00551,12-08-2025,C0309,31,Lemon,Grocery ,5,65.68,0.2,  east  ,U.P.I
+T01525,08-11-2025,c0259,9004,LED Desk Lamp,Home Decoration,2,737.85,0,E,debit card
+T00466,12-04-2026,C0361,32,Milk,  Grocery    ,2,305.07,0.2,,CREDIT CARD
+T00983,13-10-2025,C0280,39,Soft Drinks,Grocery ,4,172.42,0,east,Credit Card
+T00687,15-11-2025,C0138,26,  Green Chili Pepper,GROCERIES,5,83.62,0.2,East,Cash
+T01889,23-08-2025,,38,Rice,Grocery ,3,520.66,0, Eastern ,paytm wallet
+T00499,14-03-2025,C0237,27,Honey Jar,  grocery   ,2,595.75,0,EAST,U.P.I
+T00457,09-10-2026,C0185,26,Green Chili Pepper,  grocery ,2,83.85,0.15,East,Credit Card
+T01516,17-05-2026,C0511,2,Eyeshadow Palette with Mirror,BEAUTY,2,1737.87,0,East,UPI
+T01567,11-04-2025,C0054,16, APPLE,Grocery ,3,171.91,0,EAST,upi
+T01772,12-02-2026,C0357,21,Cucumber,grocery,1,123.23,0,Eastern,CASH
+T01980,08-12-2025,C0300,40,Strawberry,Groceries,3,342.41,0,East,Cash
+T01791,05-10-2025,,27,Honey Jar,GROCERIES,3,596.96,0, East,CASH
+T00043,09-02-2025,C0297,9002,Bluetooth Speaker Mini, Electronics,2,1263.42,0,EAST,DC
+T01414,29-03-2026,C0225,16,Apple,grocery,2,164.93,0.1,east,Upi
+T00170,12-04-2026,C0130,4,Red Lipstick,makeup,1,1073.35,0,east ,  upi 
+T00656,09-10-2026,C0104,16,Apple,Groceries,5,169.41,0.1,EAST,Upi
+T00638,08-04-2025,C0258,22,Dog Food,groceries,1,947.73,0,Eastern,phonepe
+T00689,11-03-2026,C0413,9004,LED Desk Lamp,Home Decoration,1,761.62,0.05,Eastern,U.P.I
+T00254,13-10-2026,C0411,13,Bedside Table African Cherry,furnitures,1,26101.59,0, east  ,NET BANKING
+T01541,31-08-2026,C0347,2,Eyeshadow Palette with Mirror,BEAUTY,1,1711.25,0,East,paytm wallet
+T00495,06-05-2026,C0432,39,Soft Drinks,Grocery ,3,164.25,0.05,east ,Debit Card
+T01396,05-10-2025,C0440,9003,Yoga Mat Pro,Sports Accessories,4,911.67,0,E,Wallet
+T01230,02-11-2025,C0111,22,Dog Food,grocery,3,953.26,0.1,E,  upi
+T01475,29-03-2026,C0478,35,Potatoes,grocery,2,200.32,0.2,east,CASH
+T01494,15-01-2026,C0469,34,Nescafe Coffee,Grocery ,4,692.71,0,Eastern,
+T00477,23-07-2025,C0192,3,powder canister,  BEAUTY   ,1,1256.10,0.1,E,cash
+T01661,18-10-2026,C0257,38,Rice,grocery,1,519.56,0.2,East,creditcard
+T01748,04-01-2026,C0253,35,Potatoes,groceries,1,192.13,0.1,Eastern,CC
+T01559,21-02-2025,C0220,16,Apple, GROCERIES,1,173.80,0.1,EAST,UPI
+T01926,30-04-2025,C0468,4,  Red Lipstick,Cosmetics,1,1073.69,0,east,UPI
+T00928,28-11-2025,C0263,1,Essence Mascara Lash Princess, Cosmetics,3,840.99,0,East,CC
+T01715,02-08-2026,C0223,35,Potatoes,Groceries,1,190.83,0.2,East,cash
+T00760,14-11-2025,C0267,2,Eyeshadow Palette with Mirror,makeup,2,1716.73,0,Eastern,phonepe
+T01708,19-05-2025,c0369,28,Ice Cream,  Groceries,1,466.30,0.1,Eastern,UPI
+T00026,10-05-2025,C0487,26,Green Chili Pepper,groceries,1,85.73,0,East,phonepe
+T01146,06-12-2025,C0261,26,Green Chili Pepper,grocery,3,82.26,0,Eastern,cash
+T01618,28-04-2026,C0500,38,Rice,Groceries,5,520.79,0, EAST   ,CC
+T00398,20-01-2025,C0142,35,Potatoes,  Grocery  ,5,190.22,0,East,debit card
+T01226,19-10-2025,C0207,35,Potatoes,Grocery ,1,190.00,0,E,CASH
+T00450,22-10-2026,C0484,4,Red Lipstick,Beauty,2,1110.01,0,EAST,upi
+T01130,16-11-2025,C0305,38,RICE,grocery,2,513.99,0.1,EAST,debitcard
+T01799,02-01-2026,C0195,12,Annibale Colombo Sofa,furniture,1,217468.16,0.2,  east , gpay 
+T00286,20-04-2025,C0366,39,Soft Drinks,Grocery ,5,167.91,0,EAST,phonepe
+T01506,23-01-2026,c0069,35,Potatoes,Grocery ,1,197.17,0.1,E,debitcard
+T01019,12-04-2025,C0286,25,Green Bell Pepper,Groceries,1,107.42,0,east ,Cash
+T00942,11-03-2025,C0126,5,red nail polish,Beauty,5,775.33,0.05,east,creditcard
+T00234,16-10-2026,C0268,9,Dolce Shine Eau de,perfume,1,5858.57,0.2,east,Cash
+T00344,17-11-2025,C0261,16,Apple,  Grocery    ,2,167.00,0.1,east ,CC
+T01474,14-11-2025,C0361,1,Essence Mascara Lash Princess,BEAUTY,2,856.31,0.1, E ,cash
+T01294,09-02-2026,C0027,33,Mulberry,grocery,1,427.96,0.05,E,gpay
+T01335,18-07-2025,,24,Fish Steak,Groceries,1,1295.01,0.15,E,UPI
+T00010,18-07-2025,C0242,29,Juice,  Grocery ,1,329.77,0.1,Eastern, U.P.I 
+T01189,02-03-2025,C0036,9002,Bluetooth Speaker Mini,Electronics,1,1277.01,0.2,east,creditcard
+T00118,20-06-2025,C0052,39,  Soft Drinks   ,grocery,2,166.34,0,east ,UPI
+T01133,06-08-2026,C0420,34,Nescafe Coffee,GROCERIES,1,687.28,0.2,east,paytm wallet
+T01902,11-08-2026,C0084,21,Cucumber,GROCERIES,2,128.44,0,E,  U.P.I
+T01312,11-02-2026,C0298,14,Knoll Saarinen Executive Conference Chair,furnitures,1,43642.51,0.2,east,CC
+T01518,29-09-2025,C0023,3,Powder Canister,beauty,1,1288.03,0.05,EAST,  Paytm   
+T01392,16-12-2025,,21,Cucumber, GROCERIES   ,1,127.10,0,east,gpay
+T00425,24-01-2025,C0219,1,Essence Mascara Lash Princess,Cosmetics,4,845.05,0,Eastern,U.P.I
+T00637,27-10-2026,C0081,17,BEEF STEAK,Grocery ,4,1098.62,0.2,E,phonepe
+T00248,21-11-2025,C0103,38,RICE,grocery,1,503.14,0.05,East,Cash
+T01533,24-03-2026,C0184,35,Potatoes,Grocery ,1,192.03,0.2,EAST,debitcard
+T00235,04-02-2026,c0341,16,Apple,grocery,5,168.10,0.1,Eastern,upi
+T00950,19 Aug 2026,C0464,31,Lemon,Grocery ,4,66.35,0,east ,Paytm
+T01888,10 Jan 2026,C0395,38,Rice,Grocery ,4,497.61,0,east ,phonepe
+T01422,27-03-2025,C0440,24,Fish Steak,Grocery ,5,1272.93,0,east ,net-banking
+T01732,25-01-2025,C0305,16,Apple,Grocery ,1,167.64,0.2,east ,Upi
+T00194,29-10-2026,C0379,32,Milk,GROCERIES,1,292.26,0.1,east ,Upi
+T00947,30-04-2025,C0443,36,protein powder,GROCERIES,2,1739.95,0,EAST,
+T00550,18 Oct 2025,C0491,39,Soft Drinks,  Groceries,1,164.56,0.05,east,cash
+T00237,07-08-2026,C0143,27,  Honey Jar,Groceries,2,598.92,0.15,east,Net Banking
+T00129,18-05-2026,c0309,7,Chanel Coco Noir Eau De,Perfumes,2,11236.57,0.1,EAST,  upi 
+T00809,12-08-2026,C0294,1,Essence Mascara Lash Princess,Beauty,2,847.22,0,East,  upi   
+T00753,11-06-2025,C0359,38,rice,Grocery ,1,515.86,0,east ,paytm wallet
+T00692,07-12-2025,C0119,26,Green Chili Pepper,Grocery ,1,86.30,0,Eastern,CC
+T00673,12-07-2025,C0168,28,Ice Cream,grocery,2,468.03,0.2,EAST,CREDIT CARD
+T01734,21-07-2025,C0424,16,Apple,  Grocery  ,5,abc,0,east ,cod
+T01886,18-03-2026,C0096,35,Potatoes, Groceries ,4,196.49,0,East,Wallet
+T00068,04-07-2026,C0360,2,Eyeshadow Palette with Mirror,Cosmetics,2,1747.31,0,East,UPI
+T00981,23-04-2026,C0442,35,Potatoes,GROCERIES,4,199.02,0.2,Eastern,phonepe
+T01457,29-12-2025,C0464,39,Soft Drinks,GROCERIES,1,165.36,0,East,UPI
+T01209,26-09-2025,C0458,1,Essence Mascara Lash Princess, BEAUTY ,2,860.05,0,east,net-banking
+T00037,12-08-2026,C0272,5,RED NAIL POLISH,Beauty,3,771.28,0,east ,  gpay
+T01201,08-09-2025,C0176,39,Soft Drinks,GROCERIES,4,166.88,,E,upi
+T01807,31-02-2025,C0338,40,Strawberry,grocery,3,332.99,0,East,  debit card 
+T00661,26-04-2026,C0022,39,Soft Drinks,Groceries,3,165.62,0.15,east ,CREDIT CARD
+T01919,23-10-2026,C0239,30,Kiwi,Groceries,3,214.10,0.05,east ,Credit Card
+T00357,03-03-2026,c0267,,Potatoes,groceries,3,196.85,0,Eastern,gpay
+T00876,25-04-2026,,22,Dog Food,grocery,1,945.76,0,East,CREDIT CARD
+T01628,30-09-2026,C0414,35,Potatoes,grocery,1,189.11,0,east ,Cash
+T01787,25-04-2025,C0057,38,Rice,  Groceries,1,₹498.80,0.05,EAST,Upi
+T00204,14-02-2026,C0167,38,Rice,grocery,2,494.26,0.05,EAST,Upi
+T00394,05-11-2025,C0432,26,GREEN CHILI PEPPER,Groceries,2,82.27,0,East,cash
+T01395,19-06-2025,C0181,16,apple,Groceries,1,170.95,0,EAST,paytm wallet
+T01371,13-07-2025,C0163,35,Potatoes,groceries,1,189.20,0.15,EAST,Net Banking
+T00727,29-05-2026,C0014,40,Strawberry,GROCERIES,3,334.58,0.1,east,phonepe
+T01347,27-12-2025,c0244,2,Eyeshadow Palette with Mirror,makeup,4,1704.39,0,East,DC
+T01890,29-12-2025,C0103,7,  Chanel Coco Noir Eau De   ,Perfumes,4,11090.48,0,EAST,creditcard
+T01672,02-08-2025,,40,Strawberry,Grocery ,1,337.28,0,EAST,Debit Card
+T01676,30-09-2025,C0147,25,Green Bell Pepper,GROCERIES,2,108.57,0.1,E,Wallet
+T00785,16 Sep 2026,C0250,35,Potatoes,GROCERIES,2,191.99,0.05,EAST,gpay
+T00104,02-03-2025,C0155,29,Juice,GROCERIES,5,345.55,0,east,gpay
+T01972,05-02-2025,C0111,16,Apple,grocery,5,173.52,0.05,  East   ,Upi
+T01720,01-03-2025,C0192,34,Nescafe Coffee,grocery,5,691.43,0,E,
+T00792,10-04-2026,C0248,5, RED NAIL POLISH ,Cosmetics,4,776.12,0,east,net-banking
+T01849,17-05-2026,C0038,38,Rice,groceries,1,506.09,0.15,East,U.P.I
+T01440,28 Nov 2025,C0441,31,Lemon,Grocery ,5,65.77,0,E,net-banking
+T01420,24-06-2025,C0439,35,,Grocery ,5,192.94,0.1,east ,cod
+T00662,03-12-2025,C0349,35,Potatoes,Groceries,1,197.55,0.15,East,Debit Card
+T00921,02-06-2026,C0144,5,Red Nail Polish,Cosmetics,1,777.94,0.1,EAST,phonepe
+T01729,26-06-2026,C0126,38,Rice,GROCERIES,1,519.87,0,EAST,paytm wallet
+T01659,10-05-2025,C0052,32,MILK,groceries,1,293.18,0,east ,debit card
+T00427,04-03-2025,C0315,3,Powder Canister,BEAUTY,2,1296.79,0.2,Eastern,DC
+T00797,31-07-2025,C0418,26,Green Chili Pepper, grocery   ,3,83.73,0,east,U.P.I
+T01364,25-10-2026,C0145,27,Honey Jar,Groceries,3,590.43,0,east ,Cash
+T00903,26-06-2025,C0474,37,Red Onions,GROCERIES,2,166.77,0,East,CC
+T01883,27-07-2025,C0481,26,Green Chili Pepper,GROCERIES,1,82.47,0,east ,credit card
+T00620,09-06-2025,C0418,39,Soft Drinks,Groceries,1,171.03,0.05,east,Debit Card
+T01989,15-07-2025,C0133,27,Honey Jar,GROCERIES,1,599.36,0,east,CREDIT CARD
+T00932,17-08-2026,C0441,35,Potatoes,  Groceries   ,5,200.34,0.1,east ,credit card
+T00597,28-09-2025,C0091,3,Powder Canister,Beauty,1,1291.83,0,E, UPI
+T00497,07-08-2025,C0377,9,  Dolce Shine Eau de ,perfume,4,6022.09,0,EAST, phonepe   
+T00758,30-12-2025,C0503,32,Milk,grocery,3,290.38,0,E,Wallet
+T00310,13-06-2026,C0148,1,ESSENCE MASCARA LASH PRINCESS,BEAUTY,2,825.28,0.05,E,NET BANKING
+T01640,12-04-2026,C0040,37,Red Onions,grocery,1,172.14,0.05,Eastern,creditcard
+T01023,18-11-2025,C0133,39,Soft Drinks,Grocery ,3,168.24,0.15,east ,gpay
+T01233,04-03-2026,C0241,16, APPLE   ,Grocery ,-3,165.36,0,EAST,CASH
+T00009,19-04-2026,C0343,39,Soft Drinks,GROCERIES,1,167.40,0.1,EAST,Upi
+T01075,05-01-2026,C0022,34,Nescafe Coffee,GROCERIES,5,661.19,0.2,E,Credit Card
+T01116,21-11-2025,C0080,36,Protein Powder,groceries,1,1675.11,0,E,  debit card 
+T01466,11-10-2026,C0038,4,Red Lipstick,BEAUTY,3,1113.90,0.2,east ,U.P.I
+T01055,13-08-2026,C0193,35,Potatoes,Grocery ,4,199.56,0.05,east,DC
+T00516,16-10-2025,C0319,22,DOG FOOD,grocery,2,934.08,0.1,Eastern,Debit Card
+T01052,17-02-2026,C0111,35,potatoes,GROCERIES,5,193.59,0.2,East,UPI
+T01028,20-06-2025,C0444,24,Fish Steak,Groceries,2,1260.97,0,Eastern,credit card
+T01843,18-01-2025,C0393,4,Red Lipstick,Cosmetics,3,1095.57,0,East,
+T00957,24-03-2025,C0479,35,Potatoes,Groceries,3,198.47,0,east,UPI
+T01561,02 May 2026,C0262,35,POTATOES, grocery,4,192.13,0.15, East ,debitcard
+T01485,30-04-2026,C0214,27,Honey Jar,Grocery ,1,600.98,0,E,Credit Card
+T01738,12-08-2026,c0028,16,Apple,grocery,4,173.81,0,EAST,phonepe
+T01174,06-12-2025,C0261,26,,grocery,5,84.47,0,E,phonepe
+T00365,05-09-2026,C0338,9004,LED Desk Lamp,Home Decoration,1,727.41,0,East,U.P.I
+T00790,15-04-2026,C0504,26,Green Chili Pepper,Grocery ,3,81.90,0,E,CASH
+T00460,14-10-2025,C0189,36, Protein Powder ,groceries,2,1663.39,0.2,east ,wallet
+T00726,11-05-2027,C0001,30,Kiwi,grocery,2,205.77,0,,credit card
+T00156,07-04-2026,C0400,7,Chanel Coco Noir Eau De, fragrances   ,3,11149.91,0,East,debit card
+T01992,31-08-2025,C0436,35,Potatoes,Groceries,1,189.69,0, Eastern ,UPI
+T00447,30-07-2026,C0494,21,Cucumber,groceries,2,123.71,0,E,debit card
+T00663,13-02-2026,C0419,30,Kiwi,Groceries,1,206.98,0,east ,debitcard
+T01922,14-01-2025,C0026,16,  Apple ,groceries,2,165.80,0,east ,credit card
+T00312,28-02-2026,C0440,40,STRAWBERRY,  grocery ,1,343.66,0,E,cash
+T00531,22-07-2025,C0469,40,Strawberry,Grocery ,3,338.14,0.2,  east ,Credit Card
+T00319,18-06-2025,C0479,26,Green Chili Pepper,GROCERIES,1,83.02,0.2,  east  ,credit card
+T00823,21-09-2025,C0241,9002,BLUETOOTH SPEAKER MINI,Electronics,5,1309.71,0,EAST,CASH
+T01101,31-08-2026,C0172,13,Bedside Table African Cherry,Furniture,2,25763.73,0,  Eastern,Upi
+T01064,17-10-2025,C0433,16,Apple,grocery,4,170.87,0.15,Eastern,creditcard
+T00992,20-09-2026,C0120,35,Potatoes,grocery,1,194.43,0,east,debit card
+T01044,29-06-2025,C0246,35,Potatoes,Grocery ,2,200.15,0, east,gpay
+T00688,08-08-2025,,35,Potatoes,groceries,3,197.27,0.15,East,UPI
+T01555,24-06-2026,,35,Potatoes,grocery,2,189.61,0,East,UPI
+T01900,18 Aug 2025,C0447,4, Red Lipstick   ,Beauty,1,1112.44,0,E,Debit Card
+T00674,08-11-2025,C0396,20,Cooking Oil,  Groceries,3,415.00,0,east ,UPI
+T00582,01-08-2026,C0039,32,MILK,GROCERIES,2,293.48,0,East,upi
+T00091,10-10-2026,C0213,35,Potatoes,groceries,2,189.70,0,EAST,cod
+T00824,02-06-2026,,22,Dog Food,groceries,2,910.41,0, E   ,UPI
+T00176,11-09-2025,C0360,39,Soft Drinks,  Groceries ,2,168.70,0,east,paytm wallet
+T01856,13-02-2025,C0193,24,Fish Steak, Groceries,1,1239.14,0,EAST,UPI
+T01277,19-04-2026,C0469,35,Potatoes,GROCERIES,3,198.64,0,east,Upi
+T01951,18-02-2025,C0373,39,Soft Drinks,Groceries,3,174.01,0,Eastern,Cash
+T01377,02-04-2025,C0063,26,Green Chili Pepper,Grocery ,2,83.36,0,east ,phonepe
+T00580,31-10-2025,C0261,23,Eggs,Groceries,3,255.56,0.1,East,creditcard
+T01822,02-11-2025,C0406,32,Milk,Grocery ,3,302.31,0.2,E,CREDIT CARD
+T00464,11-02-2025,C0316,4,Red Lipstick,Beauty,3,1089.36,,east ,debitcard
+T00837,30-04-2025,c0299,34,Nescafe Coffee,groceries,1,688.94,0, east   ,wallet
+T01381,19-05-2026,C0229,26,  Green Chili Pepper   ,grocery,3,86.63,0,E,UPI
+T00449,16-10-2026,C0353,37,Red Onions,groceries,1,167.45,0.2,Eastern, UPI   
+T01907,09-11-2025,C0085,21,Cucumber,GROCERIES,1,₹130.42,0.2,Eastern,CASH
+T01218,23-06-2025,C0456,16,Apple,grocery,1,165.36,0.05,east ,U.P.I
+T00849,30-01-2025,C0308,35,Potatoes,Groceries,5,189.26,0.05,Eastern,phonepe
+T01898,10-04-2026,C0252,31,Lemon,Grocery ,1,68.28,0,East,paytm wallet
+T01940,18-08-2025,C0307,38, Rice ,GROCERIES,2,499.08,0,east ,credit card
+T01332,04-01-2025,C0123,28,  Ice Cream ,grocery,1,475.02,0.15,Eastern,U.P.I
+T01492,11-05-2026,C0180,28,Ice Cream,Grocery ,1,477.07,0,East,DC
+T00486,13-03-2025,C0111,31,Lemon, groceries,1,66.95,0.2,Eastern,UPI
+T01876,16-10-2025,c0161,22,Dog Food,GROCERIES,1,932.26,0,east,netbanking
+T01928,12-01-2026,C0156,40,Strawberry,Grocery ,1,340.25,0.05,E,upi
+T00181,17-12-2025,,32,Milk,GROCERIES,2,293.03,0,E,CREDIT CARD
+T00108,24-11-2025,C0056,34,Nescafe Coffee,  Grocery ,0,679.13,0,Eastern,debit card
+T01785,18-07-2026,C0043,22,Dog Food,GROCERIES,1,914.43,0.1,East,gpay
+T01519,05-01-2025,C0034,30,Kiwi,Groceries,5,₹216.68,0,east, Upi 
+T00572,15-11-2025,C0283,28,Ice Cream,Grocery ,1,472.48,0,EAST,CC
+T00384,16-11-2025,C0300,26,Green Chili Pepper,Grocery ,1,83.18,0.1, E ,U.P.I
+T00415,06-02-2025,C0459,16,APPLE,GROCERIES,1,164.84,0,Eastern,CC
+T01698,03-12-2025,c0066,17,Beef Steak,Grocery ,2,1128.22,0.05,  east   ,DC
+T00094,27-01-2025,C0177,23,Eggs,grocery,2,252.27,0,east,U.P.I
+T00847,26-08-2026,C0158,35,Potatoes,grocery,1,195.66,0,Eastern,UPI
+T00139,03-03-2026,C0481,35,Potatoes,groceries,5,193.03,0,Eastern,CASH
+T01528,20-02-2025,C0133,23,Eggs,Groceries,1,260.92,0.05,east,U.P.I
+T01802,26-03-2025,C0477,14,  Knoll Saarinen Executive Conference Chair,Furniture,1,42814.47,0,east,U.P.I
+T00299,13-03-2026,C0281,3, Powder Canister ,beauty,2,1311.43,0,Eastern,Cash
+T01243,07-10-2026,C0108,39,Soft Drinks,GROCERIES,2,172.70,0,east ,upi
+T00970,13-03-2026,C0033,39,Soft Drinks,GROCERIES,3,165.58,0,east ,  DC   
+T01655,05 Aug 2025,C0027,31,Lemon,Groceries,-1,67.13,0,Eastern,CREDIT CARD
+T00927,14-05-2025,c0271,28,Ice Cream,GROCERIES,3,459.66,0.1,E,Upi
+T01512,31-12-2025,C0241,26,Green Chili Pepper,grocery,1,84.83,0,Eastern, phonepe 
+T01984,23-01-2025,C0257,2,Eyeshadow Palette with Mirror,Cosmetics,4,1743.09,0,east , CREDIT CARD   
+T00195,17-08-2026,C0126,26,Green Chili Pepper,grocery,2,82.17,0,  Eastern ,phonepe
+T00024,20-08-2026,C0345,32,Milk,  grocery ,1,289.09,0,Eastern,Upi
+T00729,26-08-2026,C0116,39,Soft Drinks,grocery,1,167.85,0.2,Eastern,U.P.I
+T01316,11-07-2025,C0097,39,Soft Drinks,Groceries,1,166.28,0,Eastern, cod   
+T01784,28-08-2026,C0401,23,Eggs,groceries,3,252.17,0,EAST,Credit Card
+T01179,01-05-2025,C0255,16,apple,  GROCERIES   ,4,173.22,0.1,,upi
+T01930,19-04-2025,C0390,31,Lemon,GROCERIES,1,67.30,0.1,East,debitcard
+T01598,02-01-2026,C0029,20,cooking oil,grocery,1,434.16,0.15, east   ,cash
+T00446,05-08-2026,C0124,29,,GROCERIES,2,337.19,0,east,UPI
+T01379,03-03-2026,C0158,38,  Rice ,Grocery ,2,508.95,0, East ,Wallet
+T01173,23-05-2026,C0461,1,Essence Mascara Lash Princess,beauty,2,869.40,0,E,debitcard
+T00274,28-10-2026,C0106,30,Kiwi,Grocery ,4,212.62,0,E,phonepe
+T00212,06-04-2025,C0231,27,Honey Jar,groceries,5,578.18,0.2,E,net-banking
+T00396,08-08-2026,C0158,38,RICE,groceries,3,505.43,0,Eastern,CASH
+T00588,05-05-2025,C0266,21,Cucumber,grocery,1,129.74,0,east ,U.P.I
+T00437,17-02-2026,C0249,35,Potatoes,Grocery ,1,194.49,0,East,Cash
+T01460,11-10-2025,C0237,35,Potatoes,Grocery ,2,197.41,0.1, E,UPI
+T00241,02-08-2026,C0250,33,Mulberry,Grocery ,2,421.60,0.2,E,phonepe
+T01267,15-12-2025,C0146,9002,Bluetooth Speaker Mini,Electronics,5,1262.97,0,EAST,DC
+T00951,18-06-2025,C0226,37,,Grocery ,1,167.70,0,east,CC
+T00392,25-07-2025,C0325,38,Rice,Grocery ,1,503.94,0,E,U.P.I
+T00958,25-10-2026,C0214,4,Red Lipstick,beauty,2,1078.32,0,Eastern,Debit Card
+T01663,07-09-2025,C0017,4,Red Lipstick,BEAUTY,1,1083.08,0,EAST,cod
+T00296,18-11-2025,c0099,16,Apple,Groceries,1,172.39,0,Eastern,
+T00337,15-09-2026,C0481,39,Soft Drinks,Groceries,5,172.18,0,east,UPI
+T01122,26-09-2025,C0106,4,Red Lipstick,makeup,4,1127.03,0.05,Eastern,phonepe
+T01812,20-06-2026,C0222,35,Potatoes,grocery,2,200.11,0,EAST,DC
+T01459,07-09-2026,C0213,33,Mulberry,groceries,1,421.63,0.2,EAST, credit card   
+T01041,02-04-2025,C0052,29,juice,grocery,3,335.48,0.05,east,CC
+T01686,27-08-2026,C0478,39,Soft Drinks,groceries,1,165.95,0.05,EAST,phonepe
+T00781,29-08-2025,C0204,9002,Bluetooth Speaker Mini,Electronics,1,1337.51,0,east,creditcard
+T00153,31-05-2026,C0424,28,Ice Cream,GROCERIES,2,465.21,0.15,East,cash
+T01995,20-06-2025,C0036,32,Milk,Groceries,5,₹297.57,0.15,East,debit card
+T01896,18-08-2025,C0495,25,green bell pepper, Groceries,-3,106.47,0,  EAST,CASH
+T01709,10-03-2025,C0440,26,Green Chili Pepper,GROCERIES,4,82.80,0.05,Eastern,net-banking
+T00165,06-08-2026,C0114,1,Essence Mascara Lash Princess,beauty,5,824.39,0, EAST   ,credit card
+T00826,21-08-2026,C0410,22,Dog Food, GROCERIES,1,952.16,0.05,E,CASH
+T01249,16-07-2026,C0120,9004,LED Desk Lamp,Home Decoration,3,730.87,0,Eastern,netbanking
+T01742,31-10-2026,C0056,5,Red Nail Polish,BEAUTY,2,743.63,0,east ,upi
+T01504,02-02-2026,C0413,24,Fish Steak,GROCERIES,2,1284.13,0,E,Credit Card
+T00831,25-03-2026,C0187,39,Soft Drinks,Grocery ,2,169.30,0,Eastern,U.P.I
+T01535,29-07-2025,C0113,30,Kiwi,grocery,1,209.57,0,east ,CREDIT CARD
+T00462,17-08-2026,C0307,39,soft drinks,  GROCERIES,3,164.18,0,Eastern,creditcard
+T00776,23 Mar 2025,C0032,1,ESSENCE MASCARA LASH PRINCESS,makeup,1,844.15,0,east,UPI
+T00629,17-01-2026,C0494,22,dog food,groceries,3,933.75,0,Eastern,phonepe
+T01574,21-08-2025,C0292,23,EGGS,groceries,1,260.06,0.05,east ,credit card
+T00719,04-06-2025,C0294,1,Essence Mascara Lash Princess,BEAUTY,5,853.69,0,Eastern,DC
+T01132,02-06-2026,C0364,16,Apple,Grocery ,2,166.86,0.1,E,Paytm
+T01657,25-02-2026,C0419,16,Apple,groceries,2,₹171.22,0.2,EAST,Upi
+T00414,21-09-2026,C0054,3,Powder Canister,makeup,2,1287.58,0.05,  E ,Debit Card
+T00473,28 Mar 2025,C0151,25,  Green Bell Pepper   ,Grocery ,1,111.83,0,East,U.P.I
+T00382,18-06-2025,C0124,15, Wooden Bathroom Sink With Mirror,FURNITURE,1,66995.46,0,E,upi
+T01894,31-08-2026,C0160,35,Potatoes,  groceries,3,198.48,0,EAST,Upi
+T00835,28-03-2026,C0407,31,Lemon,Grocery ,4,65.74,0.1,EAST,  cash
+T01011,27-11-2025,C0371,39,Soft Drinks,Groceries,1,168.74,0.1,E,phonepe
+T00937,06-07-2026,C0474,39,Soft Drinks,groceries,3,165.48,0.2,East,debit card
+T01532,02-05-2025,C0082,10,Gucci Bloom Eau de,Perfumes,3,6862.07,0.05,E,upi
+T01074,09-07-2026,C0482,29,juice,Groceries,1,341.08,0,east , CC 
+T01817,19-11-2025,C0365,4,Red Lipstick, Cosmetics,2,1072.59,0,east ,Upi
+T01438,05-04-2026,C0082,40,Strawberry, GROCERIES ,1,336.93,0.15,  E   ,CASH
+T01217,23-09-2025,C0196,37,Red Onions, grocery   ,5,₹168.92,0,  East   ,U.P.I
+T00367,27-08-2026,C0389,3,,BEAUTY,2,1282.29,0,east ,debitcard
+T00648,07-05-2026,C0289,35,Potatoes,  groceries,3,196.10,0,east,Cash
+T00851,03-02-2025,C0036,30,Kiwi,groceries,1,208.59,0.15,east ,NET BANKING
+T00432,22-09-2025,,4,Red Lipstick,BEAUTY,1,0,0, east ,Upi
+T00300,07-01-2026,C0432,33,Mulberry,grocery,3,417.35,0.2,east ,UPI
+T00940,08-07-2025,C0423,26,Green Chili Pepper,grocery,4,81.92,0.15,Eastern,credit card
+T01339,01-08-2026,C0313,22,dog food,grocery,5,947.10,0,EAST,UPI
+T01247,31-08-2025,C0326,26,Green Chili Pepper,GROCERIES,5,85.06,0,east,U.P.I
+T00438,19-10-2026,C0452,29,Juice,  GROCERIES,1,333.97,0.1,E,netbanking
+T01225,20-03-2026,C0474,35,Potatoes,groceries,2,196.38,0,EAST,debit card
+T01426,30-06-2026,C0455,22,Dog Food,Grocery ,2,930.99,0,east ,cash
+T01648,29-12-2025,C0486,3,Powder Canister,beauty,3,1280.39,0.05,EAST,Credit Card
+T00130,28-08-2026,C0472,26,GREEN CHILI PEPPER,grocery,1,82.42,0,Eastern,Wallet
+T01458,09-07-2026,C0446,22,DOG FOOD,Grocery ,5,925.68,, E ,Credit Card
+T01837,yesterday,C0486,22,Dog Food,Grocery ,2,953.98,0.1,E,cod
+T00346,22-01-2026,C0358,25,Green Bell Pepper,GROCERIES,2,106.99,0.2,East,gpay
+T00801,08-05-2026,C0204,36,Protein Powder,Groceries,2,1735.33,0.1, East   ,upi
+T01246,18-04-2026,C0459,35,  Potatoes ,GROCERIES,2,198.15,0,East, upi   
+T01250,24-05-2026,C0064,29,Juice,GROCERIES,3,331.96,0.1,east ,NET BANKING
+T01539,11-10-2026,C0087,31,Lemon,grocery,1,66.07,,Eastern,NET BANKING
+T00081,30-03-2026,C0293,16,Apple,grocery,1,169.79,0,EAST,gpay
+T00969,16-09-2026,C0171,2,Eyeshadow Palette with Mirror,beauty,1,1743.32,0,EAST,debitcard
+T00782,00/00/0000,c0437,30,kiwi,Grocery ,2,213.56,0,Eastern,upi
+T01966,21-03-2025,C0082,26,Green Chili Pepper,groceries,1,86.35,0,EAST, Upi
+T01818,14-10-2025,C0379,18,Cat Food,grocery,2,772.88,0.1,Eastern,paytm wallet
+T01565,30-05-2025,C0290,33,Mulberry,GROCERIES,2,421.41,0, Eastern   ,credit card
+T00883,22-05-2026,C0322,31,Lemon,GROCERIES,2,67.44,0.15,EAST,CASH
+T01437,10-06-2026,C0143,32,Milk,groceries,2,298.17,0,east ,creditcard
+T01119,13-10-2025,C0155,16,Apple,groceries,1,168.34,0,EAST,debitcard
+T01289,14-06-2026,C0463,18,Cat Food,grocery,1,785.06,0.05,E,phonepe
+T01536,12-01-2026,C0030,35,Potatoes,  grocery   ,2,192.29,0,E,gpay
+T01981,08-10-2026,C0061,4,Red Lipstick,Beauty,1,1097.49,0.1,E,debitcard
+T01195,05-10-2025,C0304,35,Potatoes,Grocery ,2,191.11,0.05,East,Credit Card
+T01337,21-12-2025,C0363,3,Powder Canister,BEAUTY,3,1279.94,0.05,E,UPI
+T00285,08-02-2026,,2,Eyeshadow Palette with Mirror,beauty,5,1685.17,0.1,  east   ,upi
+T00220,18-02-2026,C0060,23,Eggs,grocery,2,251.45,0,East,Cash
+T01162,02-04-2025,C0099,1,Essence Mascara Lash Princess,makeup,1,827.78,0,east ,Upi
+T00628,01-08-2026,C0437,26,Green Chili Pepper,GROCERIES,1,83.94,0,East,debitcard
+T00405,22-10-2025,C0370,27,honey jar,Grocery ,1,580.32,0.2,East,gpay
+T00102,04-07-2025,C0311,39,Soft Drinks,groceries,2,172.07,0.15,east ,net-banking
+T01827,10-06-2026,C0491,28,Ice Cream,  groceries ,5,453.76,0,E,Credit Card
+T01553,01-03-2026,C0358,37,Red Onions,grocery,1,168.15,0,east ,UPI
+T01838,09-09-2026,C0153,39,Soft Drinks,Groceries,2,173.48,0,  east ,credit card
+T01660,21-08-2026,C0419,3,  Powder Canister,beauty,1,1309.97,0,east ,creditcard
+T00313,03-07-2026,C0091,1,Essence Mascara Lash Princess,Beauty,2,861.81,0,east,DC
+T01079,21-10-2026,C0412,26,,  grocery,1,81.85,0.05,Eastern,CC
+T00642,04-08-2025,C0029,16,,  groceries   ,1,168.42,0.15,EAST,upi
+T00802,16-12-2025,C0041,1,Essence Mascara Lash Princess,BEAUTY,2,860.36,0,east,  credit card   
+T00107,29-09-2026,C0081,34,nescafe coffee,groceries,2,688.32,0.1,East,phonepe
+T00787,13-07-2026,,31,Lemon,Groceries,1,68.42,0,east ,upi
+T01164,24-03-2026,C0226,39,Soft Drinks,grocery,2,171.47,0,East,debit card
+T01106,16-09-2026,C0224,16,apple,  groceries   ,1,166.28,0,E,Cash
+T00539,28-10-2025,C0450,21,Cucumber,GROCERIES,2,129.97,0.05,Eastern,phonepe
+T01687,10-02-2025,C0174,6,  Calvin Klein CK One   ,fragrances,2,4188.78,0,East,debitcard
+T01336,14-09-2026,c0240,2,Eyeshadow Palette with Mirror,BEAUTY,1,1692.78,0.15,east,CASH
+T00624,11-06-2026,C0310,32,Milk,Grocery ,4,299.97,0.05,East,cash
+T00298,05-11-2025,C0088,33,Mulberry,grocery,1,415.41,0.05,east,netbanking
+T01495,16-05-2026,C0060,39,Soft Drinks,Grocery ,5,166.73,0,Eastern,DC
+T01806,28-01-2025,C0180,28,ice cream,Groceries,1,469.55,0,EAST,upi
+T00290,12-02-2025,C0265,39,  Soft Drinks   ,  GROCERIES   ,1,166.33,0,east,CC
+T00725,23-08-2026,C0368,1,Essence Mascara Lash Princess,  beauty ,2,870.19,0,Eastern,U.P.I
+T01445,17-07-2025,C0484,1,Essence Mascara Lash Princess,beauty,4,868.29,0.05,E,Cash
+T01743,11 Jun 2026,C0367,19,Chicken Meat,  GROCERIES ,1,852.86,0,Eastern,DC
+T00841,25-11-2025,C0030,35,Potatoes,Grocery ,2,194.29,0.05,Eastern,U.P.I
+T01602,29-04-2026,C0118,39,Soft Drinks,Groceries,1,170.20,0.2,  east ,CC
+T00965,31-07-2025,C0223,26,Green Chili Pepper,Grocery ,1,84.98,0,E, UPI   
+T00439,07-10-2025,c0024,35,Potatoes,GROCERIES,2,₹194.44,0.15,EAST,upi
+T00657,24-04-2025,C0445,35,Potatoes,Grocery ,1,198.04,0,East,debit card
+T00448,04-11-2025,C0192,16,Apple,groceries,3,171.28,0.15,east ,CC
+T01338,02-07-2026,C0125,31,Lemon,Groceries,1,65.99,0,East,netbanking
+T00968,10-01-2025,c0421,22,Dog Food,grocery,2,916.03,0,east ,Cash
+T00242,27-12-2025,C0184,4,RED LIPSTICK,makeup,2,1078.92,,east ,debitcard
+T01291,01-05-2026,C0280,31,Lemon,GROCERIES,5,67.44,0,east, gpay   
+T00900,11-08-2026,C0232,27,Honey Jar,Grocery ,4,601.47,0.1,Eastern,CASH
+T01877,02-02-2025,C0016,34,Nescafe Coffee,Groceries,2,680.20,0,east,Paytm
+T01649,15-11-2025,C0357,35,Potatoes,  groceries   ,5,192.36,0, E   ,U.P.I
+T00042,11-08-2026,C0459,37,Red Onions,groceries,2,170.45,0.2,Eastern,creditcard
+T01202,13-06-2025,C0150,37,Red Onions,Groceries,5,164.13,0.15,E,cod
+T01141,24-05-2025,C0144,13,,furnitures,1,26064.14,0,EAST,Upi
+T00649,08-03-2025,C0414,39,Soft Drinks,Grocery ,5,164.92,0,EAST,CREDIT CARD
+T00103,08-02-2025,c0048,28,ice cream,Groceries,1,454.76,0.1,east,phonepe
+T01411,07-10-2026,C0161,22,Dog Food,grocery,3,959.07,0.1,Eastern,DC
+T01342,18-08-2026,C0449,26,Green Chili Pepper,  Grocery ,2,₹82.53,0,E,UPI
+T01560,15-04-2026,C0325,29,Juice,Grocery ,2,344.64,0.2,EAST,CC
+T01587,19-07-2026,C0013,21,Cucumber,grocery,1,128.14,0.15,EAST,creditcard
+T00671,06-10-2027,C0388,39, Soft Drinks ,grocery,2,171.21,150,EAST,Upi
+T01607,17-01-2025,C0031,14,,furniture,1,43446.77,0,Eastern, CREDIT CARD
+T01726,06-10-2026,c0070,35,POTATOES,grocery,1,197.46,0.15,E, Upi   
+T00215,11-08-2025,C0386,19,,  grocery   ,1,874.51,0,east,Wallet
+T00444,11-01-2026,C0339,22,Dog Food,grocery,1,936.22,0.1,Eastern,upi
+T01441,13-09-2025,C0289,4,  Red Lipstick,  makeup,3,1128.75,0,,gpay
+T00431,05-07-2025,C0379,9001,smart watch x1,Electronics,1,2477.69,0.1,E,gpay
+T00120,27-04-2026,,27,Honey Jar,Grocery ,2,611.94,0,East,Paytm
+T00380,17-09-2026,C0306,22,Dog Food,GROCERIES,3,950.34,0.15,  East,Wallet
+T00371,28-03-2025,C0104,36, PROTEIN POWDER ,  groceries,2,1712.78,0,E,cod
+T00899,11-10-2025,C0387,35,Potatoes,groceries,1,200.44,0,east ,CASH
+T01140,13-06-2026,C0417,16,apple,grocery,2,173.72,0,east ,  netbanking
+T01320,19-07-2026,C0506,16,Apple,groceries,1,172.36,0,east,Cash
+T00250,09-03-2026,C0211,25,Green Bell Pepper,Groceries,3,108.93,0,E,DC
+T00571,27-08-2025,C0289,38,Rice,GROCERIES,3,508.83,0,east ,  Credit Card
+T01022,26-01-2025,C0236,31,Lemon,grocery,1,67.11,0.2,Eastern,phonepe
+T00976,29-08-2026,C0034,27,  honey jar   ,Grocery ,1,604.42,0,east,phonepe
+T00433,12-05-2026,C0451,1,Essence Mascara Lash Princess,beauty,5,874.33,150,east ,gpay
+T01251,10-07-2026,C0470,4,Red Lipstick,Cosmetics,4,1116.21,0,east,Upi
+T00884,05-09-2026,C0312,39,Soft Drinks,Grocery ,4,166.14,0.1,east ,cod
+T00626,15-10-2025,C0180,37,Red Onions,Groceries,5,166.08,0,East,  upi   
+T01696,10-10-2026,C0007,33, Mulberry ,Groceries,1,430.55,0,E,  UPI 
+T01868,23-05-2025,C0317,19,Chicken Meat,GROCERIES,5,871.69,0,east ,netbanking
+T00272,26-08-2026,C0290,5,red nail polish,makeup,1,776.67,0,EAST,U.P.I
+T01987,25-04-2026,C0323,25,Green Bell Pepper,Grocery ,3,109.71,0,EAST,Cash
+T01961,11-04-2026,C0186,29,Juice,Groceries,1,333.29,0,East,phonepe
+T00171,11-07-2025,C0316,35,Potatoes,Groceries,5,₹197.57,0.15,east,gpay
+T00514,23-10-2026,C0234,4,Red Lipstick, BEAUTY   ,1,1103.22,0,East,debitcard
+T01269,07-05-2025,C0166,33,Mulberry,Groceries,2,433.28,0.2,east,net-banking
+T01042,07-05-2026,C0108,26,GREEN CHILI PEPPER,Groceries,2,85.29,0,Eastern,Cash
+T00082,18-09-2026,C0267,32,Milk, groceries,2,292.62,0.15,  east  ,Debit Card
+T00683,01-05-2026,C0355,26,Green Chili Pepper,Grocery ,2,85.73,0,E,DC
+T01703,23-03-2026,C0220,26,green chili pepper,grocery,3,82.84,0.05,E,  Debit Card   
+T00547,20-05-2025,C0117,35,Potatoes,Groceries,1,195.00,0.1,EAST,DC
+T01573,26-10-2026,C0177,25,Green Bell Pepper,  Grocery ,2,112.48,0.05,east,cod
+T01322,24-06-2026,C0474,31,Lemon,groceries,1,65.82,0,EAST,DC
+T00893,05-08-2025,C0344,9001,  Smart Watch X1   ,Electronics,2,2527.09,0.2,east,creditcard
+T01060,20-05-2026,C0129,35,Potatoes,grocery,3,196.82,0,east,upi
+T01592,24-06-2026,C0401,4, red lipstick,Beauty,4,1101.06,0,Eastern,Upi
+T01826,10-01-2026,C0484,16,Apple,Grocery ,3,167.39,0.2,east ,cash
+T01707,21-07-2026,C0030,16,Apple,Groceries,-3,168.12,0,  East   ,Upi
+T00145,16-02-2026,CUST-??,16,Apple,grocery,3,168.69,0.05,Eastern,creditcard
+T01025,02-09-2026,C0182,31,Lemon,Groceries,1,65.92,0,EAST,netbanking
+T01825,20-09-2026,,16,APPLE,grocery,1,173.25,0.05,EAST,CREDIT CARD
+T01840,11-09-2025,C0145,1,essence mascara lash princess,beauty,2,870.01,0.15,east,CREDIT CARD
+T01400,13-08-2026,C0217,38,RICE,GROCERIES,2,512.38,0.15,EAST,credit card
+T01848,29-12-2025,C0249,7,  Chanel Coco Noir Eau De, perfume ,2,"₹10,830.95",0,east ,CASH
+T00041,10-09-2026,C0264,10,Gucci Bloom Eau de,FRAGRANCES,2,6898.52,0,E,debitcard
+T00980,01-04-2025,C0073,22,  Dog Food   ,Groceries,3,929.63,0,  east,Credit Card
+T01538,01-07-2026,C0342,39,Soft Drinks,grocery,3,167.34,0.05,  east    ,U.P.I
+T01572,25-05-2025,C0371,28,  Ice Cream   ,Groceries,2,460.69,0.2,East,credit card
+T00768,02-03-2025,c0471,39,soft drinks,Grocery ,1,165.89,0.15,EAST,Upi
+T01418,02-07-2026,C0202,16,Apple,GROCERIES,1,166.96,0,E,Cash
+T00700,08-09-2025,C0250,22,Dog Food,grocery,3,917.91,0,E,Paytm
+T01307,18-10-2025,C0144,4,Red Lipstick,Beauty,2,1106.81,0,Eastern, Upi   
+T00100,17-04-2025,C0054,3,Powder Canister,Beauty,1,1306.71,,EAST,gpay
+T01015,03-09-2025,c0253,21,Cucumber,groceries,3,123.75,0,east,credit card
+T00474,10-08-2025,c0007,4,Red Lipstick,makeup,1,1084.60,0,east,gpay
+T00915,29-12-2025,c0450,31, Lemon,Grocery ,2,67.96,0,east,gpay
+T01470,31-08-2025,C0144,16,Apple,Grocery ,1,169.94,0,EAST, Credit Card
+T01401,15-04-2025,C0089,26,Green Chili Pepper,groceries,2,85.77,0,East, Upi   
+T00137,26-03-2025,C0351,36,Protein Powder,GROCERIES,2,1700.22,0.1,east,credit card
+T00728,10-05-2025,C0067,4,Red Lipstick,Beauty,1,1105.48,0.1,  east ,creditcard
+T00044,21-07-2026,C0094,16,Apple,Groceries,3,165.24,0.1,  E   ,Debit Card
+T00686,29-08-2026,C0234,29,Juice,groceries,4,341.09,0,east,credit card
+T00498,01-11-2025,C0286,26,Green Chili Pepper,grocery,1,83.33,0, east  ,debit card
+T01759,30-07-2026,C0365,36,protein powder,GROCERIES,1,1667.17,0,Eastern,upi
+T00159,30-06-2026,C0105,39,Soft Drinks,grocery,5,164.25,0,east ,NET BANKING
+T00116,06-07-2025,C0350,,mulberry,GROCERIES,4,429.86,0.1,East,credit card
+T01553,01-03-2026,C0358,37,Red Onions,grocery,1,168.15,0,east ,UPI
+T00717,24-04-2026,c0477,33,Mulberry,  GROCERIES,5,421.64,0.05,east ,Upi
+T01808,09-10-2026,c0293,35,Potatoes,GROCERIES,1,194.85,0,E,UPI
+T01152,02-11-2025,C0193,26,Green Chili Pepper,grocery,2,86.61,0,E,Credit Card
+T00767,21-06-2026,C0496,28,ice cream,  groceries ,1,473.16,0,East,U.P.I
+T01971,11-09-2026,C0185,26,Green Chili Pepper,Grocery ,1,84.33,0,EAST,gpay
+T00381,08-08-2025,C0151,38,,groceries,3,515.58,0,east,CREDIT CARD
+T00905,25-09-2025,C0430,40,Strawberry,groceries,1,347.19,0,east ,U.P.I
+T00954,02-05-2026,C0074,3,Powder Canister,Cosmetics,5,1249.11,0,EAST,creditcard
+T00974,06-04-2026,C0352,39,Soft Drinks,groceries,5,169.69,0.05,East,CC
+T00154,18-12-2025,C0289,25,Green Bell Pepper,Groceries,4,108.90,0,EAST,wallet
+T01601,15-09-2026,c0280,40,,Grocery ,4,329.05,0,Eastern,paytm wallet
+T00524,27-01-2025,C0457,,Essence Mascara Lash Princess,beauty,1,863.63,0.1,East,cod
+T01509,yesterday,C0336,26,Green Chili Pepper,Groceries,1,83.05,0.05,EAST,  Upi
+T01594,31-12-2025,C0130,9003,Yoga Mat Pro,Sports Accessories,2,922.81,0, Eastern ,upi
+T01514,12-12-2025,C0407,36,Protein Powder,GROCERIES,2,1709.40,0.1,E,U.P.I
+T01846,22-05-2025,C0233,32,Milk,Groceries,5,293.13,0.1,east,debitcard
+T00635,27 Sep 2026,C0250,16,apple,grocery,4,170.63,0,EAST,gpay
+T01975,23-04-2026,C0321,35,Potatoes,grocery,5,199.34,0,EAST,Paytm
+T01990,17-02-2025,C0381,18,Cat Food,Groceries,3,786.48,0,east,upi
+T01979,02-01-2025,C0373,10,Gucci Bloom Eau de,perfume,2,6887.61,0,East,UPI
+T00230,21-07-2025,C0308,39,Soft Drinks,Groceries,2,168.42,0.15, EAST, U.P.I   
+T01001,31-02-2025,C0337,2,Eyeshadow Palette with Mirror,Cosmetics,1,1706.55,0,Eastern,upi
+T00685,N/A,C0356,27,honey jar,groceries,5,595.19,0.1,EAST,Debit Card
+T01154,06-05-2025,C0110,25,green bell pepper,GROCERIES,1,110.56,0,,DC
+T01558,15-07-2026,C0123,24,Fish Steak, groceries ,5,1293.72,0,EAST,upi
+T00518,02-11-2025,C0240,39,Soft Drinks,Groceries,1,170.46,0,,CASH
+T00209,11-09-2025,C0274,16,Apple,Groceries,2,170.73,0,EAST,upi
+T01275,08-05-2026,C0308,26,Green Chili Pepper,groceries,2,83.06,0.15,  E   ,netbanking
+T00076,08-04-2026,C0142,35,Potatoes,groceries,5,195.83,0,East,  DC
+T00399,28-01-2025,C0019,3,Powder Canister,beauty,1,1303.32,0,E,U.P.I
+T00756,06-11-2025,C0414,27,Honey Jar,GROCERIES,1,601.61,0.15,Eastern,gpay
+T01854,15-02-2026,C0337,27,Honey Jar,grocery,-1,578.06,0.15, Eastern,debit card
+T01138,07-03-2026,C0306,3,Powder Canister,BEAUTY,2,1240.57,0.1,  East   ,Cash
+T01389,14-10-2026,C0390,5,Red Nail Polish,Cosmetics,1,780.64,0,east,Credit Card
+T01608,18-01-2026,C0141,35,POTATOES,grocery,1,196.45,0,EAST,Upi
+T01219,10-12-2025,C0304,38,Rice,Grocery ,2,520.30,0,  East   ,U.P.I
+T01229,11-10-2026,C0304,35,Potatoes,Grocery ,3,190.38,0.2,Eastern,U.P.I
+T01683,11-09-2026,C0397,36,Protein Powder,Grocery ,1,1746.16,0,E,gpay
+T00351,11-08-2026,C0095,35,Potatoes,Groceries,2,198.38,0,east ,Upi
+T00069,29-08-2026,c0063,31,Lemon,GROCERIES,1,69.15,0,EAST,Credit Card
+T01388,14 Oct 2026,C0358,38,rice,Grocery ,1,516.07,0,Eastern,upi
+T01186,07-05-2026,C0005,1,Essence Mascara Lash Princess,Beauty,2,870.32,150,East,credit card
+T00755,02-06-2026,C0462,20,Cooking Oil,GROCERIES,3,436.05,0.15,EAST,U.P.I
+T01343,21-05-2026,C0153,4,Red Lipstick,Cosmetics,1,1075.00,0.05,east ,phonepe
+T01280,13-09-2026,C0465,26,green chili pepper,  groceries   ,1,84.23,0,E,upi
+T00844,19-09-2026,C0301,37,,Groceries,1,167.80,0,E,CASH
+T00301,26-02-2025,c0029,23,eggs,GROCERIES,4,255.26,0,east ,wallet
+T00523,05-11-2025,C0491,39,Soft Drinks,grocery,5,172.02,0,Eastern,Upi
+T00205,23-01-2025,C0427,35,Potatoes,GROCERIES,1,192.68,0,East,CASH
+T01547,23-10-2026,C0393,18,Cat Food,groceries,3,785.25,0,EAST,U.P.I
+T01301,10-01-2026,C0270,32,Milk,GROCERIES,1,289.55,0,east ,gpay
+T00206,16-03-2026,,27,HONEY JAR,groceries,3,598.06,0,Eastern,Net Banking
+T00237,07-08-2026,C0143,27,  Honey Jar,Groceries,7,598.92,0.15,east,Net Banking
+T01092,17-11-2025,C0317,39,Soft Drinks,GROCERIES,3,166.07,0,Eastern,credit card
+T00136,09-04-2025,C0476,4,Red Lipstick,  beauty ,2,1082.94,0.1,east,Cash
+T00093,16-10-2026,C0251,5,red nail polish, Beauty ,1,783.60,0,  E,CASH
+T01819,23-12-2025,C0048,34,Nescafe Coffee,Groceries,3,669.09,0.15,east,U.P.I
+T00067,03-09-2026,C0175,37,Red Onions,Grocery ,1,171.53,0.05,EAST,creditcard
+T00401,23-01-2026,C0180,4,RED LIPSTICK,beauty,1,1071.91,0,east ,paytm wallet
+T00426,24-01-2026,C0469,3,Powder Canister,beauty,1,1281.19,0.05,East,Upi
+T01393,13 Aug 2025,C0335,36,Protein Powder,Grocery ,3,1654.34,0.2,east ,CASH
+T00610,26-02-2025,C0380,28,Ice Cream, Grocery ,3,463.96,0,EAST,phonepe
+T00097,29-05-2026,c0107,38,  rice,grocery,2,495.65,0,East,Cash
+T01040,18-09-2025,c0432,33,mulberry,groceries,2,435.91,0.1,east,debitcard
+T01341,16-10-2025,C0076,16,Apple,grocery,1,171.07,0.15,east , phonepe 
+T01794,04-07-2025,C0094,1,Essence Mascara Lash Princess, makeup ,1,826.18,0.15,Eastern,UPI
+T00585,13-05-2025,C0320,31,Lemon,Groceries,4,66.73,0.1,east ,paytm wallet
+T01321,29-05-2025,C0444,38,Rice,groceries,1,514.04,0,Eastern,UPI
+T01997,30-01-2025,C0018,36,Protein Powder,Grocery ,1,1669.85,0,EAST,Credit Card
+T01977,27-01-2026,C0446,6,Calvin Klein CK One,FRAGRANCES,1,4309.01,0,Eastern,gpay
+T00355,24-04-2026,C0277,16,Apple,GROCERIES,2,170.99,0,east,Wallet
+T01421,28-10-2026,C0235,37,Red Onions,Groceries,2,166.23,0,E,U.P.I
+T00869,31-10-2026,C0207,32,Milk,GROCERIES,2,297.34,0.1,East,Paytm
+T00416,10-01-2025,C0031,26,Green Chili Pepper,groceries,3,82.98,0,East,debit card
+T01188,13-02-2026,C0140,21,Cucumber,  Grocery  ,2,125.91,0,east ,wallet
+T01959,11-07-2026,C0251,35,Potatoes,Grocery ,1,191.36,0,East,U.P.I
+T01112,18-07-2026,C0366,26,Green Chili Pepper,groceries,1,84.38,0,Eastern,CASH
+T00412,11-08-2025,C0453,5,Red Nail Polish,Cosmetics,5,₹773.89,0,EAST,debit card
+T01662,18-11-2025,,23,Eggs,GROCERIES,1,247.01,0,E,upi
+T00780,14-12-2025,C0323,1,ESSENCE MASCARA LASH PRINCESS,beauty,-4,830.32,0,E,wallet
+T01083,10-09-2025,,21,  Cucumber ,grocery,3,128.94,0.1,east ,CASH
+T01237,09-06-2025,C0260,35,  Potatoes ,Groceries,1,192.45,0.05,East,  phonepe 
+T00330,31-01-2025,C0074,38,Rice,groceries,5,520.06,0,E,CREDIT CARD
+T01066,30-10-2025,C0127,18,Cat Food,Grocery ,1,781.06,0.2,EAST,phonepe
+T01625,06-03-2025,C0335,1,Essence Mascara Lash Princess,BEAUTY,3,851.66,0,East,creditcard
+T01177,19-10-2026,C0460,1,Essence Mascara Lash Princess,BEAUTY,2,856.13,0.05,EAST,DC
+T00761,03-06-2025,C0489,5,Red Nail Polish,BEAUTY,5,770.61,0.05,EAST, gpay
+T02000,29-06-2026,C0466,16,Apple,groceries,2,170.21,0,East, Credit Card
+T01627,09-04-2025,C0505,4,Red Lipstick,BEAUTY,2,1106.24,0,Eastern,DC
+T01016,16-12-2025,c0481,11,Annibale Colombo Bed,FURNITURE,1,157960.94,0.2,East,
+T01303,00/00/0000,C0386,16,Apple,Groceries,1,167.87,0.1,E,netbanking
+T01373,09 Sep 2026,C0145,27,Honey Jar,Grocery ,1,610.83,0,east ,gpay
+T00607,24-04-2026,C0335,1,,Cosmetics,1,862.35,0,EAST,DC
+T00699,10-12-2025,C0401,39,soft drinks,Groceries,4,168.03,0, Eastern   ,cash
+T00506,17-09-2025,C0103,14,Knoll Saarinen Executive Conference Chair,furnitures,2,43142.56,0,Eastern,upi
+T01358,07-07-2025,C0224,39, Soft Drinks   ,GROCERIES,4,166.03,0.2,east,phonepe
+T01208,27-12-2025,C0452,26,GREEN CHILI PEPPER,Groceries,5,82.32,0,EAST,  upi
+T01376,09-06-2025,C0211,32,Milk,Grocery ,2,abc,0.05,E,UPI
+T00349,09 Dec 2025,C0391,35,Potatoes,Grocery ,-4,196.52,0,E,U.P.I
+T01296,30-03-2025,C0304,32,  Milk ,GROCERIES,2,289.38,0,east,CC
+T01113,16-10-2025,C0191,4,Red Lipstick,Cosmetics,2,1135.25,0.05,east,Cash
+T00976,29-08-2026,C0034,27,  honey jar   ,Grocery ,1,604.42,0,east,phonepe

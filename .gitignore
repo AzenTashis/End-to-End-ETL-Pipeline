@@ -1,12 +1,31 @@
-__pycache__/
-*.pyc
-venv/
-.venv/
+# Secrets: never commit these
 .env
-airflow/
-logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
 .pytest_cache/
+*.egg-info/
+
+# Pipeline outputs (re-created on every run)
+data/raw/*
 data/processed/*
+data/rejected/*
+!data/raw/.gitkeep
 !data/processed/.gitkeep
-.idea/
+!data/rejected/.gitkeep
+reports/*
+!reports/.gitkeep
+logs/*
+!logs/.gitkeep
+analytics/output/*.csv
+
+docs/*.md
+
+# Editors / OS
 .vscode/
+.idea/
+.DS_Store
+Thumbs.db
